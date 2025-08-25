@@ -1,0 +1,381 @@
+fixture_id,season,date,match_day,referee,home_team,away_team,home_goals,away_goals,home_results,away_results
+17696,2016/17,2016-08-13 11:30:00+00:00,1,"Mike Dean, England",Hull City,Leicester,2,1,W,L
+17695,2016/17,2016-08-13 14:00:00+00:00,1,"Roger East, England",Southampton,Watford,1,1,D,D
+17691,2016/17,2016-08-13 14:00:00+00:00,1,"Jonathan Moss, England",Burnley,Swansea,0,1,L,W
+17693,2016/17,2016-08-13 14:00:00+00:00,1,"Martin Atkinson, England",Everton,Tottenham,1,1,D,D
+17692,2016/17,2016-08-13 14:00:00+00:00,1,"Craig Pawson, England",Crystal Palace,West Brom,0,1,L,W
+17694,2016/17,2016-08-13 14:00:00+00:00,1,"Kevin Friend, England",Middlesbrough,Stoke City,1,1,D,D
+17690,2016/17,2016-08-13 16:30:00+00:00,1,"Robert Madley, England",Manchester City,Sunderland,2,1,W,L
+17689,2016/17,2016-08-14 12:30:00+00:00,1,"Andre Marriner, England",Bournemouth,Manchester United,1,3,L,W
+17688,2016/17,2016-08-14 15:00:00+00:00,1,"Michael Oliver, England",Arsenal,Liverpool,3,4,L,W
+17687,2016/17,2016-08-15 19:00:00+00:00,1,"Anthony Taylor, England",Chelsea,West Ham,2,1,W,L
+17686,2016/17,2016-08-19 19:00:00+00:00,2,"Anthony Taylor, England",Manchester United,Southampton,2,0,W,L
+17685,2016/17,2016-08-20 11:30:00+00:00,2,"Mike Dean, England",Stoke City,Manchester City,1,4,L,W
+17683,2016/17,2016-08-20 14:00:00+00:00,2,"Jonathan Moss, England",Watford,Chelsea,1,2,L,W
+17680,2016/17,2016-08-20 14:00:00+00:00,2,"Lee Mason, England",Burnley,Liverpool,2,0,W,L
+17682,2016/17,2016-08-20 14:00:00+00:00,2,"Michael Oliver, England",Tottenham,Crystal Palace,1,0,W,L
+17684,2016/17,2016-08-20 14:00:00+00:00,2,"Neil Swarbrick, England",West Brom,Everton,1,2,L,W
+17681,2016/17,2016-08-20 14:00:00+00:00,2,"Stuart Attwell, England",Swansea,Hull City,0,2,L,W
+17679,2016/17,2016-08-20 16:30:00+00:00,2,"Mark Clattenburg, England",Leicester,Arsenal,0,0,D,D
+17678,2016/17,2016-08-21 12:30:00+00:00,2,"Martin Atkinson, England",Sunderland,Middlesbrough,1,2,L,W
+17677,2016/17,2016-08-21 15:00:00+00:00,2,"Craig Pawson, England",West Ham,Bournemouth,1,0,W,L
+17676,2016/17,2016-08-27 11:30:00+00:00,3,"Robert Madley, England",Tottenham,Liverpool,1,1,D,D
+17672,2016/17,2016-08-27 14:00:00+00:00,3,"Michael Oliver, England",Everton,Stoke City,1,0,W,L
+17675,2016/17,2016-08-27 14:00:00+00:00,3,"Kevin Friend, England",Watford,Arsenal,1,3,L,W
+17674,2016/17,2016-08-27 14:00:00+00:00,3,"Lee Mason, England",Southampton,Sunderland,1,1,D,D
+17670,2016/17,2016-08-27 14:00:00+00:00,3,"Mark Clattenburg, England",Chelsea,Burnley,3,0,W,L
+17671,2016/17,2016-08-27 14:00:00+00:00,3,"Mike Dean, England",Crystal Palace,Bournemouth,1,1,D,D
+17673,2016/17,2016-08-27 14:00:00+00:00,3,"Roger East, England",Leicester,Swansea,2,1,W,L
+17669,2016/17,2016-08-27 16:30:00+00:00,3,"Jonathan Moss, England",Hull City,Manchester United,0,1,L,W
+17668,2016/17,2016-08-28 12:30:00+00:00,3,"Anthony Taylor, England",West Brom,Middlesbrough,0,0,D,D
+17667,2016/17,2016-08-28 15:00:00+00:00,3,"Andre Marriner, England",Manchester City,West Ham,3,1,W,L
+17666,2016/17,2016-09-10 11:30:00+00:00,4,"Mark Clattenburg, England",Manchester United,Manchester City,1,2,L,W
+17660,2016/17,2016-09-10 14:00:00+00:00,4,"Robert Madley, England",Arsenal,Southampton,2,1,W,L
+17661,2016/17,2016-09-10 14:00:00+00:00,4,"Kevin Friend, England",Bournemouth,West Brom,1,0,W,L
+17662,2016/17,2016-09-10 14:00:00+00:00,4,"Paul Tierney, England",Burnley,Hull City,1,1,D,D
+17665,2016/17,2016-09-10 14:00:00+00:00,4,"Martin Atkinson, England",West Ham,Watford,2,4,L,W
+17664,2016/17,2016-09-10 14:00:00+00:00,4,"Anthony Taylor, England",Stoke City,Tottenham,0,4,L,W
+17663,2016/17,2016-09-10 14:00:00+00:00,4,"Neil Swarbrick, England",Middlesbrough,Crystal Palace,1,2,L,W
+17659,2016/17,2016-09-10 16:30:00+00:00,4,"Craig Pawson, England",Liverpool,Leicester,4,1,W,L
+17658,2016/17,2016-09-11 15:00:00+00:00,4,"Andre Marriner, England",Swansea,Chelsea,2,2,D,D
+17657,2016/17,2016-09-12 19:00:00+00:00,4,"Mike Jones, England",Sunderland,Everton,0,3,L,W
+17656,2016/17,2016-09-16 19:00:00+00:00,5,"Martin Atkinson, England",Chelsea,Liverpool,1,2,L,W
+17653,2016/17,2016-09-17 14:00:00+00:00,5,"Anthony Taylor, England",Leicester,Burnley,3,0,W,L
+17654,2016/17,2016-09-17 14:00:00+00:00,5,"Jonathan Moss, England",Manchester City,Bournemouth,4,0,W,L
+17655,2016/17,2016-09-17 14:00:00+00:00,5,"Mark Clattenburg, England",West Brom,West Ham,4,2,W,L
+17652,2016/17,2016-09-17 14:00:00+00:00,5,"Roger East, England",Hull City,Arsenal,1,4,L,W
+17651,2016/17,2016-09-17 16:30:00+00:00,5,"Lee Mason, England",Everton,Middlesbrough,3,1,W,L
+17650,2016/17,2016-09-18 11:00:00+00:00,5,"Michael Oliver, England",Watford,Manchester United,3,1,W,L
+17649,2016/17,2016-09-18 13:15:00+00:00,5,"Mike Jones, England",Southampton,Swansea,1,0,W,L
+17648,2016/17,2016-09-18 13:15:00+00:00,5,"Craig Pawson, England",Crystal Palace,Stoke City,4,1,W,L
+17647,2016/17,2016-09-18 15:30:00+00:00,5,"Mike Dean, England",Tottenham,Sunderland,1,0,W,L
+17646,2016/17,2016-09-24 11:30:00+00:00,6,"Mike Dean, England",Manchester United,Leicester,4,1,W,L
+17640,2016/17,2016-09-24 14:00:00+00:00,6,"Robert Madley, England",Bournemouth,Everton,1,0,W,L
+17641,2016/17,2016-09-24 14:00:00+00:00,6,"Andre Marriner, England",Liverpool,Hull City,5,1,W,L
+17642,2016/17,2016-09-24 14:00:00+00:00,6,"Graham Scott, England",Middlesbrough,Tottenham,1,2,L,W
+17643,2016/17,2016-09-24 14:00:00+00:00,6,"Martin Atkinson, England",Stoke City,West Brom,1,1,D,D
+17645,2016/17,2016-09-24 14:00:00+00:00,6,"Neil Swarbrick, England",Swansea,Manchester City,1,3,L,W
+17644,2016/17,2016-09-24 14:00:00+00:00,6,"Anthony Taylor, England",Sunderland,Crystal Palace,2,3,L,W
+17639,2016/17,2016-09-24 16:30:00+00:00,6,"Michael Oliver, England",Arsenal,Chelsea,3,0,W,L
+17638,2016/17,2016-09-25 15:00:00+00:00,6,"Jonathan Moss, England",West Ham,Southampton,0,3,L,W
+17637,2016/17,2016-09-26 19:00:00+00:00,6,"Mike Jones, England",Burnley,Watford,2,0,W,L
+17636,2016/17,2016-09-30 19:00:00+00:00,7,"Jonathan Moss, England",Everton,Crystal Palace,1,1,D,D
+17635,2016/17,2016-10-01 11:30:00+00:00,7,"Michael Oliver, England",Swansea,Liverpool,1,2,L,W
+17633,2016/17,2016-10-01 14:00:00+00:00,7,"Mike Dean, England",Watford,Bournemouth,2,2,D,D
+17634,2016/17,2016-10-01 14:00:00+00:00,7,"Neil Swarbrick, England",West Ham,Middlesbrough,1,1,D,D
+17631,2016/17,2016-10-01 14:00:00+00:00,7,"Anthony Taylor, England",Hull City,Chelsea,0,2,L,W
+17632,2016/17,2016-10-01 14:00:00+00:00,7,"Stuart Attwell, England",Sunderland,West Brom,1,1,D,D
+17630,2016/17,2016-10-02 11:00:00+00:00,7,"Robert Madley, England",Manchester United,Stoke City,1,1,D,D
+17628,2016/17,2016-10-02 13:15:00+00:00,7,"Martin Atkinson, England",Leicester,Southampton,0,0,D,D
+17629,2016/17,2016-10-02 13:15:00+00:00,7,"Andre Marriner, England",Tottenham,Manchester City,2,0,W,L
+17627,2016/17,2016-10-02 15:30:00+00:00,7,"Craig Pawson, England",Burnley,Arsenal,0,1,L,W
+17626,2016/17,2016-10-15 11:30:00+00:00,8,"Andre Marriner, England",Chelsea,Leicester,3,0,W,L
+17622,2016/17,2016-10-15 14:00:00+00:00,8,"Lee Mason, England",Bournemouth,Hull City,6,1,W,L
+17621,2016/17,2016-10-15 14:00:00+00:00,8,"Jonathan Moss, England",Arsenal,Swansea,3,2,W,L
+17623,2016/17,2016-10-15 14:00:00+00:00,8,"Michael Oliver, England",Manchester City,Everton,1,1,D,D
+17625,2016/17,2016-10-15 14:00:00+00:00,8,"Kevin Friend, England",West Brom,Tottenham,1,1,D,D
+17624,2016/17,2016-10-15 14:00:00+00:00,8,"Mike Jones, England",Stoke City,Sunderland,2,0,W,L
+17620,2016/17,2016-10-15 16:30:00+00:00,8,"Martin Atkinson, England",Crystal Palace,West Ham,0,1,L,W
+17619,2016/17,2016-10-16 12:30:00+00:00,8,"Roger East, England",Middlesbrough,Watford,0,1,L,W
+17618,2016/17,2016-10-16 15:00:00+00:00,8,"Mike Dean, England",Southampton,Burnley,3,1,W,L
+17617,2016/17,2016-10-17 19:00:00+00:00,8,"Anthony Taylor, England",Liverpool,Manchester United,0,0,D,D
+17616,2016/17,2016-10-22 11:30:00+00:00,9,"Craig Pawson, England",Bournemouth,Tottenham,0,0,D,D
+17613,2016/17,2016-10-22 14:00:00+00:00,9,"Michael Oliver, England",Leicester,Crystal Palace,3,1,W,L
+17611,2016/17,2016-10-22 14:00:00+00:00,9,"Mike Jones, England",Burnley,Everton,2,1,W,L
+17610,2016/17,2016-10-22 14:00:00+00:00,9,"Mike Dean, England",Arsenal,Middlesbrough,0,0,D,D
+17614,2016/17,2016-10-22 14:00:00+00:00,9,"Paul Tierney, England",Swansea,Watford,0,0,D,D
+17612,2016/17,2016-10-22 14:00:00+00:00,9,"Kevin Friend, England",Hull City,Stoke City,0,2,L,W
+17615,2016/17,2016-10-22 14:00:00+00:00,9,"Robert Madley, England",West Ham,Sunderland,1,0,W,L
+17609,2016/17,2016-10-22 16:30:00+00:00,9,"Neil Swarbrick, England",Liverpool,West Brom,2,1,W,L
+17608,2016/17,2016-10-23 12:30:00+00:00,9,"Mark Clattenburg, England",Manchester City,Southampton,1,1,D,D
+17607,2016/17,2016-10-23 15:00:00+00:00,9,"Martin Atkinson, England",Chelsea,Manchester United,4,0,W,L
+17606,2016/17,2016-10-29 11:30:00+00:00,10,"Martin Atkinson, England",Sunderland,Arsenal,1,4,L,W
+17604,2016/17,2016-10-29 14:00:00+00:00,10,"Jonathan Moss, England",Watford,Hull City,1,0,W,L
+17605,2016/17,2016-10-29 14:00:00+00:00,10,"Lee Mason, England",West Brom,Manchester City,0,4,L,W
+17601,2016/17,2016-10-29 14:00:00+00:00,10,"Mark Clattenburg, England",Manchester United,Burnley,0,0,D,D
+17602,2016/17,2016-10-29 14:00:00+00:00,10,"Stuart Attwell, England",Middlesbrough,Bournemouth,2,0,W,L
+17603,2016/17,2016-10-29 14:00:00+00:00,10,"Robert Madley, England",Tottenham,Leicester,1,1,D,D
+17600,2016/17,2016-10-29 16:30:00+00:00,10,"Andre Marriner, England",Crystal Palace,Liverpool,2,4,L,W
+17599,2016/17,2016-10-30 13:30:00+00:00,10,"Anthony Taylor, England",Everton,West Ham,2,0,W,L
+17598,2016/17,2016-10-30 16:00:00+00:00,10,"Mike Jones, England",Southampton,Chelsea,0,2,L,W
+17597,2016/17,2016-10-31 20:00:00+00:00,10,"Michael Oliver, England",Stoke City,Swansea,3,1,W,L
+17596,2016/17,2016-11-05 15:00:00+00:00,11,"Andre Marriner, England",West Ham,Stoke City,1,1,D,D
+17595,2016/17,2016-11-05 15:00:00+00:00,11,"Kevin Friend, England",Manchester City,Middlesbrough,1,1,D,D
+17593,2016/17,2016-11-05 15:00:00+00:00,11,"Mike Dean, England",Bournemouth,Sunderland,1,2,L,W
+17594,2016/17,2016-11-05 15:00:00+00:00,11,"Anthony Taylor, England",Burnley,Crystal Palace,3,2,W,L
+17592,2016/17,2016-11-05 17:30:00+00:00,11,"Robert Madley, England",Chelsea,Everton,5,0,W,L
+17591,2016/17,2016-11-06 12:00:00+00:00,11,"Mark Clattenburg, England",Arsenal,Tottenham,1,1,D,D
+17590,2016/17,2016-11-06 14:15:00+00:00,11,"Michael Oliver, England",Liverpool,Watford,6,1,W,L
+17589,2016/17,2016-11-06 14:15:00+00:00,11,"Graham Scott, England",Hull City,Southampton,2,1,W,L
+17588,2016/17,2016-11-06 15:00:00+00:00,11,"Neil Swarbrick, England",Swansea,Manchester United,1,3,L,W
+17587,2016/17,2016-11-06 16:30:00+00:00,11,"Craig Pawson, England",Leicester,West Brom,1,2,L,W
+17586,2016/17,2016-11-19 12:30:00+00:00,12,"Andre Marriner, England",Manchester United,Arsenal,1,1,D,D
+17585,2016/17,2016-11-19 15:00:00+00:00,12,"Neil Swarbrick, England",Watford,Leicester,2,1,W,L
+17582,2016/17,2016-11-19 15:00:00+00:00,12,"Mark Clattenburg, England",Southampton,Liverpool,0,0,D,D
+17581,2016/17,2016-11-19 15:00:00+00:00,12,"Martin Atkinson, England",Everton,Swansea,1,1,D,D
+17580,2016/17,2016-11-19 15:00:00+00:00,12,"Robert Madley, England",Crystal Palace,Manchester City,1,2,L,W
+17583,2016/17,2016-11-19 15:00:00+00:00,12,"Roger East, England",Stoke City,Bournemouth,0,1,L,W
+17584,2016/17,2016-11-19 15:00:00+00:00,12,"Lee Mason, England",Sunderland,Hull City,3,0,W,L
+17579,2016/17,2016-11-19 17:30:00+00:00,12,"Mike Dean, England",Tottenham,West Ham,3,2,W,L
+17578,2016/17,2016-11-20 16:00:00+00:00,12,"Jonathan Moss, England",Middlesbrough,Chelsea,0,1,L,W
+17577,2016/17,2016-11-21 20:00:00+00:00,12,"Mike Jones, England",West Brom,Burnley,4,0,W,L
+17576,2016/17,2016-11-26 12:30:00+00:00,13,"Andre Marriner, England",Burnley,Manchester City,1,2,L,W
+17574,2016/17,2016-11-26 15:00:00+00:00,13,"Anthony Taylor, England",Liverpool,Sunderland,2,0,W,L
+17573,2016/17,2016-11-26 15:00:00+00:00,13,"Lee Mason, England",Leicester,Middlesbrough,2,2,D,D
+17572,2016/17,2016-11-26 15:00:00+00:00,13,"Paul Tierney, England",Hull City,West Brom,1,1,D,D
+17575,2016/17,2016-11-26 15:00:00+00:00,13,"Kevin Friend, England",Swansea,Crystal Palace,5,4,W,L
+17571,2016/17,2016-11-26 17:30:00+00:00,13,"Michael Oliver, England",Chelsea,Tottenham,2,1,W,L
+17570,2016/17,2016-11-27 12:00:00+00:00,13,"Martin Atkinson, England",Watford,Stoke City,0,1,L,W
+17569,2016/17,2016-11-27 14:15:00+00:00,13,"Mike Jones, England",Arsenal,Bournemouth,3,1,W,L
+17567,2016/17,2016-11-27 16:30:00+00:00,13,"Jonathan Moss, England",Manchester United,West Ham,1,1,D,D
+17568,2016/17,2016-11-27 16:30:00+00:00,13,"Craig Pawson, England",Southampton,Everton,1,0,W,L
+17566,2016/17,2016-12-03 12:30:00+00:00,14,"Anthony Taylor, England",Manchester City,Chelsea,1,3,L,W
+17564,2016/17,2016-12-03 15:00:00+00:00,14,"Jonathan Moss, England",Tottenham,Swansea,5,0,W,L
+17561,2016/17,2016-12-03 15:00:00+00:00,14,"Neil Swarbrick, England",Crystal Palace,Southampton,3,0,W,L
+17565,2016/17,2016-12-03 15:00:00+00:00,14,"Graham Scott, England",West Brom,Watford,3,1,W,L
+17562,2016/17,2016-12-03 15:00:00+00:00,14,"Mark Clattenburg, England",Stoke City,Burnley,2,0,W,L
+17563,2016/17,2016-12-03 15:00:00+00:00,14,"Andre Marriner, England",Sunderland,Leicester,2,1,W,L
+17560,2016/17,2016-12-03 17:30:00+00:00,14,"Craig Pawson, England",West Ham,Arsenal,1,5,L,W
+17559,2016/17,2016-12-04 13:30:00+00:00,14,"Robert Madley, England",Bournemouth,Liverpool,4,3,W,L
+17558,2016/17,2016-12-04 16:00:00+00:00,14,"Michael Oliver, England",Everton,Manchester United,1,1,D,D
+17557,2016/17,2016-12-05 20:00:00+00:00,14,"Mike Dean, England",Middlesbrough,Hull City,1,0,W,L
+17556,2016/17,2016-12-10 12:30:00+00:00,15,"Anthony Taylor, England",Watford,Everton,3,2,W,L
+17553,2016/17,2016-12-10 15:00:00+00:00,15,"Martin Atkinson, England",Burnley,Bournemouth,3,2,W,L
+17552,2016/17,2016-12-10 15:00:00+00:00,15,"Lee Mason, England",Arsenal,Stoke City,3,1,W,L
+17555,2016/17,2016-12-10 15:00:00+00:00,15,"Craig Pawson, England",Swansea,Sunderland,3,0,W,L
+17554,2016/17,2016-12-10 15:00:00+00:00,15,"Mike Jones, England",Hull City,Crystal Palace,3,3,D,D
+17551,2016/17,2016-12-10 17:30:00+00:00,15,"Michael Oliver, England",Leicester,Manchester City,4,2,W,L
+17550,2016/17,2016-12-11 12:00:00+00:00,15,"Mike Dean, England",Chelsea,West Brom,1,0,W,L
+17548,2016/17,2016-12-11 14:15:00+00:00,15,"Robert Madley, England",Manchester United,Tottenham,1,0,W,L
+17549,2016/17,2016-12-11 14:15:00+00:00,15,"Stuart Attwell, England",Southampton,Middlesbrough,1,0,W,L
+17547,2016/17,2016-12-11 16:30:00+00:00,15,"Mark Clattenburg, England",Liverpool,West Ham,2,2,D,D
+17545,2016/17,2016-12-13 19:45:00+00:00,16,"Paul Tierney, England",Bournemouth,Leicester,1,0,W,L
+17546,2016/17,2016-12-13 19:45:00+00:00,16,"Mark Clattenburg, England",Everton,Arsenal,2,1,W,L
+17542,2016/17,2016-12-14 19:45:00+00:00,16,"Jonathan Moss, England",Middlesbrough,Liverpool,0,3,L,W
+17543,2016/17,2016-12-14 19:45:00+00:00,16,"Neil Swarbrick, England",Sunderland,Chelsea,0,1,L,W
+17544,2016/17,2016-12-14 19:45:00+00:00,16,"Robert Madley, England",West Ham,Burnley,1,0,W,L
+17540,2016/17,2016-12-14 20:00:00+00:00,16,"Andre Marriner, England",Tottenham,Hull City,3,0,W,L
+17538,2016/17,2016-12-14 20:00:00+00:00,16,"Kevin Friend, England",Manchester City,Watford,2,0,W,L
+17537,2016/17,2016-12-14 20:00:00+00:00,16,"Craig Pawson, England",Crystal Palace,Manchester United,1,2,L,W
+17541,2016/17,2016-12-14 20:00:00+00:00,16,"Michael Oliver, England",West Brom,Swansea,3,1,W,L
+17539,2016/17,2016-12-14 20:00:00+00:00,16,"Anthony Taylor, England",Stoke City,Southampton,0,0,D,D
+17536,2016/17,2016-12-17 12:30:00+00:00,17,"Jonathan Moss, England",Crystal Palace,Chelsea,0,1,L,W
+17533,2016/17,2016-12-17 15:00:00+00:00,17,"Craig Pawson, England",Stoke City,Leicester,2,2,D,D
+17535,2016/17,2016-12-17 15:00:00+00:00,17,"Lee Mason, England",West Ham,Hull City,1,0,W,L
+17532,2016/17,2016-12-17 15:00:00+00:00,17,"Neil Swarbrick, England",Middlesbrough,Swansea,3,0,W,L
+17534,2016/17,2016-12-17 15:00:00+00:00,17,"Robert Madley, England",Sunderland,Watford,1,0,W,L
+17531,2016/17,2016-12-17 17:30:00+00:00,17,"Anthony Taylor, England",West Brom,Manchester United,0,2,L,W
+17530,2016/17,2016-12-18 13:30:00+00:00,17,"Mark Clattenburg, England",Bournemouth,Southampton,1,3,L,W
+17529,2016/17,2016-12-18 16:00:00+00:00,17,"Kevin Friend, England",Tottenham,Burnley,2,1,W,L
+17528,2016/17,2016-12-18 16:00:00+00:00,17,"Martin Atkinson, England",Manchester City,Arsenal,2,1,W,L
+17527,2016/17,2016-12-19 20:00:00+00:00,17,"Mike Dean, England",Everton,Liverpool,0,1,L,W
+17526,2016/17,2016-12-26 12:30:00+00:00,18,"Mark Clattenburg, England",Watford,Crystal Palace,1,1,D,D
+17521,2016/17,2016-12-26 15:00:00+00:00,18,"Craig Pawson, England",Burnley,Middlesbrough,1,0,W,L
+17524,2016/17,2016-12-26 15:00:00+00:00,18,"Martin Atkinson, England",Manchester United,Sunderland,3,1,W,L
+17520,2016/17,2016-12-26 15:00:00+00:00,18,"Neil Swarbrick, England",Arsenal,West Brom,1,0,W,L
+17522,2016/17,2016-12-26 15:00:00+00:00,18,"Mike Jones, England",Chelsea,Bournemouth,3,0,W,L
+17525,2016/17,2016-12-26 15:00:00+00:00,18,"Andre Marriner, England",Swansea,West Ham,1,4,L,W
+17523,2016/17,2016-12-26 15:00:00+00:00,18,"Stuart Attwell, England",Leicester,Everton,0,2,L,W
+17519,2016/17,2016-12-26 17:15:00+00:00,18,"Robert Madley, England",Hull City,Manchester City,0,3,L,W
+17518,2016/17,2016-12-27 17:15:00+00:00,18,"Michael Oliver, England",Liverpool,Stoke City,4,1,W,L
+17517,2016/17,2016-12-28 19:45:00+00:00,18,"Mike Dean, England",Southampton,Tottenham,1,4,L,W
+17516,2016/17,2016-12-30 20:00:00+00:00,19,"Jonathan Moss, England",Hull City,Everton,2,2,D,D
+17513,2016/17,2016-12-31 15:00:00+00:00,19,"Lee Mason, England",Manchester United,Middlesbrough,2,1,W,L
+17511,2016/17,2016-12-31 15:00:00+00:00,19,"Robert Madley, England",Chelsea,Stoke City,4,2,W,L
+17514,2016/17,2016-12-31 15:00:00+00:00,19,"Mike Jones, England",Southampton,West Brom,1,2,L,W
+17512,2016/17,2016-12-31 15:00:00+00:00,19,"Anthony Taylor, England",Leicester,West Ham,1,0,W,L
+17510,2016/17,2016-12-31 15:00:00+00:00,19,"Graham Scott, England",Burnley,Sunderland,4,1,W,L
+17515,2016/17,2016-12-31 15:00:00+00:00,19,"Kevin Friend, England",Swansea,Bournemouth,0,3,L,W
+17509,2016/17,2016-12-31 17:30:00+00:00,19,"Craig Pawson, England",Liverpool,Manchester City,1,0,W,L
+17508,2016/17,2017-01-01 13:30:00+00:00,19,"Michael Oliver, England",Watford,Tottenham,1,4,L,W
+17507,2016/17,2017-01-01 16:00:00+00:00,19,"Andre Marriner, England",Arsenal,Crystal Palace,2,0,W,L
+17506,2016/17,2017-01-02 12:30:00+00:00,20,"Robert Madley, England",Middlesbrough,Leicester,0,0,D,D
+17502,2016/17,2017-01-02 15:00:00+00:00,20,"Kevin Friend, England",Everton,Southampton,3,0,W,L
+17503,2016/17,2017-01-02 15:00:00+00:00,20,"Lee Mason, England",Manchester City,Burnley,2,1,W,L
+17505,2016/17,2017-01-02 15:00:00+00:00,20,"Mark Clattenburg, England",West Brom,Hull City,3,1,W,L
+17504,2016/17,2017-01-02 15:00:00+00:00,20,"Anthony Taylor, England",Sunderland,Liverpool,2,2,D,D
+17501,2016/17,2017-01-02 17:15:00+00:00,20,"Mike Dean, England",West Ham,Manchester United,0,2,L,W
+17500,2016/17,2017-01-03 19:45:00+00:00,20,"Michael Oliver, England",Bournemouth,Arsenal,3,3,D,D
+17498,2016/17,2017-01-03 20:00:00+00:00,20,"Paul Tierney, England",Crystal Palace,Swansea,1,2,L,W
+17499,2016/17,2017-01-03 20:00:00+00:00,20,"Neil Swarbrick, England",Stoke City,Watford,2,0,W,L
+17497,2016/17,2017-01-04 20:00:00+00:00,20,"Martin Atkinson, England",Tottenham,Chelsea,2,0,W,L
+17496,2016/17,2017-01-14 12:30:00+00:00,21,"Anthony Taylor, England",Tottenham,West Brom,4,0,W,L
+17495,2016/17,2017-01-14 15:00:00+00:00,21,"Neil Swarbrick, England",West Ham,Crystal Palace,3,0,W,L
+17490,2016/17,2017-01-14 15:00:00+00:00,21,"Paul Tierney, England",Burnley,Southampton,1,0,W,L
+17494,2016/17,2017-01-14 15:00:00+00:00,21,"Jonathan Moss, England",Watford,Middlesbrough,0,0,D,D
+17492,2016/17,2017-01-14 15:00:00+00:00,21,"Mike Dean, England",Sunderland,Stoke City,1,3,L,W
+17493,2016/17,2017-01-14 15:00:00+00:00,21,"Mike Jones, England",Swansea,Arsenal,0,4,L,W
+17491,2016/17,2017-01-14 15:00:00+00:00,21,"Martin Atkinson, England",Hull City,Bournemouth,3,1,W,L
+17489,2016/17,2017-01-14 17:30:00+00:00,21,"Andre Marriner, England",Leicester,Chelsea,0,3,L,W
+17488,2016/17,2017-01-15 13:30:00+00:00,21,"Mark Clattenburg, England",Everton,Manchester City,4,0,W,L
+17487,2016/17,2017-01-15 16:00:00+00:00,21,"Michael Oliver, England",Manchester United,Liverpool,1,1,D,D
+17486,2016/17,2017-01-21 12:30:00+00:00,22,"Kevin Friend, England",Liverpool,Swansea,2,3,L,W
+17481,2016/17,2017-01-21 15:00:00+00:00,22,"Lee Mason, England",Bournemouth,Watford,2,2,D,D
+17482,2016/17,2017-01-21 15:00:00+00:00,22,"Anthony Taylor, England",Crystal Palace,Everton,0,1,L,W
+17485,2016/17,2017-01-21 15:00:00+00:00,22,"Craig Pawson, England",West Brom,Sunderland,2,0,W,L
+17483,2016/17,2017-01-21 15:00:00+00:00,22,"Martin Atkinson, England",Middlesbrough,West Ham,1,3,L,W
+17484,2016/17,2017-01-21 15:00:00+00:00,22,"Mark Clattenburg, England",Stoke City,Manchester United,1,1,D,D
+17480,2016/17,2017-01-21 17:30:00+00:00,22,"Andre Marriner, England",Manchester City,Tottenham,2,2,D,D
+17479,2016/17,2017-01-22 12:00:00+00:00,22,"Michael Oliver, England",Southampton,Leicester,3,0,W,L
+17478,2016/17,2017-01-22 14:15:00+00:00,22,"Jonathan Moss, England",Arsenal,Burnley,2,1,W,L
+17477,2016/17,2017-01-22 16:30:00+00:00,22,"Neil Swarbrick, England",Chelsea,Hull City,2,0,W,L
+17472,2016/17,2017-01-31 19:45:00+00:00,23,"Jonathan Moss, England",Bournemouth,Crystal Palace,0,2,L,W
+17471,2016/17,2017-01-31 19:45:00+00:00,23,"Andre Marriner, England",Arsenal,Watford,1,2,L,W
+17473,2016/17,2017-01-31 19:45:00+00:00,23,"Mike Dean, England",Burnley,Leicester,1,0,W,L
+17474,2016/17,2017-01-31 19:45:00+00:00,23,"Stuart Attwell, England",Middlesbrough,West Brom,1,1,D,D
+17476,2016/17,2017-01-31 19:45:00+00:00,23,"Roger East, England",Swansea,Southampton,2,1,W,L
+17475,2016/17,2017-01-31 19:45:00+00:00,23,"Lee Mason, England",Sunderland,Tottenham,0,0,D,D
+17470,2016/17,2017-01-31 20:00:00+00:00,23,"Mark Clattenburg, England",Liverpool,Chelsea,1,1,D,D
+17469,2016/17,2017-02-01 19:45:00+00:00,23,"Kevin Friend, England",West Ham,Manchester City,0,4,L,W
+17467,2016/17,2017-02-01 20:00:00+00:00,23,"Mike Jones, England",Manchester United,Hull City,0,0,D,D
+17468,2016/17,2017-02-01 20:00:00+00:00,23,"Craig Pawson, England",Stoke City,Everton,1,1,D,D
+17466,2016/17,2017-02-04 12:30:00+00:00,24,"Martin Atkinson, England",Chelsea,Arsenal,3,1,W,L
+17465,2016/17,2017-02-04 15:00:00+00:00,24,"Kevin Friend, England",West Brom,Stoke City,1,0,W,L
+17462,2016/17,2017-02-04 15:00:00+00:00,24,"Jonathan Moss, England",Hull City,Liverpool,2,0,W,L
+17464,2016/17,2017-02-04 15:00:00+00:00,24,"Michael Oliver, England",Watford,Burnley,2,1,W,L
+17463,2016/17,2017-02-04 15:00:00+00:00,24,"Graham Scott, England",Southampton,West Ham,1,3,L,W
+17461,2016/17,2017-02-04 15:00:00+00:00,24,"Mike Jones, England",Everton,Bournemouth,6,3,W,L
+17460,2016/17,2017-02-04 15:00:00+00:00,24,"Andre Marriner, England",Crystal Palace,Sunderland,0,4,L,W
+17459,2016/17,2017-02-04 17:30:00+00:00,24,"Mark Clattenburg, England",Tottenham,Middlesbrough,1,0,W,L
+17458,2016/17,2017-02-05 13:30:00+00:00,24,"Mike Dean, England",Manchester City,Swansea,2,1,W,L
+17457,2016/17,2017-02-05 16:00:00+00:00,24,"Anthony Taylor, England",Leicester,Manchester United,0,3,L,W
+17456,2016/17,2017-02-11 12:30:00+00:00,25,"Mark Clattenburg, England",Arsenal,Hull City,2,0,W,L
+17451,2016/17,2017-02-11 15:00:00+00:00,25,"Robert Madley, England",Manchester United,Watford,2,0,W,L
+17455,2016/17,2017-02-11 15:00:00+00:00,25,"Michael Oliver, England",West Ham,West Brom,2,2,D,D
+17452,2016/17,2017-02-11 15:00:00+00:00,25,"Mike Dean, England",Middlesbrough,Everton,0,0,D,D
+17453,2016/17,2017-02-11 15:00:00+00:00,25,"Martin Atkinson, England",Stoke City,Crystal Palace,1,0,W,L
+17454,2016/17,2017-02-11 15:00:00+00:00,25,"Paul Tierney, England",Sunderland,Southampton,0,4,L,W
+17450,2016/17,2017-02-11 17:30:00+00:00,25,"Anthony Taylor, England",Liverpool,Tottenham,2,0,W,L
+17449,2016/17,2017-02-12 13:30:00+00:00,25,"Kevin Friend, England",Burnley,Chelsea,1,1,D,D
+17448,2016/17,2017-02-12 16:00:00+00:00,25,"Jonathan Moss, England",Swansea,Leicester,2,0,W,L
+17447,2016/17,2017-02-13 20:00:00+00:00,25,"Neil Swarbrick, England",Bournemouth,Manchester City,0,2,L,W
+17444,2016/17,2017-02-25 15:00:00+00:00,26,"Stuart Attwell, England",Everton,Sunderland,2,0,W,L
+17442,2016/17,2017-02-25 15:00:00+00:00,26,"Neil Swarbrick, England",Chelsea,Swansea,3,1,W,L
+17443,2016/17,2017-02-25 15:00:00+00:00,26,"Robert Madley, England",Crystal Palace,Middlesbrough,1,0,W,L
+17446,2016/17,2017-02-25 15:00:00+00:00,26,"Mark Clattenburg, England",West Brom,Bournemouth,2,1,W,L
+17445,2016/17,2017-02-25 15:00:00+00:00,26,"Martin Atkinson, England",Hull City,Burnley,1,1,D,D
+17441,2016/17,2017-02-25 17:30:00+00:00,26,"Craig Pawson, England",Watford,West Ham,1,1,D,D
+17440,2016/17,2017-02-26 13:30:00+00:00,26,"Jonathan Moss, England",Tottenham,Stoke City,4,0,W,L
+17439,2016/17,2017-02-27 20:00:00+00:00,26,"Michael Oliver, England",Leicester,Liverpool,3,1,W,L
+17438,2016/17,2017-03-04 12:30:00+00:00,27,"Kevin Friend, England",Manchester United,Bournemouth,1,1,D,D
+17433,2016/17,2017-03-04 15:00:00+00:00,27,"Mike Dean, England",Leicester,Hull City,3,1,W,L
+17434,2016/17,2017-03-04 15:00:00+00:00,27,"Craig Pawson, England",Stoke City,Middlesbrough,2,0,W,L
+17436,2016/17,2017-03-04 15:00:00+00:00,27,"Jonathan Moss, England",Watford,Southampton,3,4,L,W
+17435,2016/17,2017-03-04 15:00:00+00:00,27,"Anthony Taylor, England",Swansea,Burnley,3,2,W,L
+17437,2016/17,2017-03-04 15:00:00+00:00,27,"Mike Jones, England",West Brom,Crystal Palace,0,2,L,W
+17432,2016/17,2017-03-04 17:30:00+00:00,27,"Robert Madley, England",Liverpool,Arsenal,3,1,W,L
+17431,2016/17,2017-03-05 13:30:00+00:00,27,"Michael Oliver, England",Tottenham,Everton,3,2,W,L
+17430,2016/17,2017-03-05 16:00:00+00:00,27,"Martin Atkinson, England",Sunderland,Manchester City,0,2,L,W
+17429,2016/17,2017-03-06 20:00:00+00:00,27,"Andre Marriner, England",West Ham,Chelsea,1,2,L,W
+17428,2016/17,2017-03-08 20:00:00+00:00,28,"Neil Swarbrick, England",Manchester City,Stoke City,0,0,D,D
+17425,2016/17,2017-03-11 15:00:00+00:00,28,"Robert Madley, England",Bournemouth,West Ham,3,2,W,L
+17426,2016/17,2017-03-11 15:00:00+00:00,28,"Graham Scott, England",Everton,West Brom,3,0,W,L
+17427,2016/17,2017-03-11 15:00:00+00:00,28,"Andre Marriner, England",Hull City,Swansea,2,1,W,L
+17424,2016/17,2017-03-12 16:00:00+00:00,28,"Craig Pawson, England",Liverpool,Burnley,2,1,W,L
+17423,2016/17,2017-03-18 12:30:00+00:00,29,"Neil Swarbrick, England",West Brom,Arsenal,3,1,W,L
+17418,2016/17,2017-03-18 15:00:00+00:00,29,"Martin Atkinson, England",Crystal Palace,Watford,1,0,W,L
+17422,2016/17,2017-03-18 15:00:00+00:00,29,"Roger East, England",West Ham,Leicester,2,3,L,W
+17421,2016/17,2017-03-18 15:00:00+00:00,29,"Robert Madley, England",Sunderland,Burnley,0,0,D,D
+17420,2016/17,2017-03-18 15:00:00+00:00,29,"Anthony Taylor, England",Stoke City,Chelsea,1,2,L,W
+17419,2016/17,2017-03-18 15:00:00+00:00,29,"Paul Tierney, England",Everton,Hull City,4,0,W,L
+17417,2016/17,2017-03-18 17:30:00+00:00,29,"Mike Dean, England",Bournemouth,Swansea,2,0,W,L
+17416,2016/17,2017-03-19 12:00:00+00:00,29,"Jonathan Moss, England",Middlesbrough,Manchester United,1,3,L,W
+17415,2016/17,2017-03-19 14:15:00+00:00,29,"Andre Marriner, England",Tottenham,Southampton,2,1,W,L
+17414,2016/17,2017-03-19 16:30:00+00:00,29,"Michael Oliver, England",Manchester City,Liverpool,1,1,D,D
+17413,2016/17,2017-04-01 11:30:00+00:00,30,"Anthony Taylor, England",Liverpool,Everton,3,1,W,L
+17412,2016/17,2017-04-01 14:00:00+00:00,30,"Lee Probert, England",Watford,Sunderland,1,0,W,L
+17407,2016/17,2017-04-01 14:00:00+00:00,30,"Stuart Attwell, England",Burnley,Tottenham,0,2,L,W
+17411,2016/17,2017-04-01 14:00:00+00:00,30,"Mike Dean, England",Manchester United,West Brom,0,0,D,D
+17408,2016/17,2017-04-01 14:00:00+00:00,30,"Craig Pawson, England",Chelsea,Crystal Palace,1,2,L,W
+17409,2016/17,2017-04-01 14:00:00+00:00,30,"Mike Jones, England",Hull City,West Ham,2,1,W,L
+17410,2016/17,2017-04-01 14:00:00+00:00,30,"Lee Mason, England",Leicester,Stoke City,2,0,W,L
+17406,2016/17,2017-04-01 16:30:00+00:00,30,"Jonathan Moss, England",Southampton,Bournemouth,0,0,D,D
+17405,2016/17,2017-04-02 12:30:00+00:00,30,"Robert Madley, England",Swansea,Middlesbrough,0,0,D,D
+17404,2016/17,2017-04-02 15:00:00+00:00,30,"Andre Marriner, England",Arsenal,Manchester City,2,2,D,D
+17403,2016/17,2017-04-04 18:45:00+00:00,31,"Paul Tierney, England",Watford,West Brom,2,0,W,L
+17401,2016/17,2017-04-04 18:45:00+00:00,31,"Kevin Friend, England",Burnley,Stoke City,1,0,W,L
+17402,2016/17,2017-04-04 18:45:00+00:00,31,"Graham Scott, England",Leicester,Sunderland,2,0,W,L
+17400,2016/17,2017-04-04 19:00:00+00:00,31,"Neil Swarbrick, England",Manchester United,Everton,1,1,D,D
+17398,2016/17,2017-04-05 18:45:00+00:00,31,"Roger East, England",Southampton,Crystal Palace,3,1,W,L
+17396,2016/17,2017-04-05 18:45:00+00:00,31,"Martin Atkinson, England",Arsenal,West Ham,3,0,W,L
+17397,2016/17,2017-04-05 18:45:00+00:00,31,"Michael Oliver, England",Hull City,Middlesbrough,4,2,W,L
+17399,2016/17,2017-04-05 18:45:00+00:00,31,"Jonathan Moss, England",Swansea,Tottenham,1,3,L,W
+17395,2016/17,2017-04-05 19:00:00+00:00,31,"Lee Mason, England",Liverpool,Bournemouth,2,2,D,D
+17394,2016/17,2017-04-05 19:00:00+00:00,31,"Mike Dean, England",Chelsea,Manchester City,2,1,W,L
+17393,2016/17,2017-04-08 11:30:00+00:00,32,"Anthony Taylor, England",Tottenham,Watford,4,0,W,L
+17392,2016/17,2017-04-08 14:00:00+00:00,32,"Kevin Friend, England",West Ham,Swansea,1,0,W,L
+17388,2016/17,2017-04-08 14:00:00+00:00,32,"Jonathan Moss, England",Manchester City,Hull City,3,1,W,L
+17391,2016/17,2017-04-08 14:00:00+00:00,32,"Chris Kavanagh, England",West Brom,Southampton,0,1,L,W
+17389,2016/17,2017-04-08 14:00:00+00:00,32,"Martin Atkinson, England",Middlesbrough,Burnley,0,0,D,D
+17390,2016/17,2017-04-08 14:00:00+00:00,32,"Mike Dean, England",Stoke City,Liverpool,1,2,L,W
+17387,2016/17,2017-04-08 16:30:00+00:00,32,"Andre Marriner, England",Bournemouth,Chelsea,1,3,L,W
+17386,2016/17,2017-04-09 12:30:00+00:00,32,"Craig Pawson, England",Sunderland,Manchester United,0,3,L,W
+17385,2016/17,2017-04-09 15:00:00+00:00,32,"Robert Madley, England",Everton,Leicester,4,2,W,L
+17384,2016/17,2017-04-10 19:00:00+00:00,32,"Michael Oliver, England",Crystal Palace,Arsenal,3,0,W,L
+17383,2016/17,2017-04-15 11:30:00+00:00,33,"Michael Oliver, England",Tottenham,Bournemouth,4,0,W,L
+17382,2016/17,2017-04-15 14:00:00+00:00,33,"Lee Mason, England",Watford,Swansea,1,0,W,L
+17379,2016/17,2017-04-15 14:00:00+00:00,33,"Mark Clattenburg, England",Everton,Burnley,3,1,W,L
+17378,2016/17,2017-04-15 14:00:00+00:00,33,"Mike Dean, England",Crystal Palace,Leicester,2,2,D,D
+17380,2016/17,2017-04-15 14:00:00+00:00,33,"Stuart Attwell, England",Stoke City,Hull City,3,1,W,L
+17381,2016/17,2017-04-15 14:00:00+00:00,33,"Andre Marriner, England",Sunderland,West Ham,2,2,D,D
+17377,2016/17,2017-04-15 16:30:00+00:00,33,"Neil Swarbrick, England",Southampton,Manchester City,0,3,L,W
+17376,2016/17,2017-04-16 12:30:00+00:00,33,"Jonathan Moss, England",West Brom,Liverpool,0,1,L,W
+17375,2016/17,2017-04-16 15:00:00+00:00,33,"Robert Madley, England",Manchester United,Chelsea,2,0,W,L
+17374,2016/17,2017-04-17 19:00:00+00:00,33,"Anthony Taylor, England",Middlesbrough,Arsenal,1,2,L,W
+17370,2016/17,2017-04-22 14:00:00+00:00,34,"Graham Scott, England",Bournemouth,Middlesbrough,4,0,W,L
+17373,2016/17,2017-04-22 14:00:00+00:00,34,"Roger East, England",West Ham,Everton,0,0,D,D
+17371,2016/17,2017-04-22 14:00:00+00:00,34,"Robert Madley, England",Hull City,Watford,2,0,W,L
+17372,2016/17,2017-04-22 14:00:00+00:00,34,"Michael Oliver, England",Swansea,Stoke City,2,0,W,L
+17369,2016/17,2017-04-23 13:15:00+00:00,34,"Anthony Taylor, England",Burnley,Manchester United,0,2,L,W
+17368,2016/17,2017-04-23 15:30:00+00:00,34,"Andre Marriner, England",Liverpool,Crystal Palace,1,2,L,W
+17367,2016/17,2017-04-25 18:45:00+00:00,34,"Lee Mason, England",Chelsea,Southampton,4,2,W,L
+17365,2016/17,2017-04-26 18:45:00+00:00,28,"Mike Jones, England",Arsenal,Leicester,1,0,W,L
+17366,2016/17,2017-04-26 18:45:00+00:00,28,"Mike Dean, England",Middlesbrough,Sunderland,1,0,W,L
+17364,2016/17,2017-04-26 19:00:00+00:00,28,"Jonathan Moss, England",Crystal Palace,Tottenham,0,1,L,W
+17363,2016/17,2017-04-27 19:00:00+00:00,26,"Martin Atkinson, England",Manchester City,Manchester United,0,0,D,D
+17359,2016/17,2017-04-29 14:00:00+00:00,35,"Mike Dean, England",Southampton,Hull City,0,0,D,D
+17362,2016/17,2017-04-29 14:00:00+00:00,35,"Mark Clattenburg, England",West Brom,Leicester,0,1,L,W
+17360,2016/17,2017-04-29 14:00:00+00:00,35,"Lee Probert, England",Stoke City,West Ham,0,0,D,D
+17361,2016/17,2017-04-29 14:00:00+00:00,35,"Stuart Attwell, England",Sunderland,Bournemouth,0,1,L,W
+17358,2016/17,2017-04-29 16:30:00+00:00,35,"Robert Madley, England",Crystal Palace,Burnley,0,2,L,W
+17357,2016/17,2017-04-30 11:00:00+00:00,35,"Neil Swarbrick, England",Manchester United,Swansea,1,1,D,D
+17355,2016/17,2017-04-30 13:05:00+00:00,35,"Jonathan Moss, England",Everton,Chelsea,0,3,L,W
+17356,2016/17,2017-04-30 13:05:00+00:00,35,"Kevin Friend, England",Middlesbrough,Manchester City,2,2,D,D
+17354,2016/17,2017-04-30 15:30:00+00:00,35,"Michael Oliver, England",Tottenham,Arsenal,2,0,W,L
+17353,2016/17,2017-05-01 19:00:00+00:00,35,"Craig Pawson, England",Watford,Liverpool,0,1,L,W
+17352,2016/17,2017-05-05 19:00:00+00:00,36,"Anthony Taylor, England",West Ham,Tottenham,1,0,W,L
+17351,2016/17,2017-05-06 11:30:00+00:00,36,"Michael Oliver, England",Manchester City,Crystal Palace,5,0,W,L
+17347,2016/17,2017-05-06 14:00:00+00:00,36,"Paul Tierney, England",Bournemouth,Stoke City,2,2,D,D
+17348,2016/17,2017-05-06 14:00:00+00:00,36,"Mike Jones, England",Burnley,West Brom,2,2,D,D
+17350,2016/17,2017-05-06 14:00:00+00:00,36,"Roger East, England",Leicester,Watford,3,0,W,L
+17349,2016/17,2017-05-06 14:00:00+00:00,36,"Neil Swarbrick, England",Hull City,Sunderland,0,2,L,W
+17346,2016/17,2017-05-06 16:30:00+00:00,36,"Martin Atkinson, England",Swansea,Everton,1,0,W,L
+17345,2016/17,2017-05-07 12:30:00+00:00,36,"Robert Madley, England",Liverpool,Southampton,0,0,D,D
+17344,2016/17,2017-05-07 15:00:00+00:00,36,"Andre Marriner, England",Arsenal,Manchester United,2,0,W,L
+17343,2016/17,2017-05-08 19:00:00+00:00,36,"Craig Pawson, England",Chelsea,Middlesbrough,3,0,W,L
+17342,2016/17,2017-05-10 18:45:00+00:00,26,"Jonathan Moss, England",Southampton,Arsenal,0,2,L,W
+17341,2016/17,2017-05-12 18:45:00+00:00,37,"Kevin Friend, England",Everton,Watford,1,0,W,L
+17340,2016/17,2017-05-12 19:00:00+00:00,37,"Michael Oliver, England",West Brom,Chelsea,0,1,L,W
+17339,2016/17,2017-05-13 11:30:00+00:00,37,"Robert Madley, England",Manchester City,Leicester,2,1,W,L
+17336,2016/17,2017-05-13 14:00:00+00:00,37,"Lee Probert, England",Bournemouth,Burnley,2,1,W,L
+17337,2016/17,2017-05-13 14:00:00+00:00,37,"Anthony Taylor, England",Middlesbrough,Southampton,1,2,L,W
+17338,2016/17,2017-05-13 14:00:00+00:00,37,"Andre Marriner, England",Sunderland,Swansea,0,2,L,W
+17335,2016/17,2017-05-13 16:30:00+00:00,37,"Mike Dean, England",Stoke City,Arsenal,1,4,L,W
+17334,2016/17,2017-05-14 11:00:00+00:00,37,"Martin Atkinson, England",Crystal Palace,Hull City,4,0,W,L
+17333,2016/17,2017-05-14 13:15:00+00:00,37,"Neil Swarbrick, England",West Ham,Liverpool,0,4,L,W
+17332,2016/17,2017-05-14 15:30:00+00:00,37,"Jonathan Moss, England",Tottenham,Manchester United,2,1,W,L
+17331,2016/17,2017-05-15 19:00:00+00:00,28,"Lee Mason, England",Chelsea,Watford,4,3,W,L
+17330,2016/17,2017-05-16 18:45:00+00:00,34,"Roger East, England",Arsenal,Sunderland,2,0,W,L
+17329,2016/17,2017-05-16 19:00:00+00:00,34,"Craig Pawson, England",Manchester City,West Brom,3,1,W,L
+17328,2016/17,2017-05-17 18:45:00+00:00,28,"Mike Dean, England",Southampton,Manchester United,0,0,D,D
+17327,2016/17,2017-05-18 18:45:00+00:00,34,"Michael Oliver, England",Leicester,Tottenham,1,6,L,W
+17323,2016/17,2017-05-21 14:00:00+00:00,38,"Anthony Taylor, England",Manchester United,Crystal Palace,2,0,W,L
+17326,2016/17,2017-05-21 14:00:00+00:00,38,"Jonathan Moss, England",Watford,Manchester City,0,5,L,W
+17322,2016/17,2017-05-21 14:00:00+00:00,38,"Martin Atkinson, England",Liverpool,Middlesbrough,3,0,W,L
+17324,2016/17,2017-05-21 14:00:00+00:00,38,"Lee Probert, England",Southampton,Stoke City,0,1,L,W
+17317,2016/17,2017-05-21 14:00:00+00:00,38,"Michael Oliver, England",Arsenal,Everton,3,1,W,L
+17318,2016/17,2017-05-21 14:00:00+00:00,38,"Robert Madley, England",Burnley,West Ham,1,2,L,W
+17321,2016/17,2017-05-21 14:00:00+00:00,38,"Lee Mason, England",Leicester,Bournemouth,1,1,D,D
+17319,2016/17,2017-05-21 14:00:00+00:00,38,"Neil Swarbrick, England",Chelsea,Sunderland,5,1,W,L
+17320,2016/17,2017-05-21 14:00:00+00:00,38,"Andre Marriner, England",Hull City,Tottenham,1,7,L,W
+17325,2016/17,2017-05-21 14:00:00+00:00,38,"Mike Dean, England",Swansea,West Brom,2,1,W,L

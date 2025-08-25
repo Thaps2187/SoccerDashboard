@@ -1,0 +1,21 @@
+Rank,Logo,Team,MP,W,D,L,GF,GA,GD,Pts,Form,Qualification,Home_wins,Home_draw,Home_lose,Home_goals_for,Home_goals_against,Away_wins,Away_draw,Away_lose,Away_goals_for,Away_goals_against
+1,https://media.api-sports.io/football/teams/33.png,Manchester United,38,28,5,5,86,43,43,89,DWLDW,UEFA Champions League,16,0,3,45,19,12,5,2,41,24
+2,https://media.api-sports.io/football/teams/50.png,Manchester City,38,23,9,6,66,34,32,78,LWWDW,UEFA Champions League,14,3,2,41,15,9,6,4,25,19
+3,https://media.api-sports.io/football/teams/49.png,Chelsea,38,22,9,7,75,39,36,75,WWDWW,UEFA Champions League,12,5,2,41,16,10,4,5,34,23
+4,https://media.api-sports.io/football/teams/42.png,Arsenal,38,21,10,7,72,37,35,73,WWWDW,UEFA Champions League Qualifiers,11,5,3,47,23,10,5,4,25,14
+5,https://media.api-sports.io/football/teams/47.png,Tottenham,38,21,9,8,66,46,20,72,WWDWD,UEFA Europa League,11,5,3,29,18,10,4,5,37,28
+6,https://media.api-sports.io/football/teams/45.png,Everton,38,16,15,7,55,40,15,63,LWDWL,,12,6,1,33,17,4,9,6,22,23
+7,https://media.api-sports.io/football/teams/40.png,Liverpool,38,16,13,9,71,43,28,61,WWDWD,,9,6,4,33,16,7,7,5,38,27
+8,https://media.api-sports.io/football/teams/60.png,West Brom,38,14,7,17,53,57,-4,49,DLLLW,,9,4,6,32,25,5,3,11,21,32
+9,https://media.api-sports.io/football/teams/76.png,Swansea,38,11,13,14,47,51,-4,46,LLWDL,,6,8,5,28,26,5,5,9,19,25
+10,https://media.api-sports.io/football/teams/48.png,West Ham,38,12,10,16,45,53,-8,46,WLDLW,,9,6,4,34,22,3,4,12,11,31
+11,https://media.api-sports.io/football/teams/71.png,Norwich,38,10,14,14,41,58,-17,44,WWLLW,,8,7,4,25,20,2,7,10,16,38
+12,https://media.api-sports.io/football/teams/36.png,Fulham,38,11,10,17,50,60,-10,43,WLLLL,,7,3,9,28,30,4,7,8,22,30
+13,https://media.api-sports.io/football/teams/75.png,Stoke City,38,9,15,14,34,45,-11,42,DLDWW,,7,7,5,21,22,2,8,9,13,23
+14,https://media.api-sports.io/football/teams/41.png,Southampton,38,9,14,15,49,60,-11,41,DDLLD,,6,7,6,26,24,3,7,9,23,36
+15,https://media.api-sports.io/football/teams/66.png,Aston Villa,38,10,11,17,47,69,-22,41,DLWWL,,5,5,9,23,28,5,6,8,24,41
+16,https://media.api-sports.io/football/teams/34.png,Newcastle,38,11,8,19,45,68,-23,41,LWDLD,,9,1,9,24,31,2,7,10,21,37
+17,https://media.api-sports.io/football/teams/746.png,Sunderland,38,9,12,17,41,54,-13,39,LDDLW,,5,8,6,20,19,4,4,11,21,35
+18,https://media.api-sports.io/football/teams/61.png,Wigan,38,9,9,20,47,73,-26,36,DLLWD,Relegation,4,6,9,26,39,5,3,11,21,34
+19,https://media.api-sports.io/football/teams/53.png,Reading,38,6,10,22,43,73,-30,28,LLWDL,Relegation,4,8,7,23,33,2,2,15,20,40
+20,https://media.api-sports.io/football/teams/72.png,QPR,38,4,13,21,30,60,-30,25,LLLDL,Relegation,2,8,9,13,28,2,5,12,17,32

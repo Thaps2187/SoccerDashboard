@@ -1,0 +1,381 @@
+fixture_id,season,date,match_day,referee,home_team,away_team,home_goals,away_goals,home_results,away_results
+192677,2014/15,2014-08-16 11:45:00+00:00,1,,Manchester United,Swansea,1,2,L,W
+192678,2014/15,2014-08-16 14:00:00+00:00,1,,Leicester,Everton,2,2,D,D
+192682,2014/15,2014-08-16 14:00:00+00:00,1,,West Ham,Tottenham,0,1,L,W
+192681,2014/15,2014-08-16 14:00:00+00:00,1,,West Brom,Sunderland,2,2,D,D
+192679,2014/15,2014-08-16 14:00:00+00:00,1,,QPR,Hull City,0,1,L,W
+192680,2014/15,2014-08-16 14:00:00+00:00,1,,Stoke City,Aston Villa,0,1,L,W
+192683,2014/15,2014-08-16 16:30:00+00:00,1,,Arsenal,Crystal Palace,2,1,W,L
+192684,2014/15,2014-08-17 12:30:00+00:00,1,,Liverpool,Southampton,2,1,W,L
+192685,2014/15,2014-08-17 15:00:00+00:00,1,,Newcastle,Manchester City,0,2,L,W
+192686,2014/15,2014-08-18 19:00:00+00:00,1,,Burnley,Chelsea,1,3,L,W
+192687,2014/15,2014-08-23 11:45:00+00:00,2,,Aston Villa,Newcastle,0,0,D,D
+192688,2014/15,2014-08-23 14:00:00+00:00,2,,Chelsea,Leicester,2,0,W,L
+192690,2014/15,2014-08-23 14:00:00+00:00,2,,Southampton,West Brom,0,0,D,D
+192691,2014/15,2014-08-23 14:00:00+00:00,2,,Swansea,Burnley,1,0,W,L
+192689,2014/15,2014-08-23 14:00:00+00:00,2,,Crystal Palace,West Ham,1,3,L,W
+192692,2014/15,2014-08-23 16:30:00+00:00,2,,Everton,Arsenal,2,2,D,D
+192694,2014/15,2014-08-24 12:30:00+00:00,2,,Tottenham,QPR,4,0,W,L
+192693,2014/15,2014-08-24 12:30:00+00:00,2,,Hull City,Stoke City,1,1,D,D
+192695,2014/15,2014-08-24 15:00:00+00:00,2,,Sunderland,Manchester United,1,1,D,D
+192696,2014/15,2014-08-25 19:00:00+00:00,2,,Manchester City,Liverpool,3,1,W,L
+192697,2014/15,2014-08-30 11:45:00+00:00,3,,Burnley,Manchester United,0,0,D,D
+192699,2014/15,2014-08-30 14:00:00+00:00,3,,Newcastle,Crystal Palace,3,3,D,D
+192702,2014/15,2014-08-30 14:00:00+00:00,3,,West Ham,Southampton,1,3,L,W
+192698,2014/15,2014-08-30 14:00:00+00:00,3,,Manchester City,Stoke City,0,1,L,W
+192700,2014/15,2014-08-30 14:00:00+00:00,3,,QPR,Sunderland,1,0,W,L
+192701,2014/15,2014-08-30 14:00:00+00:00,3,,Swansea,West Brom,3,0,W,L
+192703,2014/15,2014-08-30 16:30:00+00:00,3,,Everton,Chelsea,3,6,L,W
+192705,2014/15,2014-08-31 12:30:00+00:00,3,,Tottenham,Liverpool,0,3,L,W
+192704,2014/15,2014-08-31 12:30:00+00:00,3,,Aston Villa,Hull City,2,1,W,L
+192706,2014/15,2014-08-31 15:00:00+00:00,3,,Leicester,Arsenal,1,1,D,D
+192707,2014/15,2014-09-13 11:45:00+00:00,4,,Arsenal,Manchester City,2,2,D,D
+192709,2014/15,2014-09-13 14:00:00+00:00,4,,Crystal Palace,Burnley,0,0,D,D
+192708,2014/15,2014-09-13 14:00:00+00:00,4,,Chelsea,Swansea,4,2,W,L
+192710,2014/15,2014-09-13 14:00:00+00:00,4,,Southampton,Newcastle,4,0,W,L
+192713,2014/15,2014-09-13 14:00:00+00:00,4,,West Brom,Everton,0,2,L,W
+192712,2014/15,2014-09-13 14:00:00+00:00,4,,Sunderland,Tottenham,2,2,D,D
+192711,2014/15,2014-09-13 14:00:00+00:00,4,,Stoke City,Leicester,0,1,L,W
+192714,2014/15,2014-09-13 16:30:00+00:00,4,,Liverpool,Aston Villa,0,1,L,W
+192715,2014/15,2014-09-14 15:00:00+00:00,4,,Manchester United,QPR,4,0,W,L
+192716,2014/15,2014-09-15 19:00:00+00:00,4,,Hull City,West Ham,2,2,D,D
+192717,2014/15,2014-09-20 11:45:00+00:00,5,,QPR,Stoke City,2,2,D,D
+192720,2014/15,2014-09-20 14:00:00+00:00,5,,Newcastle,Hull City,2,2,D,D
+192719,2014/15,2014-09-20 14:00:00+00:00,5,,Burnley,Sunderland,0,0,D,D
+192718,2014/15,2014-09-20 14:00:00+00:00,5,,Aston Villa,Arsenal,0,3,L,W
+192721,2014/15,2014-09-20 14:00:00+00:00,5,,Swansea,Southampton,0,1,L,W
+192722,2014/15,2014-09-20 16:30:00+00:00,5,,West Ham,Liverpool,3,1,W,L
+192723,2014/15,2014-09-21 12:30:00+00:00,5,,Leicester,Manchester United,5,3,W,L
+192724,2014/15,2014-09-21 12:30:00+00:00,5,,Tottenham,West Brom,0,1,L,W
+192725,2014/15,2014-09-21 15:00:00+00:00,5,,Everton,Crystal Palace,2,3,L,W
+192726,2014/15,2014-09-21 15:00:00+00:00,5,,Manchester City,Chelsea,1,1,D,D
+192727,2014/15,2014-09-27 11:45:00+00:00,6,,Liverpool,Everton,1,1,D,D
+192731,2014/15,2014-09-27 14:00:00+00:00,6,,Manchester United,West Ham,2,1,W,L
+192732,2014/15,2014-09-27 14:00:00+00:00,6,,Southampton,QPR,2,1,W,L
+192728,2014/15,2014-09-27 14:00:00+00:00,6,,Chelsea,Aston Villa,3,0,W,L
+192729,2014/15,2014-09-27 14:00:00+00:00,6,,Crystal Palace,Leicester,2,0,W,L
+192730,2014/15,2014-09-27 14:00:00+00:00,6,,Hull City,Manchester City,2,4,L,W
+192733,2014/15,2014-09-27 14:00:00+00:00,6,,Sunderland,Swansea,0,0,D,D
+192734,2014/15,2014-09-27 16:30:00+00:00,6,,Arsenal,Tottenham,1,1,D,D
+192735,2014/15,2014-09-28 15:00:00+00:00,6,,West Brom,Burnley,4,0,W,L
+192736,2014/15,2014-09-29 19:00:00+00:00,6,,Stoke City,Newcastle,1,0,W,L
+192739,2014/15,2014-10-04 14:00:00+00:00,7,,Liverpool,West Brom,2,1,W,L
+192738,2014/15,2014-10-04 14:00:00+00:00,7,,Leicester,Burnley,2,2,D,D
+192737,2014/15,2014-10-04 14:00:00+00:00,7,,Hull City,Crystal Palace,2,0,W,L
+192741,2014/15,2014-10-04 14:00:00+00:00,7,,Swansea,Newcastle,2,2,D,D
+192740,2014/15,2014-10-04 14:00:00+00:00,7,,Sunderland,Stoke City,3,1,W,L
+192742,2014/15,2014-10-04 16:30:00+00:00,7,,Aston Villa,Manchester City,0,2,L,W
+192743,2014/15,2014-10-05 11:00:00+00:00,7,,Manchester United,Everton,2,1,W,L
+192744,2014/15,2014-10-05 13:05:00+00:00,7,,Tottenham,Southampton,1,0,W,L
+192745,2014/15,2014-10-05 13:20:00+00:00,7,,Chelsea,Arsenal,2,0,W,L
+192746,2014/15,2014-10-05 15:15:00+00:00,7,,West Ham,QPR,2,0,W,L
+192747,2014/15,2014-10-18 11:45:00+00:00,8,,Manchester City,Tottenham,4,1,W,L
+192752,2014/15,2014-10-18 14:00:00+00:00,8,,Southampton,Sunderland,8,0,W,L
+192748,2014/15,2014-10-18 14:00:00+00:00,8,,Arsenal,Hull City,2,2,D,D
+192749,2014/15,2014-10-18 14:00:00+00:00,8,,Burnley,West Ham,1,3,L,W
+192751,2014/15,2014-10-18 14:00:00+00:00,8,,Everton,Aston Villa,3,0,W,L
+192750,2014/15,2014-10-18 14:00:00+00:00,8,,Crystal Palace,Chelsea,1,2,L,W
+192753,2014/15,2014-10-18 15:00:00+00:00,8,,Newcastle,Leicester,1,0,W,L
+192754,2014/15,2014-10-19 12:30:00+00:00,8,,QPR,Liverpool,2,3,L,W
+192755,2014/15,2014-10-19 15:00:00+00:00,8,,Stoke City,Swansea,2,1,W,L
+192756,2014/15,2014-10-20 19:00:00+00:00,8,,West Brom,Manchester United,2,2,D,D
+192757,2014/15,2014-10-25 11:45:00+00:00,9,,West Ham,Manchester City,2,1,W,L
+192759,2014/15,2014-10-25 14:00:00+00:00,9,,Southampton,Stoke City,1,0,W,L
+192758,2014/15,2014-10-25 14:00:00+00:00,9,,Liverpool,Hull City,0,0,D,D
+192760,2014/15,2014-10-25 14:00:00+00:00,9,,Sunderland,Arsenal,0,2,L,W
+192761,2014/15,2014-10-25 14:00:00+00:00,9,,West Brom,Crystal Palace,2,2,D,D
+192762,2014/15,2014-10-25 16:30:00+00:00,9,,Swansea,Leicester,2,0,W,L
+192763,2014/15,2014-10-26 12:30:00+00:00,9,,Burnley,Everton,1,3,L,W
+192764,2014/15,2014-10-26 12:30:00+00:00,9,,Tottenham,Newcastle,1,2,L,W
+192765,2014/15,2014-10-26 15:00:00+00:00,9,,Manchester United,Chelsea,1,1,D,D
+192766,2014/15,2014-10-27 20:00:00+00:00,9,,QPR,Aston Villa,2,0,W,L
+192767,2014/15,2014-11-01 12:45:00+00:00,10,,Newcastle,Liverpool,1,0,W,L
+192772,2014/15,2014-11-01 15:00:00+00:00,10,,Leicester,West Brom,0,1,L,W
+192768,2014/15,2014-11-01 15:00:00+00:00,10,,Arsenal,Burnley,3,0,W,L
+192770,2014/15,2014-11-01 15:00:00+00:00,10,,Everton,Swansea,0,0,D,D
+192771,2014/15,2014-11-01 15:00:00+00:00,10,,Hull City,Southampton,0,1,L,W
+192773,2014/15,2014-11-01 15:00:00+00:00,10,,Stoke City,West Ham,2,2,D,D
+192769,2014/15,2014-11-01 15:00:00+00:00,10,,Chelsea,QPR,2,1,W,L
+192774,2014/15,2014-11-02 13:30:00+00:00,10,,Manchester City,Manchester United,1,0,W,L
+192775,2014/15,2014-11-02 16:00:00+00:00,10,,Aston Villa,Tottenham,1,2,L,W
+192776,2014/15,2014-11-03 20:00:00+00:00,10,,Crystal Palace,Sunderland,1,3,L,W
+192777,2014/15,2014-11-08 12:45:00+00:00,11,,Liverpool,Chelsea,1,2,L,W
+192779,2014/15,2014-11-08 15:00:00+00:00,11,,Manchester United,Crystal Palace,1,0,W,L
+192780,2014/15,2014-11-08 15:00:00+00:00,11,,Southampton,Leicester,2,0,W,L
+192778,2014/15,2014-11-08 15:00:00+00:00,11,,Burnley,Hull City,1,0,W,L
+192781,2014/15,2014-11-08 15:00:00+00:00,11,,West Ham,Aston Villa,0,0,D,D
+192782,2014/15,2014-11-08 17:30:00+00:00,11,,QPR,Manchester City,2,2,D,D
+192784,2014/15,2014-11-09 13:30:00+00:00,11,,Tottenham,Stoke City,1,2,L,W
+192785,2014/15,2014-11-09 13:30:00+00:00,11,,West Brom,Newcastle,0,2,L,W
+192783,2014/15,2014-11-09 13:30:00+00:00,11,,Sunderland,Everton,1,1,D,D
+192786,2014/15,2014-11-09 16:00:00+00:00,11,,Swansea,Arsenal,2,1,W,L
+192791,2014/15,2014-11-22 15:00:00+00:00,12,,Newcastle,QPR,1,0,W,L
+192788,2014/15,2014-11-22 15:00:00+00:00,12,,Everton,West Ham,2,1,W,L
+192789,2014/15,2014-11-22 15:00:00+00:00,12,,Leicester,Sunderland,0,0,D,D
+192787,2014/15,2014-11-22 15:00:00+00:00,12,,Chelsea,West Brom,2,0,W,L
+192790,2014/15,2014-11-22 15:00:00+00:00,12,,Manchester City,Swansea,2,1,W,L
+192792,2014/15,2014-11-22 15:00:00+00:00,12,,Stoke City,Burnley,1,2,L,W
+192793,2014/15,2014-11-22 17:30:00+00:00,12,,Arsenal,Manchester United,1,2,L,W
+192794,2014/15,2014-11-23 13:30:00+00:00,12,,Crystal Palace,Liverpool,3,1,W,L
+192795,2014/15,2014-11-23 16:00:00+00:00,12,,Hull City,Tottenham,1,2,L,W
+192796,2014/15,2014-11-24 20:00:00+00:00,12,,Aston Villa,Southampton,1,1,D,D
+192797,2014/15,2014-11-29 12:45:00+00:00,13,,West Brom,Arsenal,0,1,L,W
+192800,2014/15,2014-11-29 15:00:00+00:00,13,,Manchester United,Hull City,3,0,W,L
+192799,2014/15,2014-11-29 15:00:00+00:00,13,,Liverpool,Stoke City,1,0,W,L
+192798,2014/15,2014-11-29 15:00:00+00:00,13,,Burnley,Aston Villa,1,1,D,D
+192803,2014/15,2014-11-29 15:00:00+00:00,13,,West Ham,Newcastle,1,0,W,L
+192801,2014/15,2014-11-29 15:00:00+00:00,13,,QPR,Leicester,3,2,W,L
+192802,2014/15,2014-11-29 15:00:00+00:00,13,,Swansea,Crystal Palace,1,1,D,D
+192804,2014/15,2014-11-29 17:30:00+00:00,13,,Sunderland,Chelsea,0,0,D,D
+192805,2014/15,2014-11-30 13:30:00+00:00,13,,Southampton,Manchester City,0,3,L,W
+192806,2014/15,2014-11-30 16:00:00+00:00,13,,Tottenham,Everton,2,1,W,L
+192809,2014/15,2014-12-02 19:45:00+00:00,14,,Manchester United,Stoke City,2,1,W,L
+192807,2014/15,2014-12-02 19:45:00+00:00,14,,Burnley,Newcastle,1,1,D,D
+192808,2014/15,2014-12-02 19:45:00+00:00,14,,Leicester,Liverpool,1,3,L,W
+192810,2014/15,2014-12-02 19:45:00+00:00,14,,Swansea,QPR,2,0,W,L
+192811,2014/15,2014-12-02 20:00:00+00:00,14,,Crystal Palace,Aston Villa,0,1,L,W
+192812,2014/15,2014-12-02 20:00:00+00:00,14,,West Brom,West Ham,1,2,L,W
+192815,2014/15,2014-12-03 19:45:00+00:00,14,,Everton,Hull City,1,1,D,D
+192813,2014/15,2014-12-03 19:45:00+00:00,14,,Arsenal,Southampton,1,0,W,L
+192816,2014/15,2014-12-03 19:45:00+00:00,14,,Sunderland,Manchester City,1,4,L,W
+192814,2014/15,2014-12-03 19:45:00+00:00,14,,Chelsea,Tottenham,3,0,W,L
+192817,2014/15,2014-12-06 12:45:00+00:00,15,,Newcastle,Chelsea,2,1,W,L
+192818,2014/15,2014-12-06 15:00:00+00:00,15,,Hull City,West Brom,0,0,D,D
+192822,2014/15,2014-12-06 15:00:00+00:00,15,,Tottenham,Crystal Palace,0,0,D,D
+192821,2014/15,2014-12-06 15:00:00+00:00,15,,Stoke City,Arsenal,3,2,W,L
+192820,2014/15,2014-12-06 15:00:00+00:00,15,,QPR,Burnley,2,0,W,L
+192819,2014/15,2014-12-06 15:00:00+00:00,15,,Liverpool,Sunderland,0,0,D,D
+192823,2014/15,2014-12-06 17:30:00+00:00,15,,Manchester City,Everton,1,0,W,L
+192824,2014/15,2014-12-07 13:30:00+00:00,15,,West Ham,Swansea,3,1,W,L
+192825,2014/15,2014-12-07 16:00:00+00:00,15,,Aston Villa,Leicester,2,1,W,L
+192826,2014/15,2014-12-08 20:00:00+00:00,15,,Southampton,Manchester United,1,2,L,W
+192829,2014/15,2014-12-13 15:00:00+00:00,16,,Crystal Palace,Stoke City,1,1,D,D
+192832,2014/15,2014-12-13 15:00:00+00:00,16,,West Brom,Aston Villa,1,0,W,L
+192830,2014/15,2014-12-13 15:00:00+00:00,16,,Leicester,Manchester City,0,1,L,W
+192831,2014/15,2014-12-13 15:00:00+00:00,16,,Sunderland,West Ham,1,1,D,D
+192828,2014/15,2014-12-13 15:00:00+00:00,16,,Chelsea,Hull City,2,0,W,L
+192827,2014/15,2014-12-13 15:00:00+00:00,16,,Burnley,Southampton,1,0,W,L
+192833,2014/15,2014-12-13 17:30:00+00:00,16,,Arsenal,Newcastle,4,1,W,L
+192834,2014/15,2014-12-14 13:30:00+00:00,16,,Manchester United,Liverpool,3,0,W,L
+192835,2014/15,2014-12-14 16:00:00+00:00,16,,Swansea,Tottenham,1,2,L,W
+192836,2014/15,2014-12-15 20:00:00+00:00,16,,Everton,QPR,3,1,W,L
+192837,2014/15,2014-12-20 12:45:00+00:00,17,,Manchester City,Crystal Palace,3,0,W,L
+192843,2014/15,2014-12-20 15:00:00+00:00,17,,West Ham,Leicester,2,0,W,L
+192842,2014/15,2014-12-20 15:00:00+00:00,17,,Tottenham,Burnley,2,1,W,L
+192841,2014/15,2014-12-20 15:00:00+00:00,17,,Southampton,Everton,3,0,W,L
+192838,2014/15,2014-12-20 15:00:00+00:00,17,,Aston Villa,Manchester United,1,1,D,D
+192839,2014/15,2014-12-20 15:00:00+00:00,17,,Hull City,Swansea,0,1,L,W
+192840,2014/15,2014-12-20 15:00:00+00:00,17,,QPR,West Brom,3,2,W,L
+192844,2014/15,2014-12-21 13:30:00+00:00,17,,Newcastle,Sunderland,0,1,L,W
+192845,2014/15,2014-12-21 16:00:00+00:00,17,,Liverpool,Arsenal,2,2,D,D
+192846,2014/15,2014-12-22 20:00:00+00:00,17,,Stoke City,Chelsea,0,2,L,W
+192847,2014/15,2014-12-26 12:45:00+00:00,18,,Chelsea,West Ham,2,0,W,L
+192850,2014/15,2014-12-26 15:00:00+00:00,18,,Everton,Stoke City,0,1,L,W
+192852,2014/15,2014-12-26 15:00:00+00:00,18,,Manchester United,Newcastle,3,1,W,L
+192848,2014/15,2014-12-26 15:00:00+00:00,18,,Burnley,Liverpool,0,1,L,W
+192851,2014/15,2014-12-26 15:00:00+00:00,18,,Leicester,Tottenham,1,2,L,W
+192849,2014/15,2014-12-26 15:00:00+00:00,18,,Crystal Palace,Southampton,1,3,L,W
+192854,2014/15,2014-12-26 15:00:00+00:00,18,,Swansea,Aston Villa,1,0,W,L
+192853,2014/15,2014-12-26 15:00:00+00:00,18,,Sunderland,Hull City,1,3,L,W
+192855,2014/15,2014-12-26 15:00:00+00:00,18,,West Brom,Manchester City,1,3,L,W
+192856,2014/15,2014-12-26 17:30:00+00:00,18,,Arsenal,QPR,2,1,W,L
+192857,2014/15,2014-12-28 12:00:00+00:00,19,,Tottenham,Manchester United,0,0,D,D
+192858,2014/15,2014-12-28 14:05:00+00:00,19,,Southampton,Chelsea,1,1,D,D
+192864,2014/15,2014-12-28 15:00:00+00:00,19,,West Ham,Arsenal,1,2,L,W
+192861,2014/15,2014-12-28 15:00:00+00:00,19,,Manchester City,Burnley,2,2,D,D
+192860,2014/15,2014-12-28 15:00:00+00:00,19,,Hull City,Leicester,0,1,L,W
+192859,2014/15,2014-12-28 15:00:00+00:00,19,,Aston Villa,Sunderland,0,0,D,D
+192862,2014/15,2014-12-28 15:00:00+00:00,19,,QPR,Crystal Palace,0,0,D,D
+192863,2014/15,2014-12-28 15:00:00+00:00,19,,Stoke City,West Brom,2,0,W,L
+192865,2014/15,2014-12-28 16:15:00+00:00,19,,Newcastle,Everton,3,2,W,L
+192866,2014/15,2014-12-29 20:00:00+00:00,19,,Liverpool,Swansea,4,1,W,L
+192867,2014/15,2015-01-01 12:45:00+00:00,20,"Michael Oliver, England",Stoke City,Manchester United,1,1,D,D
+192872,2014/15,2015-01-01 15:00:00+00:00,20,"Mike Dean, England",Newcastle,Burnley,3,3,D,D
+192870,2014/15,2015-01-01 15:00:00+00:00,20,"Mike Jones, England",Liverpool,Leicester,2,2,D,D
+192874,2014/15,2015-01-01 15:00:00+00:00,20,"Craig Pawson, England",Southampton,Arsenal,2,0,W,L
+192875,2014/15,2015-01-01 15:00:00+00:00,20,"Jonathan Moss, England",West Ham,West Brom,1,1,D,D
+192871,2014/15,2015-01-01 15:00:00+00:00,20,"Chris Foy, England",Manchester City,Sunderland,3,2,W,L
+192869,2014/15,2015-01-01 15:00:00+00:00,20,"Kevin Friend, England",Hull City,Everton,2,0,W,L
+192868,2014/15,2015-01-01 15:00:00+00:00,20,"Robert Madley, England",Aston Villa,Crystal Palace,0,0,D,D
+192873,2014/15,2015-01-01 15:00:00+00:00,20,"Anthony Taylor, England",QPR,Swansea,1,1,D,D
+192876,2014/15,2015-01-01 17:30:00+00:00,20,"Phil Dowd, England",Tottenham,Chelsea,5,3,W,L
+192877,2014/15,2015-01-10 12:45:00+00:00,21,"Craig Pawson, England",Sunderland,Liverpool,0,1,L,W
+192881,2014/15,2015-01-10 15:00:00+00:00,21,"Michael Oliver, England",Leicester,Aston Villa,1,0,W,L
+192880,2014/15,2015-01-10 15:00:00+00:00,21,"Martin Atkinson, England",Everton,Manchester City,1,1,D,D
+192878,2014/15,2015-01-10 15:00:00+00:00,21,"Andre Marriner, England",Burnley,QPR,2,1,W,L
+192882,2014/15,2015-01-10 15:00:00+00:00,21,"Mike Dean, England",Swansea,West Ham,1,1,D,D
+192883,2014/15,2015-01-10 15:00:00+00:00,21,"Neil Swarbrick, England",West Brom,Hull City,1,0,W,L
+192879,2014/15,2015-01-10 15:00:00+00:00,21,"Roger East, England",Chelsea,Newcastle,2,0,W,L
+192884,2014/15,2015-01-10 17:30:00+00:00,21,"Anthony Taylor, England",Crystal Palace,Tottenham,2,1,W,L
+192885,2014/15,2015-01-11 13:30:00+00:00,21,"Jonathan Moss, England",Arsenal,Stoke City,3,0,W,L
+192886,2014/15,2015-01-11 16:00:00+00:00,21,"Phil Dowd, England",Manchester United,Southampton,0,1,L,W
+192889,2014/15,2015-01-17 15:00:00+00:00,22,"Andre Marriner, England",Leicester,Stoke City,0,1,L,W
+192888,2014/15,2015-01-17 15:00:00+00:00,22,"Phil Dowd, England",Burnley,Crystal Palace,2,3,L,W
+192892,2014/15,2015-01-17 15:00:00+00:00,22,"Chris Foy, England",Tottenham,Sunderland,2,1,W,L
+192887,2014/15,2015-01-17 15:00:00+00:00,22,"Mark Clattenburg, England",Aston Villa,Liverpool,0,2,L,W
+192891,2014/15,2015-01-17 15:00:00+00:00,22,"Jonathan Moss, England",Swansea,Chelsea,0,5,L,W
+192890,2014/15,2015-01-17 15:00:00+00:00,22,"Neil Swarbrick, England",QPR,Manchester United,0,2,L,W
+192893,2014/15,2015-01-17 17:30:00+00:00,22,"Robert Madley, England",Newcastle,Southampton,1,2,L,W
+192894,2014/15,2015-01-18 13:30:00+00:00,22,"Martin Atkinson, England",West Ham,Hull City,3,0,W,L
+192895,2014/15,2015-01-18 16:00:00+00:00,22,"Mike Dean, England",Manchester City,Arsenal,0,2,L,W
+192896,2014/15,2015-01-19 20:00:00+00:00,22,"Michael Oliver, England",Everton,West Brom,0,0,D,D
+192897,2014/15,2015-01-31 12:45:00+00:00,23,"Phil Dowd, England",Hull City,Newcastle,0,3,L,W
+192898,2014/15,2015-01-31 15:00:00+00:00,23,"Roger East, England",Crystal Palace,Everton,0,1,L,W
+192900,2014/15,2015-01-31 15:00:00+00:00,23,"Martin Atkinson, England",Manchester United,Leicester,3,1,W,L
+192899,2014/15,2015-01-31 15:00:00+00:00,23,"Andre Marriner, England",Liverpool,West Ham,2,0,W,L
+192901,2014/15,2015-01-31 15:00:00+00:00,23,"Mike Dean, England",Stoke City,QPR,3,1,W,L
+192902,2014/15,2015-01-31 15:00:00+00:00,23,"Lee Mason, England",Sunderland,Burnley,2,0,W,L
+192903,2014/15,2015-01-31 15:00:00+00:00,23,"Kevin Friend, England",West Brom,Tottenham,0,3,L,W
+192904,2014/15,2015-01-31 17:30:00+00:00,23,"Mark Clattenburg, England",Chelsea,Manchester City,1,1,D,D
+192905,2014/15,2015-02-01 13:30:00+00:00,23,"Anthony Taylor, England",Arsenal,Aston Villa,5,0,W,L
+192906,2014/15,2015-02-01 16:00:00+00:00,23,"Michael Oliver, England",Southampton,Swansea,0,1,L,W
+192907,2014/15,2015-02-07 12:45:00+00:00,24,"Martin Atkinson, England",Tottenham,Arsenal,2,1,W,L
+192908,2014/15,2015-02-07 15:00:00+00:00,24,"Neil Swarbrick, England",Aston Villa,Chelsea,1,2,L,W
+192911,2014/15,2015-02-07 15:00:00+00:00,24,"Roger East, England",QPR,Southampton,0,1,L,W
+192909,2014/15,2015-02-07 15:00:00+00:00,24,"Lee Mason, England",Leicester,Crystal Palace,0,1,L,W
+192910,2014/15,2015-02-07 15:00:00+00:00,24,"Jonathan Moss, England",Manchester City,Hull City,1,1,D,D
+192912,2014/15,2015-02-07 15:00:00+00:00,24,"Phil Dowd, England",Swansea,Sunderland,1,1,D,D
+192913,2014/15,2015-02-07 17:30:00+00:00,24,"Anthony Taylor, England",Everton,Liverpool,0,0,D,D
+192914,2014/15,2015-02-08 12:00:00+00:00,24,"Mike Dean, England",Burnley,West Brom,2,2,D,D
+192915,2014/15,2015-02-08 14:05:00+00:00,24,"Chris Foy, England",Newcastle,Stoke City,1,1,D,D
+192916,2014/15,2015-02-08 16:15:00+00:00,24,"Mark Clattenburg, England",West Ham,Manchester United,1,1,D,D
+192917,2014/15,2015-02-10 19:45:00+00:00,25,"Mike Jones, England",Arsenal,Leicester,2,1,W,L
+192918,2014/15,2015-02-10 19:45:00+00:00,25,"Michael Oliver, England",Hull City,Aston Villa,2,0,W,L
+192919,2014/15,2015-02-10 19:45:00+00:00,25,"Martin Atkinson, England",Sunderland,QPR,0,2,L,W
+192920,2014/15,2015-02-10 20:00:00+00:00,25,"Phil Dowd, England",Liverpool,Tottenham,3,2,W,L
+192921,2014/15,2015-02-11 19:45:00+00:00,25,"Kevin Friend, England",Manchester United,Burnley,3,1,W,L
+192922,2014/15,2015-02-11 19:45:00+00:00,25,"Craig Pawson, England",Southampton,West Ham,0,0,D,D
+192923,2014/15,2015-02-11 19:45:00+00:00,25,"Jonathan Moss, England",Chelsea,Everton,1,0,W,L
+192924,2014/15,2015-02-11 19:45:00+00:00,25,"Lee Mason, England",Stoke City,Manchester City,1,4,L,W
+192925,2014/15,2015-02-11 20:00:00+00:00,25,"Andre Marriner, England",Crystal Palace,Newcastle,1,1,D,D
+192926,2014/15,2015-02-11 20:00:00+00:00,25,"Robert Madley, England",West Brom,Swansea,2,0,W,L
+192928,2014/15,2015-02-21 15:00:00+00:00,26,"Martin Atkinson, England",Chelsea,Burnley,1,1,D,D
+192929,2014/15,2015-02-21 15:00:00+00:00,26,"Mark Clattenburg, England",Crystal Palace,Arsenal,1,2,L,W
+192930,2014/15,2015-02-21 15:00:00+00:00,26,"Anthony Taylor, England",Hull City,QPR,2,1,W,L
+192927,2014/15,2015-02-21 15:00:00+00:00,26,"Roger East, England",Aston Villa,Stoke City,1,2,L,W
+192932,2014/15,2015-02-21 15:00:00+00:00,26,"Neil Swarbrick, England",Swansea,Manchester United,2,1,W,L
+192931,2014/15,2015-02-21 15:00:00+00:00,26,"Mike Jones, England",Sunderland,West Brom,0,0,D,D
+192933,2014/15,2015-02-21 17:30:00+00:00,26,"Chris Foy, England",Manchester City,Newcastle,5,0,W,L
+192934,2014/15,2015-02-22 12:00:00+00:00,26,"Jonathan Moss, England",Tottenham,West Ham,2,2,D,D
+192935,2014/15,2015-02-22 14:05:00+00:00,26,"Phil Dowd, England",Everton,Leicester,2,2,D,D
+192936,2014/15,2015-02-22 16:15:00+00:00,26,"Kevin Friend, England",Southampton,Liverpool,0,2,L,W
+192937,2014/15,2015-02-28 12:45:00+00:00,27,"Mike Dean, England",West Ham,Crystal Palace,1,3,L,W
+192939,2014/15,2015-02-28 15:00:00+00:00,27,"Roger East, England",Manchester United,Sunderland,2,0,W,L
+192940,2014/15,2015-02-28 15:00:00+00:00,27,"Lee Mason, England",Newcastle,Aston Villa,1,0,W,L
+192938,2014/15,2015-02-28 15:00:00+00:00,27,"Jonathan Moss, England",Burnley,Swansea,0,1,L,W
+192942,2014/15,2015-02-28 15:00:00+00:00,27,"Phil Dowd, England",West Brom,Southampton,1,0,W,L
+192941,2014/15,2015-02-28 15:00:00+00:00,27,"Neil Swarbrick, England",Stoke City,Hull City,1,0,W,L
+192943,2014/15,2015-03-01 12:00:00+00:00,27,"Mark Clattenburg, England",Liverpool,Manchester City,2,1,W,L
+192944,2014/15,2015-03-01 14:05:00+00:00,27,"Andre Marriner, England",Arsenal,Everton,2,0,W,L
+192949,2014/15,2015-03-03 19:45:00+00:00,28,"Martin Atkinson, England",Southampton,Crystal Palace,1,0,W,L
+192948,2014/15,2015-03-03 19:45:00+00:00,28,"Mike Dean, England",Hull City,Sunderland,1,1,D,D
+192947,2014/15,2015-03-03 19:45:00+00:00,28,"Jonathan Moss, England",Aston Villa,West Brom,2,1,W,L
+192951,2014/15,2015-03-04 19:45:00+00:00,28,"Andre Marriner, England",West Ham,Chelsea,0,1,L,W
+192953,2014/15,2015-03-04 19:45:00+00:00,28,"Anthony Taylor, England",Newcastle,Manchester United,0,1,L,W
+192955,2014/15,2015-03-04 19:45:00+00:00,28,"Michael Oliver, England",Tottenham,Swansea,3,2,W,L
+192950,2014/15,2015-03-04 19:45:00+00:00,28,"Kevin Friend, England",QPR,Arsenal,1,2,L,W
+192954,2014/15,2015-03-04 19:45:00+00:00,28,"Mark Clattenburg, England",Stoke City,Everton,2,0,W,L
+192952,2014/15,2015-03-04 19:45:00+00:00,28,"Robert Madley, England",Manchester City,Leicester,2,0,W,L
+192956,2014/15,2015-03-04 20:00:00+00:00,28,"Lee Mason, England",Liverpool,Burnley,2,0,W,L
+192945,2014/15,2015-03-07 15:00:00+00:00,27,"Craig Pawson, England",QPR,Tottenham,1,2,L,W
+192957,2014/15,2015-03-14 12:45:00+00:00,29,"Lee Mason, England",Crystal Palace,QPR,3,1,W,L
+192959,2014/15,2015-03-14 15:00:00+00:00,29,"Jonathan Moss, England",Leicester,Hull City,0,0,D,D
+192961,2014/15,2015-03-14 15:00:00+00:00,29,"Michael Oliver, England",West Brom,Stoke City,1,0,W,L
+192958,2014/15,2015-03-14 15:00:00+00:00,29,"Anthony Taylor, England",Arsenal,West Ham,3,0,W,L
+192960,2014/15,2015-03-14 15:00:00+00:00,29,"Neil Swarbrick, England",Sunderland,Aston Villa,0,4,L,W
+192962,2014/15,2015-03-14 17:30:00+00:00,29,"Andre Marriner, England",Burnley,Manchester City,1,0,W,L
+192963,2014/15,2015-03-15 13:30:00+00:00,29,"Mike Dean, England",Chelsea,Southampton,1,1,D,D
+192965,2014/15,2015-03-15 16:00:00+00:00,29,"Mark Clattenburg, England",Manchester United,Tottenham,3,0,W,L
+192964,2014/15,2015-03-15 16:00:00+00:00,29,"Martin Atkinson, England",Everton,Newcastle,3,0,W,L
+192966,2014/15,2015-03-16 20:00:00+00:00,29,"Roger East, England",Swansea,Liverpool,0,1,L,W
+192967,2014/15,2015-03-21 12:45:00+00:00,30,,Manchester City,West Brom,3,0,W,L
+192969,2014/15,2015-03-21 15:00:00+00:00,30,,Newcastle,Arsenal,1,2,L,W
+192970,2014/15,2015-03-21 15:00:00+00:00,30,,Southampton,Burnley,2,0,W,L
+192972,2014/15,2015-03-21 15:00:00+00:00,30,,Tottenham,Leicester,4,3,W,L
+192968,2014/15,2015-03-21 15:00:00+00:00,30,,Aston Villa,Swansea,0,1,L,W
+192971,2014/15,2015-03-21 15:00:00+00:00,30,,Stoke City,Crystal Palace,1,2,L,W
+192973,2014/15,2015-03-21 17:30:00+00:00,30,,West Ham,Sunderland,1,0,W,L
+192974,2014/15,2015-03-22 13:30:00+00:00,30,,Liverpool,Manchester United,1,2,L,W
+192975,2014/15,2015-03-22 16:00:00+00:00,30,,Hull City,Chelsea,2,3,L,W
+192976,2014/15,2015-03-22 16:00:00+00:00,30,,QPR,Everton,1,2,L,W
+192977,2014/15,2015-04-04 11:45:00+00:00,31,,Arsenal,Liverpool,4,1,W,L
+192980,2014/15,2015-04-04 14:00:00+00:00,31,,Manchester United,Aston Villa,3,1,W,L
+192978,2014/15,2015-04-04 14:00:00+00:00,31,,Everton,Southampton,1,0,W,L
+192979,2014/15,2015-04-04 14:00:00+00:00,31,,Leicester,West Ham,2,1,W,L
+192982,2014/15,2015-04-04 14:00:00+00:00,31,,West Brom,QPR,1,4,L,W
+192981,2014/15,2015-04-04 14:00:00+00:00,31,,Swansea,Hull City,3,1,W,L
+192983,2014/15,2015-04-04 16:30:00+00:00,31,,Chelsea,Stoke City,2,1,W,L
+192984,2014/15,2015-04-05 12:30:00+00:00,31,,Burnley,Tottenham,0,0,D,D
+192985,2014/15,2015-04-05 15:00:00+00:00,31,,Sunderland,Newcastle,1,0,W,L
+192986,2014/15,2015-04-06 19:00:00+00:00,31,,Crystal Palace,Manchester City,2,1,W,L
+192997,2014/15,2015-04-07 18:45:00+00:00,33,,Aston Villa,QPR,3,3,D,D
+192987,2014/15,2015-04-11 11:45:00+00:00,32,,Swansea,Everton,1,1,D,D
+192988,2014/15,2015-04-11 14:00:00+00:00,32,,Southampton,Hull City,2,0,W,L
+192990,2014/15,2015-04-11 14:00:00+00:00,32,,Tottenham,Aston Villa,0,1,L,W
+192992,2014/15,2015-04-11 14:00:00+00:00,32,,West Ham,Stoke City,1,1,D,D
+192991,2014/15,2015-04-11 14:00:00+00:00,32,,West Brom,Leicester,2,3,L,W
+192989,2014/15,2015-04-11 14:00:00+00:00,32,,Sunderland,Crystal Palace,1,4,L,W
+192993,2014/15,2015-04-11 16:30:00+00:00,32,,Burnley,Arsenal,0,1,L,W
+192994,2014/15,2015-04-12 12:30:00+00:00,32,,QPR,Chelsea,0,1,L,W
+192995,2014/15,2015-04-12 15:00:00+00:00,32,,Manchester United,Manchester City,4,2,W,L
+192996,2014/15,2015-04-13 19:00:00+00:00,32,,Liverpool,Newcastle,2,0,W,L
+192999,2014/15,2015-04-18 14:00:00+00:00,33,,Everton,Burnley,1,0,W,L
+193000,2014/15,2015-04-18 14:00:00+00:00,33,,Leicester,Swansea,2,0,W,L
+192998,2014/15,2015-04-18 14:00:00+00:00,33,,Crystal Palace,West Brom,0,2,L,W
+193001,2014/15,2015-04-18 14:00:00+00:00,33,,Stoke City,Southampton,2,1,W,L
+193002,2014/15,2015-04-18 16:30:00+00:00,33,,Chelsea,Manchester United,1,0,W,L
+193003,2014/15,2015-04-19 12:30:00+00:00,33,,Manchester City,West Ham,2,0,W,L
+193004,2014/15,2015-04-19 15:00:00+00:00,33,,Newcastle,Tottenham,1,3,L,W
+193007,2014/15,2015-04-25 11:45:00+00:00,34,,Southampton,Tottenham,2,2,D,D
+193010,2014/15,2015-04-25 14:00:00+00:00,34,,Newcastle,Swansea,2,3,L,W
+193008,2014/15,2015-04-25 14:00:00+00:00,34,,Burnley,Leicester,0,1,L,W
+193009,2014/15,2015-04-25 14:00:00+00:00,34,,Crystal Palace,Hull City,0,2,L,W
+193013,2014/15,2015-04-25 14:00:00+00:00,34,,West Brom,Liverpool,0,0,D,D
+193011,2014/15,2015-04-25 14:00:00+00:00,34,,QPR,West Ham,0,0,D,D
+193012,2014/15,2015-04-25 14:00:00+00:00,34,,Stoke City,Sunderland,1,1,D,D
+193014,2014/15,2015-04-25 16:30:00+00:00,34,,Manchester City,Aston Villa,3,2,W,L
+193015,2014/15,2015-04-26 12:30:00+00:00,34,,Everton,Manchester United,3,0,W,L
+193016,2014/15,2015-04-26 15:00:00+00:00,34,,Arsenal,Chelsea,0,0,D,D
+193005,2014/15,2015-04-28 18:45:00+00:00,33,,Hull City,Liverpool,1,0,W,L
+192946,2014/15,2015-04-29 18:45:00+00:00,27,,Leicester,Chelsea,1,3,L,W
+193017,2014/15,2015-05-02 11:45:00+00:00,35,,Leicester,Newcastle,3,0,W,L
+193019,2014/15,2015-05-02 14:00:00+00:00,35,,Liverpool,QPR,2,1,W,L
+193022,2014/15,2015-05-02 14:00:00+00:00,35,,West Ham,Burnley,1,0,W,L
+193018,2014/15,2015-05-02 14:00:00+00:00,35,,Aston Villa,Everton,3,2,W,L
+193021,2014/15,2015-05-02 14:00:00+00:00,35,,Swansea,Stoke City,2,0,W,L
+193020,2014/15,2015-05-02 14:00:00+00:00,35,,Sunderland,Southampton,2,1,W,L
+193023,2014/15,2015-05-02 16:30:00+00:00,35,,Manchester United,West Brom,0,1,L,W
+193024,2014/15,2015-05-03 12:30:00+00:00,35,,Chelsea,Crystal Palace,1,0,W,L
+193025,2014/15,2015-05-03 15:00:00+00:00,35,,Tottenham,Manchester City,0,1,L,W
+193026,2014/15,2015-05-04 19:00:00+00:00,35,,Hull City,Arsenal,1,3,L,W
+193027,2014/15,2015-05-09 11:45:00+00:00,36,,Everton,Sunderland,0,2,L,W
+193031,2014/15,2015-05-09 14:00:00+00:00,36,,Newcastle,West Brom,1,1,D,D
+193030,2014/15,2015-05-09 14:00:00+00:00,36,,Leicester,Southampton,2,0,W,L
+193029,2014/15,2015-05-09 14:00:00+00:00,36,,Hull City,Burnley,0,1,L,W
+193028,2014/15,2015-05-09 14:00:00+00:00,36,,Aston Villa,West Ham,1,0,W,L
+193032,2014/15,2015-05-09 14:00:00+00:00,36,,Stoke City,Tottenham,3,0,W,L
+193033,2014/15,2015-05-09 16:30:00+00:00,36,,Crystal Palace,Manchester United,1,2,L,W
+193034,2014/15,2015-05-10 12:30:00+00:00,36,,Manchester City,QPR,6,0,W,L
+193035,2014/15,2015-05-10 15:00:00+00:00,36,,Chelsea,Liverpool,1,1,D,D
+193036,2014/15,2015-05-11 19:00:00+00:00,36,,Arsenal,Swansea,0,1,L,W
+193037,2014/15,2015-05-16 11:45:00+00:00,37,,Southampton,Aston Villa,6,1,W,L
+193038,2014/15,2015-05-16 14:00:00+00:00,37,,Burnley,Stoke City,0,0,D,D
+193041,2014/15,2015-05-16 14:00:00+00:00,37,,Tottenham,Hull City,2,0,W,L
+193042,2014/15,2015-05-16 14:00:00+00:00,37,,West Ham,Everton,1,2,L,W
+193039,2014/15,2015-05-16 14:00:00+00:00,37,,QPR,Newcastle,2,1,W,L
+193040,2014/15,2015-05-16 14:00:00+00:00,37,,Sunderland,Leicester,0,0,D,D
+193043,2014/15,2015-05-16 16:30:00+00:00,37,,Liverpool,Crystal Palace,1,3,L,W
+193044,2014/15,2015-05-17 12:30:00+00:00,37,,Swansea,Manchester City,2,4,L,W
+193045,2014/15,2015-05-17 15:00:00+00:00,37,,Manchester United,Arsenal,1,1,D,D
+193046,2014/15,2015-05-18 19:00:00+00:00,37,,West Brom,Chelsea,3,0,W,L
+193006,2014/15,2015-05-20 18:45:00+00:00,33,,Arsenal,Sunderland,0,0,D,D
+193055,2014/15,2015-05-24 14:00:00+00:00,38,,Newcastle,West Ham,2,0,W,L
+193047,2014/15,2015-05-24 14:00:00+00:00,38,,Arsenal,West Brom,4,1,W,L
+193051,2014/15,2015-05-24 14:00:00+00:00,38,,Everton,Tottenham,0,1,L,W
+193053,2014/15,2015-05-24 14:00:00+00:00,38,,Leicester,QPR,5,1,W,L
+193049,2014/15,2015-05-24 14:00:00+00:00,38,,Chelsea,Sunderland,3,1,W,L
+193054,2014/15,2015-05-24 14:00:00+00:00,38,,Manchester City,Southampton,2,0,W,L
+193050,2014/15,2015-05-24 14:00:00+00:00,38,,Crystal Palace,Swansea,1,0,W,L
+193052,2014/15,2015-05-24 14:00:00+00:00,38,,Hull City,Manchester United,0,0,D,D
+193048,2014/15,2015-05-24 14:00:00+00:00,38,,Aston Villa,Burnley,0,1,L,W
+193056,2014/15,2015-05-24 14:00:00+00:00,38,,Stoke City,Liverpool,6,1,W,L

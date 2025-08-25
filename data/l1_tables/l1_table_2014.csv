@@ -1,0 +1,21 @@
+Rank,Logo,Team,MP,W,D,L,GF,GA,GD,Pts,Form,Qualification,Home_wins,Home_draw,Home_lose,Home_goals_for,Home_goals_against,Away_wins,Away_draw,Away_lose,Away_goals_for,Away_goals_against
+1,https://media.api-sports.io/football/teams/85.png,Paris Saint Germain,38,24,11,3,83,36,47,83,WWWWW,UEFA Champions League,15,4,0,52,14,9,7,3,31,22
+2,https://media.api-sports.io/football/teams/80.png,Lyon,38,22,9,7,72,33,39,75,WDLWW,UEFA Champions League,14,3,2,40,11,8,6,5,32,22
+3,https://media.api-sports.io/football/teams/91.png,Monaco,38,20,11,7,51,26,25,71,WWLWW,UEFA Champions League Qualifiers,8,9,2,23,10,12,2,5,28,16
+4,https://media.api-sports.io/football/teams/81.png,Marseille,38,21,6,11,76,42,34,69,WWWWL,UEFA Europa League,13,2,4,40,22,8,4,7,36,20
+5,https://media.api-sports.io/football/teams/1063.png,Saint Etienne,38,19,12,7,51,30,21,69,WWWLW,,12,5,2,32,11,7,7,5,19,19
+6,https://media.api-sports.io/football/teams/78.png,Bordeaux,38,17,12,9,47,44,3,63,WDWDD,,12,5,2,31,23,5,7,7,16,21
+7,https://media.api-sports.io/football/teams/82.png,Montpellier,38,16,8,14,46,39,7,56,LLWDL,,11,2,6,30,21,5,6,8,16,18
+8,https://media.api-sports.io/football/teams/79.png,Lille,38,16,8,14,43,42,1,56,WLLWL,,11,5,3,26,12,5,3,11,17,30
+9,https://media.api-sports.io/football/teams/94.png,Rennes,38,13,11,14,35,42,-7,50,LLLDW,,8,5,6,22,22,5,6,8,13,20
+10,https://media.api-sports.io/football/teams/90.png,Guingamp,38,15,4,19,41,55,-14,49,LWLWW,,9,1,9,23,25,6,3,10,18,30
+11,https://media.api-sports.io/football/teams/84.png,Nice,38,13,9,16,44,53,-9,48,WWLDL,,6,6,7,21,24,7,3,9,23,29
+12,https://media.api-sports.io/football/teams/1305.png,Bastia,38,12,11,15,37,46,-9,47,LDWWW,,8,7,4,24,18,4,4,11,13,28
+13,https://media.api-sports.io/football/teams/88.png,Caen,38,12,10,16,54,55,-1,46,WDWDL,,7,3,9,26,25,5,7,7,28,30
+14,https://media.api-sports.io/football/teams/83.png,Nantes,38,11,12,15,29,40,-11,45,LDLLD,,7,7,5,17,17,4,5,10,12,23
+15,https://media.api-sports.io/football/teams/93.png,Reims,38,12,8,18,47,66,-19,44,LWWLL,,8,3,8,24,29,4,5,10,23,37
+16,https://media.api-sports.io/football/teams/97.png,Lorient,38,12,7,19,44,50,-6,43,LDWDW,,6,5,8,17,17,6,2,11,27,33
+17,https://media.api-sports.io/football/teams/96.png,Toulouse,38,12,6,20,43,64,-21,42,LLWLD,,8,6,5,28,29,4,0,15,15,35
+18,https://media.api-sports.io/football/teams/3006.png,Evian TG,38,11,4,23,41,62,-21,37,LLLLL,Relegation,7,2,10,20,25,4,2,13,21,37
+19,https://media.api-sports.io/football/teams/112.png,Metz,38,7,9,22,31,61,-30,30,LLLLL,Relegation,6,4,9,26,32,1,5,13,5,29
+20,https://media.api-sports.io/football/teams/116.png,Lens,38,7,8,23,32,61,-29,29,WLLLL,Relegation,5,4,10,14,24,2,4,13,18,37

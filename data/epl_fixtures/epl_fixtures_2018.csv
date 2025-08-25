@@ -1,0 +1,381 @@
+fixture_id,season,date,match_day,referee,home_team,away_team,home_goals,away_goals,home_results,away_results
+65,2018/19,2018-08-10 19:00:00+00:00,1,"Andre Marriner, England",Manchester United,Leicester,2,1,W,L
+66,2018/19,2018-08-11 11:30:00+00:00,1,"Martin Atkinson, England",Newcastle,Tottenham,1,2,L,W
+67,2018/19,2018-08-11 14:00:00+00:00,1,"Kevin Friend, England",Bournemouth,Cardiff,2,0,W,L
+68,2018/19,2018-08-11 14:00:00+00:00,1,"Mike Dean, England",Fulham,Crystal Palace,0,2,L,W
+69,2018/19,2018-08-11 14:00:00+00:00,1,"Chris Kavanagh, England",Huddersfield,Chelsea,0,3,L,W
+70,2018/19,2018-08-11 14:00:00+00:00,1,"Jonathan Moss, England",Watford,Brighton,2,0,W,L
+71,2018/19,2018-08-11 16:30:00+00:00,1,"Craig Pawson, England",Wolves,Everton,2,2,D,D
+72,2018/19,2018-08-12 12:30:00+00:00,1,"Anthony Taylor, England",Liverpool,West Ham,4,0,W,L
+73,2018/19,2018-08-12 12:30:00+00:00,1,"Graham Scott, England",Southampton,Burnley,0,0,D,D
+74,2018/19,2018-08-12 15:00:00+00:00,1,"Michael Oliver, England",Arsenal,Manchester City,0,2,L,W
+75,2018/19,2018-08-18 11:30:00+00:00,2,"Craig Pawson, England",Cardiff,Newcastle,0,0,D,D
+78,2018/19,2018-08-18 14:00:00+00:00,2,"Mike Dean, England",Leicester,Wolves,2,0,W,L
+77,2018/19,2018-08-18 14:00:00+00:00,2,"Lee Mason, England",Everton,Southampton,2,1,W,L
+80,2018/19,2018-08-18 14:00:00+00:00,2,"Stuart Attwell, England",West Ham,Bournemouth,1,2,L,W
+79,2018/19,2018-08-18 14:00:00+00:00,2,"Anthony Taylor, England",Tottenham,Fulham,3,1,W,L
+81,2018/19,2018-08-18 16:30:00+00:00,2,"Martin Atkinson, England",Chelsea,Arsenal,3,2,W,L
+76,2018/19,2018-08-19 12:30:00+00:00,2,"Paul Tierney, England",Burnley,Watford,1,3,L,W
+82,2018/19,2018-08-19 12:30:00+00:00,2,"Andre Marriner, England",Manchester City,Huddersfield,6,1,W,L
+83,2018/19,2018-08-19 15:00:00+00:00,2,"Kevin Friend, England",Brighton,Manchester United,3,2,W,L
+84,2018/19,2018-08-20 19:00:00+00:00,2,"Michael Oliver, England",Crystal Palace,Liverpool,0,2,L,W
+85,2018/19,2018-08-25 11:30:00+00:00,3,"Martin Atkinson, England",Wolves,Manchester City,1,1,D,D
+89,2018/19,2018-08-25 14:00:00+00:00,3,"Michael Oliver, England",Huddersfield,Cardiff,0,0,D,D
+87,2018/19,2018-08-25 14:00:00+00:00,3,"Lee Probert, England",Bournemouth,Everton,2,2,D,D
+86,2018/19,2018-08-25 14:00:00+00:00,3,"Graham Scott, England",Arsenal,West Ham,3,1,W,L
+90,2018/19,2018-08-25 14:00:00+00:00,3,"Jonathan Moss, England",Southampton,Leicester,1,2,L,W
+91,2018/19,2018-08-25 16:30:00+00:00,3,"Chris Kavanagh, England",Liverpool,Brighton,1,0,W,L
+92,2018/19,2018-08-26 12:30:00+00:00,3,"Anthony Taylor, England",Watford,Crystal Palace,2,1,W,L
+93,2018/19,2018-08-26 15:00:00+00:00,3,"Paul Tierney, England",Newcastle,Chelsea,1,2,L,W
+88,2018/19,2018-08-26 15:00:00+00:00,3,"David Coote, England",Fulham,Burnley,4,2,W,L
+94,2018/19,2018-08-27 19:00:00+00:00,3,"Craig Pawson, England",Manchester United,Tottenham,0,3,L,W
+95,2018/19,2018-09-01 11:30:00+00:00,4,"Paul Tierney, England",Leicester,Liverpool,1,2,L,W
+96,2018/19,2018-09-01 14:00:00+00:00,4,"Lee Probert, England",Brighton,Fulham,2,2,D,D
+100,2018/19,2018-09-01 14:00:00+00:00,4,"Stuart Attwell, England",Everton,Huddersfield,1,1,D,D
+101,2018/19,2018-09-01 14:00:00+00:00,4,"Chris Kavanagh, England",West Ham,Wolves,0,1,L,W
+99,2018/19,2018-09-01 14:00:00+00:00,4,"Martin Atkinson, England",Crystal Palace,Southampton,0,2,L,W
+98,2018/19,2018-09-01 14:00:00+00:00,4,"Lee Mason, England",Chelsea,Bournemouth,2,0,W,L
+102,2018/19,2018-09-01 16:30:00+00:00,4,"Kevin Friend, England",Manchester City,Newcastle,2,1,W,L
+103,2018/19,2018-09-02 12:30:00+00:00,4,"Anthony Taylor, England",Cardiff,Arsenal,2,3,L,W
+104,2018/19,2018-09-02 15:00:00+00:00,4,"Andre Marriner, England",Watford,Tottenham,2,1,W,L
+97,2018/19,2018-09-02 15:00:00+00:00,4,"Jonathan Moss, England",Burnley,Manchester United,0,2,L,W
+105,2018/19,2018-09-15 11:30:00+00:00,5,"Michael Oliver, England",Tottenham,Liverpool,1,2,L,W
+110,2018/19,2018-09-15 14:00:00+00:00,5,"Lee Probert, England",Newcastle,Arsenal,1,2,L,W
+109,2018/19,2018-09-15 14:00:00+00:00,5,"Stuart Attwell, England",Manchester City,Fulham,3,0,W,L
+106,2018/19,2018-09-15 14:00:00+00:00,5,"Craig Pawson, England",Bournemouth,Leicester,4,2,W,L
+107,2018/19,2018-09-15 14:00:00+00:00,5,"Jonathan Moss, England",Chelsea,Cardiff,4,1,W,L
+108,2018/19,2018-09-15 14:00:00+00:00,5,"Graham Scott, England",Huddersfield,Crystal Palace,0,1,L,W
+111,2018/19,2018-09-15 16:30:00+00:00,5,"Mike Dean, England",Watford,Manchester United,1,2,L,W
+112,2018/19,2018-09-16 12:30:00+00:00,5,"Andre Marriner, England",Wolves,Burnley,1,0,W,L
+113,2018/19,2018-09-16 15:00:00+00:00,5,"Martin Atkinson, England",Everton,West Ham,1,3,L,W
+114,2018/19,2018-09-17 19:00:00+00:00,5,"Anthony Taylor, England",Southampton,Brighton,2,2,D,D
+115,2018/19,2018-09-22 11:30:00+00:00,6,"Martin Atkinson, England",Fulham,Watford,1,1,D,D
+117,2018/19,2018-09-22 14:00:00+00:00,6,"Michael Oliver, England",Cardiff,Manchester City,0,5,L,W
+120,2018/19,2018-09-22 14:00:00+00:00,6,"Paul Tierney, England",Liverpool,Southampton,3,0,W,L
+121,2018/19,2018-09-22 14:00:00+00:00,6,"Kevin Friend, England",Manchester United,Wolves,1,1,D,D
+116,2018/19,2018-09-22 14:00:00+00:00,6,"Anthony Taylor, England",Burnley,Bournemouth,4,0,W,L
+118,2018/19,2018-09-22 14:00:00+00:00,6,"Andre Marriner, England",Crystal Palace,Newcastle,0,0,D,D
+119,2018/19,2018-09-22 14:00:00+00:00,6,"David Coote, England",Leicester,Huddersfield,3,1,W,L
+122,2018/19,2018-09-22 16:30:00+00:00,6,"Chris Kavanagh, England",Brighton,Tottenham,1,2,L,W
+123,2018/19,2018-09-23 12:30:00+00:00,6,"Mike Dean, England",West Ham,Chelsea,0,0,D,D
+124,2018/19,2018-09-23 15:00:00+00:00,6,"Jonathan Moss, England",Arsenal,Everton,2,0,W,L
+125,2018/19,2018-09-29 11:30:00+00:00,7,"Michael Oliver, England",West Ham,Manchester United,3,1,W,L
+126,2018/19,2018-09-29 14:00:00+00:00,7,"Anthony Taylor, England",Arsenal,Watford,2,0,W,L
+127,2018/19,2018-09-29 14:00:00+00:00,7,"Roger East, England",Everton,Fulham,3,0,W,L
+130,2018/19,2018-09-29 14:00:00+00:00,7,"Simon Hooper, England",Newcastle,Leicester,0,2,L,W
+128,2018/19,2018-09-29 14:00:00+00:00,7,"Craig Pawson, England",Huddersfield,Tottenham,0,2,L,W
+131,2018/19,2018-09-29 14:00:00+00:00,7,"Stuart Attwell, England",Wolves,Southampton,2,0,W,L
+129,2018/19,2018-09-29 14:00:00+00:00,7,"Lee Mason, England",Manchester City,Brighton,2,0,W,L
+132,2018/19,2018-09-29 16:30:00+00:00,7,"Andre Marriner, England",Chelsea,Liverpool,1,1,D,D
+133,2018/19,2018-09-30 15:00:00+00:00,7,"Martin Atkinson, England",Cardiff,Burnley,1,2,L,W
+134,2018/19,2018-10-01 19:00:00+00:00,7,"Mike Dean, England",Bournemouth,Crystal Palace,2,1,W,L
+135,2018/19,2018-10-05 19:00:00+00:00,8,"Kevin Friend, England",Brighton,West Ham,1,0,W,L
+144,2018/19,2018-10-06 14:00:00+00:00,8,"Jonathan Moss, England",Watford,Bournemouth,0,4,L,W
+136,2018/19,2018-10-06 14:00:00+00:00,8,"Chris Kavanagh, England",Burnley,Huddersfield,1,1,D,D
+139,2018/19,2018-10-06 14:00:00+00:00,8,"Andre Marriner, England",Leicester,Everton,1,2,L,W
+143,2018/19,2018-10-06 14:00:00+00:00,8,"Mike Dean, England",Tottenham,Cardiff,1,0,W,L
+137,2018/19,2018-10-06 14:00:00+00:00,8,"Michael Oliver, England",Crystal Palace,Wolves,0,1,L,W
+141,2018/19,2018-10-06 16:30:00+00:00,8,"Anthony Taylor, England",Manchester United,Newcastle,3,2,W,L
+138,2018/19,2018-10-07 11:00:00+00:00,8,"Paul Tierney, England",Fulham,Arsenal,1,5,L,W
+142,2018/19,2018-10-07 13:15:00+00:00,8,"Craig Pawson, England",Southampton,Chelsea,0,3,L,W
+140,2018/19,2018-10-07 15:30:00+00:00,8,"Martin Atkinson, England",Liverpool,Manchester City,0,0,D,D
+148,2018/19,2018-10-20 11:30:00+00:00,9,"Mike Dean, England",Chelsea,Manchester United,2,2,D,D
+152,2018/19,2018-10-20 14:00:00+00:00,9,"Andre Marriner, England",Newcastle,Brighton,0,1,L,W
+146,2018/19,2018-10-20 14:00:00+00:00,9,"Lee Probert, England",Bournemouth,Southampton,0,0,D,D
+154,2018/19,2018-10-20 14:00:00+00:00,9,"Lee Mason, England",Wolves,Watford,0,2,L,W
+147,2018/19,2018-10-20 14:00:00+00:00,9,"Kevin Friend, England",Cardiff,Fulham,4,2,W,L
+153,2018/19,2018-10-20 14:00:00+00:00,9,"Martin Atkinson, England",West Ham,Tottenham,0,1,L,W
+151,2018/19,2018-10-20 14:00:00+00:00,9,"Jonathan Moss, England",Manchester City,Burnley,5,0,W,L
+150,2018/19,2018-10-20 16:30:00+00:00,9,"Michael Oliver, England",Huddersfield,Liverpool,0,1,L,W
+149,2018/19,2018-10-21 15:00:00+00:00,9,"Anthony Taylor, England",Everton,Crystal Palace,2,0,W,L
+145,2018/19,2018-10-22 19:00:00+00:00,9,"Chris Kavanagh, England",Arsenal,Leicester,3,1,W,L
+158,2018/19,2018-10-27 14:00:00+00:00,10,"Andre Marriner, England",Fulham,Bournemouth,0,3,L,W
+155,2018/19,2018-10-27 14:00:00+00:00,10,"Anthony Taylor, England",Brighton,Wolves,1,0,W,L
+164,2018/19,2018-10-27 14:00:00+00:00,10,"Mike Dean, England",Watford,Huddersfield,3,0,W,L
+162,2018/19,2018-10-27 14:00:00+00:00,10,"Chris Kavanagh, England",Southampton,Newcastle,0,0,D,D
+160,2018/19,2018-10-27 14:00:00+00:00,10,"Stuart Attwell, England",Liverpool,Cardiff,4,1,W,L
+159,2018/19,2018-10-27 16:30:00+00:00,10,"Michael Oliver, England",Leicester,West Ham,1,1,D,D
+156,2018/19,2018-10-28 13:30:00+00:00,10,"Craig Pawson, England",Burnley,Chelsea,0,4,L,W
+157,2018/19,2018-10-28 13:30:00+00:00,10,"Martin Atkinson, England",Crystal Palace,Arsenal,2,2,D,D
+161,2018/19,2018-10-28 16:00:00+00:00,10,"Jonathan Moss, England",Manchester United,Everton,2,1,W,L
+163,2018/19,2018-10-29 20:00:00+00:00,10,"Kevin Friend, England",Tottenham,Manchester City,0,1,L,W
+166,2018/19,2018-11-03 12:30:00+00:00,11,"Paul Tierney, England",Bournemouth,Manchester United,1,2,L,W
+172,2018/19,2018-11-03 15:00:00+00:00,11,"Craig Pawson, England",Newcastle,Watford,1,0,W,L
+167,2018/19,2018-11-03 15:00:00+00:00,11,"Lee Probert, England",Cardiff,Leicester,0,1,L,W
+169,2018/19,2018-11-03 15:00:00+00:00,11,"David Coote, England",Everton,Brighton,3,1,W,L
+173,2018/19,2018-11-03 15:00:00+00:00,11,"Roger East, England",West Ham,Burnley,4,2,W,L
+165,2018/19,2018-11-03 17:30:00+00:00,11,"Andre Marriner, England",Arsenal,Liverpool,1,1,D,D
+174,2018/19,2018-11-03 19:45:00+00:00,11,"Mike Dean, England",Wolves,Tottenham,2,3,L,W
+171,2018/19,2018-11-04 15:00:00+00:00,11,"Lee Mason, England",Manchester City,Southampton,6,1,W,L
+168,2018/19,2018-11-04 16:00:00+00:00,11,"Michael Oliver, England",Chelsea,Crystal Palace,3,1,W,L
+170,2018/19,2018-11-05 20:00:00+00:00,11,"Anthony Taylor, England",Huddersfield,Fulham,1,0,W,L
+176,2018/19,2018-11-10 12:30:00+00:00,12,"Martin Atkinson, England",Cardiff,Brighton,2,1,W,L
+183,2018/19,2018-11-10 15:00:00+00:00,12,"Lee Probert, England",Newcastle,Bournemouth,2,1,W,L
+179,2018/19,2018-11-10 15:00:00+00:00,12,"Chris Kavanagh, England",Huddersfield,West Ham,1,1,D,D
+184,2018/19,2018-11-10 15:00:00+00:00,12,"Simon Hooper, England",Southampton,Watford,1,1,D,D
+180,2018/19,2018-11-10 15:00:00+00:00,12,"Mike Dean, England",Leicester,Burnley,0,0,D,D
+178,2018/19,2018-11-10 17:30:00+00:00,12,"Jonathan Moss, England",Crystal Palace,Tottenham,0,1,L,W
+181,2018/19,2018-11-11 12:00:00+00:00,12,"Paul Tierney, England",Liverpool,Fulham,2,0,W,L
+177,2018/19,2018-11-11 14:15:00+00:00,12,"Kevin Friend, England",Chelsea,Everton,0,0,D,D
+175,2018/19,2018-11-11 16:30:00+00:00,12,"Stuart Attwell, England",Arsenal,Wolves,1,1,D,D
+182,2018/19,2018-11-11 16:30:00+00:00,12,"Anthony Taylor, England",Manchester City,Manchester United,3,1,W,L
+190,2018/19,2018-11-24 15:00:00+00:00,13,"Lee Mason, England",Manchester United,Crystal Palace,0,0,D,D
+189,2018/19,2018-11-24 15:00:00+00:00,13,"Michael Oliver, England",Fulham,Southampton,3,2,W,L
+192,2018/19,2018-11-24 15:00:00+00:00,13,"Jonathan Moss, England",Watford,Liverpool,0,3,L,W
+188,2018/19,2018-11-24 15:00:00+00:00,13,"Paul Tierney, England",Everton,Cardiff,1,0,W,L
+193,2018/19,2018-11-24 15:00:00+00:00,13,"Andre Marriner, England",West Ham,Manchester City,0,4,L,W
+186,2018/19,2018-11-24 15:00:00+00:00,13,"Chris Kavanagh, England",Brighton,Leicester,1,1,D,D
+191,2018/19,2018-11-24 17:30:00+00:00,13,"Martin Atkinson, England",Tottenham,Chelsea,3,1,W,L
+185,2018/19,2018-11-25 13:30:00+00:00,13,"Craig Pawson, England",Bournemouth,Arsenal,1,2,L,W
+194,2018/19,2018-11-25 16:00:00+00:00,13,"Kevin Friend, England",Wolves,Huddersfield,0,2,L,W
+187,2018/19,2018-11-26 20:30:00+00:00,13,"Anthony Taylor, England",Burnley,Newcastle,1,2,L,W
+196,2018/19,2018-11-30 20:00:00+00:00,14,"Andre Marriner, England",Cardiff,Wolves,2,1,W,L
+203,2018/19,2018-12-01 15:00:00+00:00,14,"Paul Tierney, England",Newcastle,West Ham,0,3,L,W
+199,2018/19,2018-12-01 15:00:00+00:00,14,"Michael Oliver, England",Huddersfield,Brighton,1,2,L,W
+200,2018/19,2018-12-01 15:00:00+00:00,14,"Graham Scott, England",Leicester,Watford,2,0,W,L
+202,2018/19,2018-12-01 15:00:00+00:00,14,"Stuart Attwell, England",Manchester City,Bournemouth,3,1,W,L
+198,2018/19,2018-12-01 15:00:00+00:00,14,"Lee Probert, England",Crystal Palace,Burnley,2,0,W,L
+204,2018/19,2018-12-01 17:30:00+00:00,14,"Kevin Friend, England",Southampton,Manchester United,2,2,D,D
+197,2018/19,2018-12-02 12:00:00+00:00,14,"Craig Pawson, England",Chelsea,Fulham,2,0,W,L
+195,2018/19,2018-12-02 14:05:00+00:00,14,"Mike Dean, England",Arsenal,Tottenham,4,2,W,L
+201,2018/19,2018-12-02 16:15:00+00:00,14,"Chris Kavanagh, England",Liverpool,Everton,1,0,W,L
+210,2018/19,2018-12-04 19:45:00+00:00,15,"Graham Scott, England",West Ham,Cardiff,3,1,W,L
+206,2018/19,2018-12-04 19:45:00+00:00,15,"Kevin Friend, England",Brighton,Crystal Palace,3,1,W,L
+205,2018/19,2018-12-04 19:45:00+00:00,15,"Roger East, England",Bournemouth,Huddersfield,2,1,W,L
+209,2018/19,2018-12-04 20:00:00+00:00,15,"Paul Tierney, England",Watford,Manchester City,1,2,L,W
+208,2018/19,2018-12-05 19:45:00+00:00,15,"David Coote, England",Fulham,Leicester,1,1,D,D
+211,2018/19,2018-12-05 19:45:00+00:00,15,"Jonathan Moss, England",Wolves,Chelsea,2,1,W,L
+207,2018/19,2018-12-05 19:45:00+00:00,15,"Stuart Attwell, England",Burnley,Liverpool,1,3,L,W
+213,2018/19,2018-12-05 19:45:00+00:00,15,"Lee Mason, England",Everton,Newcastle,1,1,D,D
+212,2018/19,2018-12-05 20:00:00+00:00,15,"Andre Marriner, England",Manchester United,Arsenal,2,2,D,D
+214,2018/19,2018-12-05 20:00:00+00:00,15,"Anthony Taylor, England",Tottenham,Southampton,3,1,W,L
+216,2018/19,2018-12-08 12:30:00+00:00,16,"Lee Mason, England",Bournemouth,Liverpool,0,4,L,W
+224,2018/19,2018-12-08 15:00:00+00:00,16,"Anthony Taylor, England",West Ham,Crystal Palace,3,2,W,L
+218,2018/19,2018-12-08 15:00:00+00:00,16,"Jonathan Moss, England",Cardiff,Southampton,1,0,W,L
+222,2018/19,2018-12-08 15:00:00+00:00,16,"Lee Probert, England",Manchester United,Fulham,4,1,W,L
+215,2018/19,2018-12-08 15:00:00+00:00,16,"Paul Tierney, England",Arsenal,Huddersfield,1,0,W,L
+217,2018/19,2018-12-08 15:00:00+00:00,16,"Martin Atkinson, England",Burnley,Brighton,1,0,W,L
+219,2018/19,2018-12-08 17:30:00+00:00,16,"Michael Oliver, England",Chelsea,Manchester City,2,0,W,L
+221,2018/19,2018-12-08 19:45:00+00:00,16,"Craig Pawson, England",Leicester,Tottenham,0,2,L,W
+223,2018/19,2018-12-09 16:00:00+00:00,16,"Mike Dean, England",Newcastle,Wolves,1,2,L,W
+220,2018/19,2018-12-10 20:00:00+00:00,16,"Kevin Friend, England",Everton,Watford,2,2,D,D
+230,2018/19,2018-12-15 12:30:00+00:00,17,"Craig Pawson, England",Manchester City,Everton,3,1,W,L
+233,2018/19,2018-12-15 15:00:00+00:00,17,"Andy Madley, England",Watford,Cardiff,3,2,W,L
+232,2018/19,2018-12-15 15:00:00+00:00,17,"Graham Scott, England",Tottenham,Burnley,1,0,W,L
+228,2018/19,2018-12-15 15:00:00+00:00,17,"Anthony Taylor, England",Huddersfield,Newcastle,0,1,L,W
+226,2018/19,2018-12-15 15:00:00+00:00,17,"Michael Oliver, England",Crystal Palace,Leicester,1,0,W,L
+234,2018/19,2018-12-15 15:00:00+00:00,17,"Simon Hooper, England",Wolves,Bournemouth,2,0,W,L
+227,2018/19,2018-12-15 17:30:00+00:00,17,"Mike Dean, England",Fulham,West Ham,0,2,L,W
+231,2018/19,2018-12-16 13:30:00+00:00,17,"Chris Kavanagh, England",Southampton,Arsenal,3,2,W,L
+225,2018/19,2018-12-16 13:30:00+00:00,17,"Stuart Attwell, England",Brighton,Chelsea,1,2,L,W
+229,2018/19,2018-12-16 16:00:00+00:00,17,"Martin Atkinson, England",Liverpool,Manchester United,3,1,W,L
+244,2018/19,2018-12-21 20:00:00+00:00,18,"Craig Pawson, England",Wolves,Liverpool,0,2,L,W
+235,2018/19,2018-12-22 12:30:00+00:00,18,"Kevin Friend, England",Arsenal,Burnley,3,1,W,L
+236,2018/19,2018-12-22 15:00:00+00:00,18,"Mike Dean, England",Bournemouth,Brighton,2,0,W,L
+240,2018/19,2018-12-22 15:00:00+00:00,18,"Stuart Attwell, England",Huddersfield,Southampton,1,3,L,W
+242,2018/19,2018-12-22 15:00:00+00:00,18,"Martin Atkinson, England",Newcastle,Fulham,0,0,D,D
+241,2018/19,2018-12-22 15:00:00+00:00,18,"Andre Marriner, England",Manchester City,Crystal Palace,2,3,L,W
+243,2018/19,2018-12-22 15:00:00+00:00,18,"Lee Mason, England",West Ham,Watford,0,2,L,W
+238,2018/19,2018-12-22 15:00:00+00:00,18,"Lee Probert, England",Chelsea,Leicester,0,1,L,W
+237,2018/19,2018-12-22 17:30:00+00:00,18,"Michael Oliver, England",Cardiff,Manchester United,1,5,L,W
+239,2018/19,2018-12-23 16:00:00+00:00,18,"Paul Tierney, England",Everton,Tottenham,2,6,L,W
+248,2018/19,2018-12-26 12:30:00+00:00,19,"Andre Marriner, England",Fulham,Wolves,1,1,D,D
+251,2018/19,2018-12-26 15:00:00+00:00,19,"Jonathan Moss, England",Manchester United,Huddersfield,3,1,W,L
+253,2018/19,2018-12-26 15:00:00+00:00,19,"Chris Kavanagh, England",Tottenham,Bournemouth,5,0,W,L
+250,2018/19,2018-12-26 15:00:00+00:00,19,"Graham Scott, England",Liverpool,Newcastle,4,0,W,L
+249,2018/19,2018-12-26 15:00:00+00:00,19,"Mike Dean, England",Leicester,Manchester City,2,1,W,L
+246,2018/19,2018-12-26 15:00:00+00:00,19,"Michael Oliver, England",Burnley,Everton,1,5,L,W
+247,2018/19,2018-12-26 15:00:00+00:00,19,"Lee Probert, England",Crystal Palace,Cardiff,0,0,D,D
+245,2018/19,2018-12-26 17:15:00+00:00,19,"Anthony Taylor, England",Brighton,Arsenal,1,1,D,D
+254,2018/19,2018-12-26 19:30:00+00:00,19,"Martin Atkinson, England",Watford,Chelsea,1,2,L,W
+252,2018/19,2018-12-27 19:45:00+00:00,19,"Craig Pawson, England",Southampton,West Ham,1,2,L,W
+258,2018/19,2018-12-29 15:00:00+00:00,20,"Kevin Friend, England",Fulham,Huddersfield,1,0,W,L
+264,2018/19,2018-12-29 15:00:00+00:00,20,"Roger East, England",Watford,Newcastle,1,1,D,D
+259,2018/19,2018-12-29 15:00:00+00:00,20,"Simon Hooper, England",Leicester,Cardiff,0,1,L,W
+263,2018/19,2018-12-29 15:00:00+00:00,20,"Stuart Attwell, England",Tottenham,Wolves,1,3,L,W
+255,2018/19,2018-12-29 15:00:00+00:00,20,"Andy Madley, England",Brighton,Everton,1,0,W,L
+260,2018/19,2018-12-29 17:30:00+00:00,20,"Michael Oliver, England",Liverpool,Arsenal,5,1,W,L
+257,2018/19,2018-12-30 12:00:00+00:00,20,"Craig Pawson, England",Crystal Palace,Chelsea,0,1,L,W
+262,2018/19,2018-12-30 14:15:00+00:00,20,"Paul Tierney, England",Southampton,Manchester City,1,3,L,W
+256,2018/19,2018-12-30 14:15:00+00:00,20,"David Coote, England",Burnley,West Ham,2,0,W,L
+261,2018/19,2018-12-30 16:30:00+00:00,20,"Lee Mason, England",Manchester United,Bournemouth,4,1,W,L
+269,2018/19,2019-01-01 12:30:00+00:00,21,"Martin Atkinson, England",Everton,Leicester,0,1,L,W
+265,2018/19,2019-01-01 15:00:00+00:00,21,"Graham Scott, England",Arsenal,Fulham,4,1,W,L
+267,2018/19,2019-01-01 17:30:00+00:00,21,"Kevin Friend, England",Cardiff,Tottenham,0,3,L,W
+270,2018/19,2019-01-02 19:45:00+00:00,21,"Mike Dean, England",Huddersfield,Burnley,1,2,L,W
+274,2018/19,2019-01-02 19:45:00+00:00,21,"Roger East, England",Wolves,Crystal Palace,0,2,L,W
+273,2018/19,2019-01-02 19:45:00+00:00,21,"Chris Kavanagh, England",West Ham,Brighton,2,2,D,D
+268,2018/19,2019-01-02 19:45:00+00:00,21,"Jonathan Moss, England",Chelsea,Southampton,0,0,D,D
+272,2018/19,2019-01-02 20:00:00+00:00,21,"Andre Marriner, England",Newcastle,Manchester United,0,2,L,W
+266,2018/19,2019-01-02 20:00:00+00:00,21,"David Coote, England",Bournemouth,Watford,3,3,D,D
+271,2018/19,2019-01-03 20:00:00+00:00,21,"Anthony Taylor, England",Manchester City,Liverpool,2,1,W,L
+284,2018/19,2019-01-12 12:30:00+00:00,22,"Jonathan Moss, England",West Ham,Arsenal,1,0,W,L
+281,2018/19,2019-01-12 15:00:00+00:00,22,"Michael Oliver, England",Leicester,Southampton,1,2,L,W
+276,2018/19,2019-01-12 15:00:00+00:00,22,"Martin Atkinson, England",Burnley,Fulham,2,1,W,L
+279,2018/19,2019-01-12 15:00:00+00:00,22,"Paul Tierney, England",Crystal Palace,Watford,1,2,L,W
+275,2018/19,2019-01-12 15:00:00+00:00,22,"Kevin Friend, England",Brighton,Liverpool,0,1,L,W
+277,2018/19,2019-01-12 15:00:00+00:00,22,"Lee Mason, England",Cardiff,Huddersfield,0,0,D,D
+278,2018/19,2019-01-12 17:30:00+00:00,22,"Chris Kavanagh, England",Chelsea,Newcastle,2,1,W,L
+280,2018/19,2019-01-13 14:15:00+00:00,22,"Anthony Taylor, England",Everton,Bournemouth,2,0,W,L
+283,2018/19,2019-01-13 16:30:00+00:00,22,"Mike Dean, England",Tottenham,Manchester United,0,1,L,W
+282,2018/19,2019-01-14 20:00:00+00:00,22,"Craig Pawson, England",Manchester City,Wolves,3,0,W,L
+294,2018/19,2019-01-19 12:30:00+00:00,23,"Chris Kavanagh, England",Wolves,Leicester,4,3,W,L
+291,2018/19,2019-01-19 15:00:00+00:00,23,"Stuart Attwell, England",Newcastle,Cardiff,3,0,W,L
+290,2018/19,2019-01-19 15:00:00+00:00,23,"Paul Tierney, England",Manchester United,Brighton,2,1,W,L
+286,2018/19,2019-01-19 15:00:00+00:00,23,"Simon Hooper, England",Bournemouth,West Ham,2,0,W,L
+293,2018/19,2019-01-19 15:00:00+00:00,23,"Michael Oliver, England",Watford,Burnley,0,0,D,D
+292,2018/19,2019-01-19 15:00:00+00:00,23,"Graham Scott, England",Southampton,Everton,2,1,W,L
+289,2018/19,2019-01-19 15:00:00+00:00,23,"Jonathan Moss, England",Liverpool,Crystal Palace,4,3,W,L
+285,2018/19,2019-01-19 17:30:00+00:00,23,"Anthony Taylor, England",Arsenal,Chelsea,2,0,W,L
+288,2018/19,2019-01-20 13:30:00+00:00,23,"Andre Marriner, England",Huddersfield,Manchester City,0,3,L,W
+287,2018/19,2019-01-20 16:00:00+00:00,23,"Craig Pawson, England",Fulham,Tottenham,1,2,L,W
+298,2018/19,2019-01-29 19:45:00+00:00,24,"Stuart Attwell, England",Huddersfield,Everton,0,1,L,W
+299,2018/19,2019-01-29 19:45:00+00:00,24,"David Coote, England",Wolves,West Ham,3,0,W,L
+297,2018/19,2019-01-29 19:45:00+00:00,24,"Lee Probert, England",Fulham,Brighton,4,2,W,L
+295,2018/19,2019-01-29 19:45:00+00:00,24,"Mike Dean, England",Arsenal,Cardiff,2,1,W,L
+300,2018/19,2019-01-29 20:00:00+00:00,24,"Jonathan Moss, England",Manchester United,Burnley,2,2,D,D
+301,2018/19,2019-01-29 20:00:00+00:00,24,"Paul Tierney, England",Newcastle,Manchester City,2,1,W,L
+296,2018/19,2019-01-30 19:45:00+00:00,24,"Roger East, England",Bournemouth,Chelsea,4,0,W,L
+302,2018/19,2019-01-30 19:45:00+00:00,24,"Andre Marriner, England",Southampton,Crystal Palace,1,1,D,D
+303,2018/19,2019-01-30 20:00:00+00:00,24,"Martin Atkinson, England",Liverpool,Leicester,1,1,D,D
+304,2018/19,2019-01-30 20:00:00+00:00,24,"Graham Scott, England",Tottenham,Watford,2,1,W,L
+313,2018/19,2019-02-02 12:30:00+00:00,25,"Andre Marriner, England",Tottenham,Newcastle,1,0,W,L
+306,2018/19,2019-02-02 15:00:00+00:00,25,"Anthony Taylor, England",Burnley,Southampton,1,1,D,D
+310,2018/19,2019-02-02 15:00:00+00:00,25,"Lee Mason, England",Everton,Wolves,1,3,L,W
+308,2018/19,2019-02-02 15:00:00+00:00,25,"Paul Tierney, England",Chelsea,Huddersfield,5,0,W,L
+305,2018/19,2019-02-02 15:00:00+00:00,25,"Simon Hooper, England",Brighton,Watford,0,0,D,D
+309,2018/19,2019-02-02 15:00:00+00:00,25,"Michael Oliver, England",Crystal Palace,Fulham,2,0,W,L
+307,2018/19,2019-02-02 17:30:00+00:00,25,"Jonathan Moss, England",Cardiff,Bournemouth,2,0,W,L
+311,2018/19,2019-02-03 14:05:00+00:00,25,"Mike Dean, England",Leicester,Manchester United,0,1,L,W
+312,2018/19,2019-02-03 16:30:00+00:00,25,"Martin Atkinson, England",Manchester City,Arsenal,3,1,W,L
+314,2018/19,2019-02-04 20:00:00+00:00,25,"Kevin Friend, England",West Ham,Liverpool,1,1,D,D
+330,2018/19,2019-02-06 19:45:00+00:00,27,"Craig Pawson, England",Everton,Manchester City,0,2,L,W
+317,2018/19,2019-02-09 12:30:00+00:00,26,"Paul Tierney, England",Fulham,Manchester United,0,3,L,W
+318,2018/19,2019-02-09 15:00:00+00:00,26,"Jonathan Moss, England",Huddersfield,Arsenal,1,2,L,W
+323,2018/19,2019-02-09 15:00:00+00:00,26,"Lee Probert, England",Watford,Everton,1,0,W,L
+319,2018/19,2019-02-09 15:00:00+00:00,26,"Anthony Taylor, England",Liverpool,Bournemouth,3,0,W,L
+321,2018/19,2019-02-09 15:00:00+00:00,26,"Martin Atkinson, England",Southampton,Cardiff,1,2,L,W
+316,2018/19,2019-02-09 15:00:00+00:00,26,"Craig Pawson, England",Crystal Palace,West Ham,1,1,D,D
+315,2018/19,2019-02-09 17:30:00+00:00,26,"Stuart Attwell, England",Brighton,Burnley,1,3,L,W
+322,2018/19,2019-02-10 13:30:00+00:00,26,"Michael Oliver, England",Tottenham,Leicester,3,1,W,L
+320,2018/19,2019-02-10 16:00:00+00:00,26,"Mike Dean, England",Manchester City,Chelsea,6,0,W,L
+324,2018/19,2019-02-11 20:00:00+00:00,26,"Graham Scott, England",Wolves,Newcastle,1,1,D,D
+328,2018/19,2019-02-22 19:45:00+00:00,27,"Simon Hooper, England",Cardiff,Watford,1,5,L,W
+334,2018/19,2019-02-22 19:45:00+00:00,27,"Lee Mason, England",West Ham,Fulham,3,1,W,L
+327,2018/19,2019-02-23 12:30:00+00:00,27,"Mike Dean, England",Burnley,Tottenham,2,1,W,L
+333,2018/19,2019-02-23 15:00:00+00:00,27,"Kevin Friend, England",Newcastle,Huddersfield,2,0,W,L
+326,2018/19,2019-02-23 15:00:00+00:00,27,"Roger East, England",Bournemouth,Wolves,1,1,D,D
+331,2018/19,2019-02-23 17:30:00+00:00,27,"Anthony Taylor, England",Leicester,Crystal Palace,1,4,L,W
+332,2018/19,2019-02-24 14:05:00+00:00,27,"Michael Oliver, England",Manchester United,Liverpool,0,0,D,D
+325,2018/19,2019-02-24 14:05:00+00:00,27,"Graham Scott, England",Arsenal,Southampton,2,0,W,L
+336,2018/19,2019-02-26 19:45:00+00:00,28,"Kevin Friend, England",Cardiff,Everton,0,3,L,W
+338,2018/19,2019-02-26 19:45:00+00:00,28,"Lee Probert, England",Leicester,Brighton,2,1,W,L
+337,2018/19,2019-02-26 19:45:00+00:00,28,"David Coote, England",Huddersfield,Wolves,1,0,W,L
+341,2018/19,2019-02-26 20:00:00+00:00,28,"Craig Pawson, England",Newcastle,Burnley,2,0,W,L
+342,2018/19,2019-02-27 19:45:00+00:00,28,"Anthony Taylor, England",Southampton,Fulham,2,0,W,L
+335,2018/19,2019-02-27 19:45:00+00:00,28,"Chris Kavanagh, England",Arsenal,Bournemouth,5,1,W,L
+344,2018/19,2019-02-27 20:00:00+00:00,28,"Stuart Attwell, England",Manchester City,West Ham,1,0,W,L
+339,2018/19,2019-02-27 20:00:00+00:00,28,"Martin Atkinson, England",Crystal Palace,Manchester United,1,3,L,W
+343,2018/19,2019-02-27 20:00:00+00:00,28,"Graham Scott, England",Liverpool,Watford,5,0,W,L
+340,2018/19,2019-02-27 20:00:00+00:00,28,"Andre Marriner, England",Chelsea,Tottenham,2,0,W,L
+351,2018/19,2019-03-02 12:30:00+00:00,29,"Anthony Taylor, England",Tottenham,Arsenal,1,1,D,D
+350,2018/19,2019-03-02 15:00:00+00:00,29,"Stuart Attwell, England",Manchester United,Southampton,3,2,W,L
+346,2018/19,2019-03-02 15:00:00+00:00,29,"Mike Dean, England",Brighton,Huddersfield,1,0,W,L
+345,2018/19,2019-03-02 15:00:00+00:00,29,"Kevin Friend, England",Bournemouth,Manchester City,0,1,L,W
+347,2018/19,2019-03-02 15:00:00+00:00,29,"Lee Probert, England",Burnley,Crystal Palace,1,3,L,W
+354,2018/19,2019-03-02 15:00:00+00:00,29,"Andre Marriner, England",Wolves,Cardiff,2,0,W,L
+353,2018/19,2019-03-02 17:30:00+00:00,29,"Chris Kavanagh, England",West Ham,Newcastle,2,0,W,L
+352,2018/19,2019-03-03 12:00:00+00:00,29,"Jonathan Moss, England",Watford,Leicester,2,1,W,L
+349,2018/19,2019-03-03 14:05:00+00:00,29,"Graham Scott, England",Fulham,Chelsea,1,2,L,W
+348,2018/19,2019-03-03 16:15:00+00:00,29,"Martin Atkinson, England",Everton,Liverpool,0,0,D,D
+358,2018/19,2019-03-09 12:30:00+00:00,30,"Craig Pawson, England",Crystal Palace,Brighton,1,2,L,W
+363,2018/19,2019-03-09 15:00:00+00:00,30,"Lee Mason, England",Newcastle,Everton,3,2,W,L
+360,2018/19,2019-03-09 15:00:00+00:00,30,"David Coote, England",Leicester,Fulham,3,1,W,L
+359,2018/19,2019-03-09 15:00:00+00:00,30,"Anthony Taylor, England",Huddersfield,Bournemouth,0,2,L,W
+356,2018/19,2019-03-09 15:00:00+00:00,30,"Graham Scott, England",Cardiff,West Ham,2,0,W,L
+364,2018/19,2019-03-09 15:00:00+00:00,30,"Kevin Friend, England",Southampton,Tottenham,2,1,W,L
+362,2018/19,2019-03-09 17:30:00+00:00,30,"Paul Tierney, England",Manchester City,Watford,3,1,W,L
+361,2018/19,2019-03-10 12:00:00+00:00,30,"Andre Marriner, England",Liverpool,Burnley,4,2,W,L
+357,2018/19,2019-03-10 14:05:00+00:00,30,"Michael Oliver, England",Chelsea,Wolves,1,1,D,D
+355,2018/19,2019-03-10 16:30:00+00:00,30,"Jonathan Moss, England",Arsenal,Manchester United,2,0,W,L
+365,2018/19,2019-03-16 15:00:00+00:00,31,"Mike Dean, England",Bournemouth,Newcastle,2,2,D,D
+367,2018/19,2019-03-16 15:00:00+00:00,31,"Michael Oliver, England",Burnley,Leicester,1,2,L,W
+373,2018/19,2019-03-16 15:00:00+00:00,31,"Jonathan Moss, England",West Ham,Huddersfield,4,3,W,L
+369,2018/19,2019-03-17 14:15:00+00:00,31,"Craig Pawson, England",Fulham,Liverpool,1,2,L,W
+368,2018/19,2019-03-17 16:30:00+00:00,31,"Anthony Taylor, England",Everton,Chelsea,2,0,W,L
+380,2018/19,2019-03-30 12:30:00+00:00,32,"Kevin Friend, England",Fulham,Manchester City,0,2,L,W
+381,2018/19,2019-03-30 15:00:00+00:00,32,"Lee Mason, England",Leicester,Bournemouth,2,0,W,L
+383,2018/19,2019-03-30 15:00:00+00:00,32,"Stuart Attwell, England",Manchester United,Watford,2,1,W,L
+376,2018/19,2019-03-30 15:00:00+00:00,32,"Michael Oliver, England",Brighton,Southampton,0,1,L,W
+379,2018/19,2019-03-30 15:00:00+00:00,32,"Lee Probert, England",Crystal Palace,Huddersfield,2,0,W,L
+377,2018/19,2019-03-30 15:00:00+00:00,32,"Chris Kavanagh, England",Burnley,Wolves,2,0,W,L
+384,2018/19,2019-03-30 17:30:00+00:00,32,"Paul Tierney, England",West Ham,Everton,0,2,L,W
+378,2018/19,2019-03-31 13:05:00+00:00,32,"Craig Pawson, England",Cardiff,Chelsea,1,2,L,W
+382,2018/19,2019-03-31 15:30:00+00:00,32,"Martin Atkinson, England",Liverpool,Tottenham,2,1,W,L
+375,2018/19,2019-04-01 19:00:00+00:00,32,"Anthony Taylor, England",Arsenal,Newcastle,2,0,W,L
+393,2018/19,2019-04-02 18:45:00+00:00,33,"Roger East, England",Watford,Fulham,4,1,W,L
+394,2018/19,2019-04-02 18:45:00+00:00,33,"Mike Dean, England",Wolves,Manchester United,2,1,W,L
+371,2018/19,2019-04-03 18:45:00+00:00,31,"Andre Marriner, England",Tottenham,Crystal Palace,2,0,W,L
+329,2018/19,2019-04-03 18:45:00+00:00,27,"Graham Scott, England",Chelsea,Brighton,3,0,W,L
+389,2018/19,2019-04-03 18:45:00+00:00,33,"Jonathan Moss, England",Manchester City,Cardiff,2,0,W,L
+391,2018/19,2019-04-05 19:00:00+00:00,33,"Paul Tierney, England",Southampton,Liverpool,1,3,L,W
+390,2018/19,2019-04-06 14:00:00+00:00,33,"Stuart Attwell, England",Newcastle,Crystal Palace,0,1,L,W
+385,2018/19,2019-04-06 14:00:00+00:00,33,"Martin Atkinson, England",Bournemouth,Burnley,1,3,L,W
+388,2018/19,2019-04-06 14:00:00+00:00,33,"David Coote, England",Huddersfield,Leicester,1,4,L,W
+387,2018/19,2019-04-07 13:05:00+00:00,33,"Kevin Friend, England",Everton,Arsenal,1,0,W,L
+386,2018/19,2019-04-08 19:00:00+00:00,33,"Chris Kavanagh, England",Chelsea,West Ham,2,0,W,L
+399,2018/19,2019-04-12 19:00:00+00:00,34,"Chris Kavanagh, England",Leicester,Newcastle,0,1,L,W
+403,2018/19,2019-04-13 11:30:00+00:00,34,"Lee Mason, England",Tottenham,Huddersfield,4,0,W,L
+396,2018/19,2019-04-13 14:00:00+00:00,34,"Mike Dean, England",Burnley,Cardiff,2,0,W,L
+398,2018/19,2019-04-13 14:00:00+00:00,34,"Lee Probert, England",Fulham,Everton,2,0,W,L
+402,2018/19,2019-04-13 14:00:00+00:00,34,"Jonathan Moss, England",Southampton,Wolves,3,1,W,L
+395,2018/19,2019-04-13 14:00:00+00:00,34,"Kevin Friend, England",Brighton,Bournemouth,0,5,L,W
+401,2018/19,2019-04-13 16:30:00+00:00,34,"Graham Scott, England",Manchester United,West Ham,2,1,W,L
+397,2018/19,2019-04-14 13:05:00+00:00,34,"Martin Atkinson, England",Crystal Palace,Manchester City,1,3,L,W
+400,2018/19,2019-04-14 15:30:00+00:00,34,"Michael Oliver, England",Liverpool,Chelsea,2,0,W,L
+404,2018/19,2019-04-15 19:00:00+00:00,34,"Craig Pawson, England",Watford,Arsenal,0,1,L,W
+366,2018/19,2019-04-16 18:45:00+00:00,31,"Andre Marriner, England",Brighton,Cardiff,0,2,L,W
+411,2018/19,2019-04-20 11:30:00+00:00,35,"Michael Oliver, England",Manchester City,Tottenham,1,0,W,L
+406,2018/19,2019-04-20 14:00:00+00:00,35,"David Coote, England",Bournemouth,Fulham,0,1,L,W
+410,2018/19,2019-04-20 14:00:00+00:00,35,"Roger East, England",Huddersfield,Watford,1,2,L,W
+414,2018/19,2019-04-20 14:00:00+00:00,35,"Craig Pawson, England",Wolves,Brighton,0,0,D,D
+413,2018/19,2019-04-20 14:00:00+00:00,35,"Lee Probert, England",West Ham,Leicester,2,2,D,D
+412,2018/19,2019-04-20 16:30:00+00:00,35,"Anthony Taylor, England",Newcastle,Southampton,3,1,W,L
+409,2018/19,2019-04-21 12:30:00+00:00,35,"Paul Tierney, England",Everton,Manchester United,4,0,W,L
+405,2018/19,2019-04-21 15:00:00+00:00,35,"Jonathan Moss, England",Arsenal,Crystal Palace,2,3,L,W
+407,2018/19,2019-04-21 15:00:00+00:00,35,"Martin Atkinson, England",Cardiff,Liverpool,0,2,L,W
+408,2018/19,2019-04-22 19:00:00+00:00,35,"Kevin Friend, England",Chelsea,Burnley,2,2,D,D
+372,2018/19,2019-04-23 18:45:00+00:00,31,"Mike Dean, England",Watford,Southampton,1,1,D,D
+392,2018/19,2019-04-23 18:45:00+00:00,33,"Chris Kavanagh, England",Tottenham,Brighton,1,0,W,L
+374,2018/19,2019-04-24 18:45:00+00:00,31,"Stuart Attwell, England",Wolves,Arsenal,3,1,W,L
+370,2018/19,2019-04-24 19:00:00+00:00,31,"Andre Marriner, England",Manchester United,Manchester City,0,2,L,W
+420,2018/19,2019-04-26 19:00:00+00:00,36,"Kevin Friend, England",Liverpool,Huddersfield,5,0,W,L
+423,2018/19,2019-04-27 11:30:00+00:00,36,"Anthony Taylor, England",Tottenham,West Ham,0,1,L,W
+418,2018/19,2019-04-27 14:00:00+00:00,36,"Chris Kavanagh, England",Fulham,Cardiff,1,0,W,L
+424,2018/19,2019-04-27 14:00:00+00:00,36,"Simon Hooper, England",Watford,Wolves,1,2,L,W
+422,2018/19,2019-04-27 14:00:00+00:00,36,"Graham Scott, England",Southampton,Bournemouth,3,3,D,D
+417,2018/19,2019-04-27 14:00:00+00:00,36,"Lee Mason, England",Crystal Palace,Everton,0,0,D,D
+415,2018/19,2019-04-27 16:30:00+00:00,36,"Mike Dean, England",Brighton,Newcastle,1,1,D,D
+419,2018/19,2019-04-28 11:00:00+00:00,36,"Michael Oliver, England",Leicester,Arsenal,3,0,W,L
+416,2018/19,2019-04-28 13:05:00+00:00,36,"Paul Tierney, England",Burnley,Manchester City,0,1,L,W
+421,2018/19,2019-04-28 15:30:00+00:00,36,"Martin Atkinson, England",Manchester United,Chelsea,1,1,D,D
+429,2018/19,2019-05-03 19:00:00+00:00,37,"Chris Kavanagh, England",Everton,Burnley,2,0,W,L
+426,2018/19,2019-05-04 11:30:00+00:00,37,"Craig Pawson, England",Bournemouth,Tottenham,1,0,W,L
+434,2018/19,2019-05-04 14:00:00+00:00,37,"Jonathan Moss, England",Wolves,Fulham,1,0,W,L
+433,2018/19,2019-05-04 14:00:00+00:00,37,"Stuart Attwell, England",West Ham,Southampton,3,0,W,L
+427,2018/19,2019-05-04 16:30:00+00:00,37,"Michael Oliver, England",Cardiff,Crystal Palace,2,3,L,W
+432,2018/19,2019-05-04 18:45:00+00:00,37,"Andre Marriner, England",Newcastle,Liverpool,2,3,L,W
+430,2018/19,2019-05-05 13:00:00+00:00,37,"Lee Mason, England",Huddersfield,Manchester United,1,1,D,D
+428,2018/19,2019-05-05 13:00:00+00:00,37,"Paul Tierney, England",Chelsea,Watford,3,0,W,L
+425,2018/19,2019-05-05 15:30:00+00:00,37,"Anthony Taylor, England",Arsenal,Brighton,1,1,D,D
+431,2018/19,2019-05-06 19:00:00+00:00,37,"Mike Dean, England",Manchester City,Leicester,1,0,W,L
+441,2018/19,2019-05-12 14:00:00+00:00,38,"Jonathan Moss, England",Manchester United,Cardiff,0,2,L,W
+438,2018/19,2019-05-12 14:00:00+00:00,38,"Kevin Friend, England",Fulham,Newcastle,0,4,L,W
+444,2018/19,2019-05-12 14:00:00+00:00,38,"Chris Kavanagh, England",Watford,West Ham,1,4,L,W
+440,2018/19,2019-05-12 14:00:00+00:00,38,"Martin Atkinson, England",Liverpool,Wolves,2,0,W,L
+442,2018/19,2019-05-12 14:00:00+00:00,38,"Lee Probert, England",Southampton,Huddersfield,1,1,D,D
+436,2018/19,2019-05-12 14:00:00+00:00,38,"Mike Dean, England",Burnley,Arsenal,1,3,L,W
+439,2018/19,2019-05-12 14:00:00+00:00,38,"Anthony Taylor, England",Leicester,Chelsea,0,0,D,D
+443,2018/19,2019-05-12 14:00:00+00:00,38,"Andre Marriner, England",Tottenham,Everton,2,2,D,D
+435,2018/19,2019-05-12 14:00:00+00:00,38,"Michael Oliver, England",Brighton,Manchester City,1,4,L,W
+437,2018/19,2019-05-12 14:00:00+00:00,38,"Roger East, England",Crystal Palace,Bournemouth,5,3,W,L

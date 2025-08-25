@@ -1,0 +1,19 @@
+Rank,Logo,Team,MP,W,D,L,GF,GA,GD,Pts,Form,Qualification,Home_wins,Home_draw,Home_lose,Home_goals_for,Home_goals_against,Away_wins,Away_draw,Away_lose,Away_goals_for,Away_goals_against
+1,https://media.api-sports.io/football/teams/157.png,Bayern Munich,34,21,8,5,92,38,54,71,WLWWW,Promotion - Champions League (Group Stage: ),11,5,1,53,17,10,3,4,39,21
+2,https://media.api-sports.io/football/teams/165.png,Borussia Dortmund,34,22,5,7,83,44,39,71,DWWWD,Promotion - Champions League (Group Stage: ),14,2,1,55,17,8,3,6,28,27
+3,https://media.api-sports.io/football/teams/173.png,RB Leipzig,34,20,6,8,64,41,23,66,WWWWW,Promotion - Champions League (Group Stage: ),13,2,2,38,18,7,4,6,26,23
+4,https://media.api-sports.io/football/teams/182.png,Union Berlin,34,18,8,8,51,38,13,62,WLWLD,Promotion - Champions League (Group Stage: ),11,6,0,30,11,7,2,8,21,27
+5,https://media.api-sports.io/football/teams/160.png,SC Freiburg,34,17,8,9,51,44,7,59,LWLLW,Promotion - Europa League (Group Stage: ),10,4,3,28,13,7,4,6,23,31
+6,https://media.api-sports.io/football/teams/168.png,Bayer Leverkusen,34,14,8,12,57,49,8,50,LDDLD,Promotion - Europa League (Group Stage: ),8,3,6,35,23,6,5,6,22,26
+7,https://media.api-sports.io/football/teams/169.png,Eintracht Frankfurt,34,13,11,10,58,52,6,50,WDWLD,Promotion - Europa Conference League (Qualification: ),9,5,3,35,18,4,6,7,23,34
+8,https://media.api-sports.io/football/teams/161.png,VfL Wolfsburg,34,13,10,11,57,48,9,49,LLWLW,,6,7,4,34,25,7,3,7,23,23
+9,https://media.api-sports.io/football/teams/164.png,FSV Mainz 05,34,12,10,12,54,55,-1,46,DLLLL,,6,6,5,31,25,6,4,7,23,30
+10,https://media.api-sports.io/football/teams/163.png,Borussia Monchengladbach,34,11,10,13,52,55,-3,43,WDLWL,,10,3,4,33,18,1,7,9,19,37
+11,https://media.api-sports.io/football/teams/192.png,FC Koln,34,10,12,12,49,54,-5,42,LDWWL,,6,5,6,28,20,4,7,6,21,34
+12,https://media.api-sports.io/football/teams/167.png,1899 Hoffenheim,34,10,6,18,48,57,-9,36,DWLWL,,7,2,8,28,29,3,4,10,20,28
+13,https://media.api-sports.io/football/teams/162.png,Werder Bremen,34,10,6,18,51,64,-13,36,LDLLL,,5,2,10,26,28,5,4,8,25,36
+14,https://media.api-sports.io/football/teams/176.png,VfL BOCHUM,34,10,5,19,40,72,-32,35,WDWLD,,8,2,7,28,32,2,3,12,12,40
+15,https://media.api-sports.io/football/teams/170.png,FC Augsburg,34,9,7,18,42,63,-21,34,LLLWD,,6,4,7,16,24,3,3,11,26,39
+16,https://media.api-sports.io/football/teams/172.png,VfB Stuttgart,34,7,12,15,45,57,-12,33,DWDLW,Bundesliga (Relegation),5,6,6,23,22,2,6,9,22,35
+17,https://media.api-sports.io/football/teams/174.png,FC Schalke 04,34,7,10,17,35,71,-36,31,LDLWW,Relegation - 2. Bundesliga,5,5,7,23,36,2,5,10,12,35
+18,https://media.api-sports.io/football/teams/159.png,Hertha Berlin,34,7,8,19,42,69,-27,29,WDLWL,Relegation - 2. Bundesliga,5,6,6,24,27,2,2,13,18,42

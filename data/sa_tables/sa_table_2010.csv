@@ -1,0 +1,21 @@
+Rank,Logo,Team,MP,W,D,L,GF,GA,GD,Pts,Form,Qualification,Home_wins,Home_draw,Home_lose,Home_goals_for,Home_goals_against,Away_wins,Away_draw,Away_lose,Away_goals_for,Away_goals_against
+1,https://media.api-sports.io/football/teams/489.png,AC Milan,38,24,10,4,65,24,41,82,DWDWW,UEFA Champions League,13,4,2,42,12,11,6,2,23,12
+2,https://media.api-sports.io/football/teams/505.png,Inter,38,23,7,8,69,42,27,76,WDWWW,UEFA Champions League,15,3,1,48,20,8,4,7,21,22
+3,https://media.api-sports.io/football/teams/492.png,Napoli,38,21,7,10,59,39,20,70,DDLWL,UEFA Champions League,12,4,3,33,15,9,3,7,26,24
+4,https://media.api-sports.io/football/teams/494.png,Udinese,38,20,6,12,65,43,22,66,DWWLL,UEFA Champions League Qualifiers,11,4,4,27,16,9,2,8,38,27
+5,https://media.api-sports.io/football/teams/487.png,Lazio,38,20,6,12,55,39,16,66,WWLLL,UEFA Europa League,13,3,3,31,15,7,3,9,24,24
+6,https://media.api-sports.io/football/teams/497.png,AS Roma,38,18,9,11,59,52,7,63,WLDWW,UEFA Europa League,11,5,3,31,18,7,4,8,28,34
+7,https://media.api-sports.io/football/teams/496.png,Juventus,38,15,13,10,57,47,10,58,DLDWD,,8,6,5,35,31,7,7,5,22,16
+8,https://media.api-sports.io/football/teams/522.png,Palermo,38,17,5,16,58,63,-5,56,LWWLW,,11,3,5,33,28,6,2,11,25,35
+9,https://media.api-sports.io/football/teams/502.png,Fiorentina,38,12,15,11,49,44,5,51,DDLWW,,9,6,4,28,18,3,9,7,21,26
+10,https://media.api-sports.io/football/teams/495.png,Genoa,38,14,9,15,45,47,-2,51,WLWLW,,10,3,6,29,24,4,6,9,16,23
+11,https://media.api-sports.io/football/teams/491.png,Chievo,38,11,13,14,38,40,-2,46,WLDWL,,6,8,5,15,13,5,5,9,23,27
+12,https://media.api-sports.io/football/teams/523.png,Parma,38,11,13,14,39,47,-8,46,DWDWW,,7,7,5,21,16,4,6,9,18,31
+13,https://media.api-sports.io/football/teams/1580.png,Catania,38,12,10,16,40,52,-12,46,LWWWD,,11,4,4,27,19,1,6,12,13,33
+14,https://media.api-sports.io/football/teams/490.png,Cagliari,38,12,9,17,44,51,-7,45,DLLLL,,8,3,8,27,23,4,6,9,17,28
+15,https://media.api-sports.io/football/teams/509.png,Cesena,38,11,10,17,38,50,-12,43,LWWLW,,7,5,7,17,21,4,5,10,21,29
+16,https://media.api-sports.io/football/teams/500.png,Bologna,38,11,12,15,35,52,-17,42,LDDLL,,7,7,5,17,20,4,5,10,18,32
+17,https://media.api-sports.io/football/teams/867.png,Lecce,38,11,8,19,46,66,-20,41,LWWLL,,7,5,7,28,29,4,3,12,18,37
+18,https://media.api-sports.io/football/teams/498.png,Sampdoria,38,8,12,18,33,49,-16,36,LLLDW,Relegation,5,6,8,21,21,3,6,10,12,28
+19,https://media.api-sports.io/football/teams/518.png,Brescia,38,7,11,20,34,52,-18,32,DLLDL,Relegation,6,5,8,22,24,1,6,12,12,28
+20,https://media.api-sports.io/football/teams/508.png,Bari,38,5,9,24,27,56,-29,24,WLLLL,Relegation,2,6,11,12,28,3,3,13,15,28

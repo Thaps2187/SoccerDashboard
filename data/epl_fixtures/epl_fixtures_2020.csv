@@ -1,0 +1,381 @@
+fixture_id,season,date,match_day,referee,home_team,away_team,home_goals,away_goals,home_results,away_results
+592143,2020/21,2020-09-12 11:30:00+00:00,1,C. Kavanagh,Fulham,Arsenal,0,3,L,W
+592142,2020/21,2020-09-12 14:00:00+00:00,1,J. Moss,Crystal Palace,Southampton,1,0,W,L
+592144,2020/21,2020-09-12 16:30:00+00:00,1,M. Oliver,Liverpool,Leeds,4,3,W,L
+592148,2020/21,2020-09-12 19:00:00+00:00,1,S. Attwell,West Ham,Newcastle,0,2,L,W
+592147,2020/21,2020-09-13 13:00:00+00:00,1,A. Taylor,West Brom,Leicester,0,3,L,W
+592146,2020/21,2020-09-13 15:30:00+00:00,1,M. Atkinson,Tottenham,Everton,0,1,L,W
+592150,2020/21,2020-09-14 17:00:00+00:00,1,M. Dean,Sheffield Utd,Wolves,0,2,L,W
+592149,2020/21,2020-09-14 19:15:00+00:00,1,C. Pawson,Brighton,Chelsea,1,3,L,W
+592154,2020/21,2020-09-19 11:30:00+00:00,2,M. Dean,Everton,West Brom,5,2,W,L
+592155,2020/21,2020-09-19 14:00:00+00:00,2,A. Taylor,Leeds,Fulham,4,3,W,L
+592157,2020/21,2020-09-19 16:30:00+00:00,2,M. Atkinson,Manchester United,Crystal Palace,1,3,L,W
+592151,2020/21,2020-09-19 19:00:00+00:00,2,M. Oliver,Arsenal,West Ham,2,1,W,L
+592159,2020/21,2020-09-20 11:00:00+00:00,2,D. Coote,Southampton,Tottenham,2,5,L,W
+592158,2020/21,2020-09-20 13:00:00+00:00,2,K. Friend,Newcastle,Brighton,0,3,L,W
+592153,2020/21,2020-09-20 15:30:00+00:00,2,P. Tierney,Chelsea,Liverpool,0,2,L,W
+592156,2020/21,2020-09-20 18:00:00+00:00,2,L. Mason,Leicester,Burnley,4,2,W,L
+592152,2020/21,2020-09-21 17:00:00+00:00,2,G. Scott,Aston Villa,Sheffield Utd,1,0,W,L
+592160,2020/21,2020-09-21 19:15:00+00:00,2,A. Marriner,Wolves,Manchester City,1,3,L,W
+592161,2020/21,2020-09-26 11:30:00+00:00,3,C. Kavanagh,Brighton,Manchester United,2,3,L,W
+592163,2020/21,2020-09-26 14:00:00+00:00,3,K. Friend,Crystal Palace,Everton,1,2,L,W
+592169,2020/21,2020-09-26 16:30:00+00:00,3,J. Moss,West Brom,Chelsea,3,3,D,D
+592162,2020/21,2020-09-26 19:00:00+00:00,3,A. Marriner,Burnley,Southampton,0,1,L,W
+592167,2020/21,2020-09-27 11:00:00+00:00,3,P. Tierney,Sheffield Utd,Leeds,0,1,L,W
+592168,2020/21,2020-09-27 13:00:00+00:00,3,P. Bankes,Tottenham,Newcastle,1,1,D,D
+592166,2020/21,2020-09-27 15:30:00+00:00,3,M. Oliver,Manchester City,Leicester,2,5,L,W
+592170,2020/21,2020-09-27 18:00:00+00:00,3,M. Atkinson,West Ham,Wolves,4,0,W,L
+592164,2020/21,2020-09-28 16:45:00+00:00,3,S. Attwell,Fulham,Aston Villa,0,3,L,W
+592165,2020/21,2020-09-28 19:00:00+00:00,3,C. Pawson,Liverpool,Arsenal,3,1,W,L
+592173,2020/21,2020-10-03 11:30:00+00:00,4,M. Oliver,Chelsea,Crystal Palace,4,0,W,L
+592174,2020/21,2020-10-03 14:00:00+00:00,4,S. Hooper,Everton,Brighton,4,2,W,L
+592175,2020/21,2020-10-03 16:30:00+00:00,4,M. Dean,Leeds,Manchester City,1,1,D,D
+592178,2020/21,2020-10-03 19:00:00+00:00,4,D. Coote,Newcastle,Burnley,3,1,W,L
+592179,2020/21,2020-10-04 11:00:00+00:00,4,C. Kavanagh,Southampton,West Brom,2,0,W,L
+592176,2020/21,2020-10-04 11:00:00+00:00,4,A. Madley,Leicester,West Ham,0,3,L,W
+592180,2020/21,2020-10-04 13:00:00+00:00,4,D. England,Wolves,Fulham,1,0,W,L
+592171,2020/21,2020-10-04 13:00:00+00:00,4,L. Mason,Arsenal,Sheffield Utd,2,1,W,L
+592177,2020/21,2020-10-04 15:30:00+00:00,4,A. Taylor,Manchester United,Tottenham,1,6,L,W
+592172,2020/21,2020-10-04 18:15:00+00:00,4,M. Atkinson,Aston Villa,Liverpool,7,2,W,L
+592183,2020/21,2020-10-17 11:30:00+00:00,5,M. Oliver,Everton,Liverpool,2,2,D,D
+592181,2020/21,2020-10-17 14:00:00+00:00,5,P. Bankes,Chelsea,Southampton,3,3,D,D
+592186,2020/21,2020-10-17 16:30:00+00:00,5,C. Kavanagh,Manchester City,Arsenal,1,0,W,L
+592187,2020/21,2020-10-17 19:00:00+00:00,5,C. Pawson,Newcastle,Manchester United,1,4,L,W
+592188,2020/21,2020-10-18 11:00:00+00:00,5,A. Marriner,Sheffield Utd,Fulham,1,1,D,D
+592182,2020/21,2020-10-18 13:00:00+00:00,5,S. Attwell,Crystal Palace,Brighton,1,1,D,D
+592189,2020/21,2020-10-18 15:30:00+00:00,5,P. Tierney,Tottenham,West Ham,3,3,D,D
+592185,2020/21,2020-10-18 18:15:00+00:00,5,J. Moss,Leicester,Aston Villa,0,1,L,W
+592190,2020/21,2020-10-19 16:30:00+00:00,5,A. Taylor,West Brom,Burnley,0,0,D,D
+592184,2020/21,2020-10-19 19:00:00+00:00,5,D. Coote,Leeds,Wolves,0,1,L,W
+592192,2020/21,2020-10-23 19:00:00+00:00,6,P. Tierney,Aston Villa,Leeds,0,3,L,W
+592199,2020/21,2020-10-24 11:30:00+00:00,6,A. Taylor,West Ham,Manchester City,1,1,D,D
+592195,2020/21,2020-10-24 14:00:00+00:00,6,G. Scott,Fulham,Crystal Palace,1,2,L,W
+592197,2020/21,2020-10-24 16:30:00+00:00,6,M. Atkinson,Manchester United,Chelsea,0,0,D,D
+592196,2020/21,2020-10-24 19:00:00+00:00,6,M. Dean,Liverpool,Sheffield Utd,2,1,W,L
+592198,2020/21,2020-10-25 14:00:00+00:00,6,K. Friend,Southampton,Everton,2,0,W,L
+592200,2020/21,2020-10-25 16:30:00+00:00,6,L. Mason,Wolves,Newcastle,1,1,D,D
+592191,2020/21,2020-10-25 19:15:00+00:00,6,C. Pawson,Arsenal,Leicester,0,1,L,W
+592193,2020/21,2020-10-26 17:30:00+00:00,6,J. Moss,Brighton,West Brom,1,1,D,D
+592194,2020/21,2020-10-26 20:00:00+00:00,6,M. Oliver,Burnley,Tottenham,0,1,L,W
+592210,2020/21,2020-10-30 20:00:00+00:00,7,M. Atkinson,Wolves,Crystal Palace,2,0,W,L
+592208,2020/21,2020-10-31 12:30:00+00:00,7,M. Oliver,Sheffield Utd,Manchester City,0,1,L,W
+592202,2020/21,2020-10-31 15:00:00+00:00,7,D. Coote,Burnley,Chelsea,0,3,L,W
+592205,2020/21,2020-10-31 17:30:00+00:00,7,K. Friend,Liverpool,West Ham,2,1,W,L
+592201,2020/21,2020-11-01 12:00:00+00:00,7,D. England,Aston Villa,Southampton,3,4,L,W
+592207,2020/21,2020-11-01 14:00:00+00:00,7,S. Attwell,Newcastle,Everton,2,1,W,L
+592206,2020/21,2020-11-01 16:30:00+00:00,7,M. Dean,Manchester United,Arsenal,0,1,L,W
+592209,2020/21,2020-11-01 19:15:00+00:00,7,G. Scott,Tottenham,Brighton,2,1,W,L
+592203,2020/21,2020-11-02 17:30:00+00:00,7,S. Hooper,Fulham,West Brom,2,0,W,L
+592204,2020/21,2020-11-02 20:00:00+00:00,7,A. Marriner,Leeds,Leicester,1,4,L,W
+592212,2020/21,2020-11-06 17:30:00+00:00,8,M. Dean,Brighton,Burnley,0,0,D,D
+592218,2020/21,2020-11-06 20:00:00+00:00,8,P. Bankes,Southampton,Newcastle,2,0,W,L
+592215,2020/21,2020-11-07 12:30:00+00:00,8,P. Tierney,Everton,Manchester United,1,3,L,W
+592214,2020/21,2020-11-07 15:00:00+00:00,8,C. Kavanagh,Crystal Palace,Leeds,4,1,W,L
+592213,2020/21,2020-11-07 17:30:00+00:00,8,J. Moss,Chelsea,Sheffield Utd,4,1,W,L
+592220,2020/21,2020-11-07 20:00:00+00:00,8,R. Jones,West Ham,Fulham,1,0,W,L
+592219,2020/21,2020-11-08 12:00:00+00:00,8,A. Madley,West Brom,Tottenham,0,1,L,W
+592216,2020/21,2020-11-08 14:00:00+00:00,8,A. Taylor,Leicester,Wolves,1,0,W,L
+592217,2020/21,2020-11-08 16:30:00+00:00,8,C. Pawson,Manchester City,Liverpool,1,1,D,D
+592211,2020/21,2020-11-08 19:15:00+00:00,8,M. Atkinson,Arsenal,Aston Villa,0,3,L,W
+592227,2020/21,2020-11-21 12:30:00+00:00,9,C. Pawson,Newcastle,Chelsea,0,2,L,W
+592221,2020/21,2020-11-21 15:00:00+00:00,9,M. Oliver,Aston Villa,Brighton,1,2,L,W
+592229,2020/21,2020-11-21 17:30:00+00:00,9,M. Dean,Tottenham,Manchester City,2,0,W,L
+592226,2020/21,2020-11-21 20:00:00+00:00,9,D. Coote,Manchester United,West Brom,1,0,W,L
+592223,2020/21,2020-11-22 12:00:00+00:00,9,A. Madley,Fulham,Everton,2,3,L,W
+592228,2020/21,2020-11-22 14:00:00+00:00,9,M. Atkinson,Sheffield Utd,West Ham,0,1,L,W
+592224,2020/21,2020-11-22 16:30:00+00:00,9,A. Taylor,Leeds,Arsenal,0,0,D,D
+592225,2020/21,2020-11-22 19:15:00+00:00,9,C. Kavanagh,Liverpool,Leicester,3,0,W,L
+592222,2020/21,2020-11-23 17:30:00+00:00,9,K. Friend,Burnley,Crystal Palace,1,0,W,L
+592230,2020/21,2020-11-23 20:00:00+00:00,9,A. Marriner,Wolves,Southampton,1,1,D,D
+592234,2020/21,2020-11-27 20:00:00+00:00,10,G. Scott,Crystal Palace,Newcastle,0,2,L,W
+592232,2020/21,2020-11-28 12:30:00+00:00,10,S. Attwell,Brighton,Liverpool,1,1,D,D
+592237,2020/21,2020-11-28 15:00:00+00:00,10,L. Mason,Manchester City,Burnley,5,0,W,L
+592235,2020/21,2020-11-28 17:30:00+00:00,10,C. Kavanagh,Everton,Leeds,0,1,L,W
+592239,2020/21,2020-11-28 20:00:00+00:00,10,M. Dean,West Brom,Sheffield Utd,1,0,W,L
+592238,2020/21,2020-11-29 14:00:00+00:00,10,J. Moss,Southampton,Manchester United,2,3,L,W
+592233,2020/21,2020-11-29 16:30:00+00:00,10,P. Tierney,Chelsea,Tottenham,0,0,D,D
+592231,2020/21,2020-11-29 19:15:00+00:00,10,M. Oliver,Arsenal,Wolves,1,2,L,W
+592236,2020/21,2020-11-30 17:30:00+00:00,10,S. Hooper,Leicester,Fulham,1,2,L,W
+592240,2020/21,2020-11-30 20:00:00+00:00,10,P. Bankes,West Ham,Aston Villa,2,1,W,L
+592243,2020/21,2020-12-05 12:30:00+00:00,11,A. Taylor,Burnley,Everton,1,1,D,D
+592246,2020/21,2020-12-05 15:00:00+00:00,11,J. Moss,Manchester City,Fulham,2,0,W,L
+592250,2020/21,2020-12-05 17:30:00+00:00,11,A. Marriner,West Ham,Manchester United,1,3,L,W
+592244,2020/21,2020-12-05 20:00:00+00:00,11,K. Friend,Chelsea,Leeds,3,1,W,L
+592249,2020/21,2020-12-06 12:00:00+00:00,11,P. Tierney,West Brom,Crystal Palace,1,5,L,W
+592247,2020/21,2020-12-06 14:15:00+00:00,11,S. Attwell,Sheffield Utd,Leicester,1,2,L,W
+592248,2020/21,2020-12-06 16:30:00+00:00,11,M. Atkinson,Tottenham,Arsenal,2,0,W,L
+592245,2020/21,2020-12-06 19:15:00+00:00,11,C. Pawson,Liverpool,Wolves,4,0,W,L
+592242,2020/21,2020-12-07 20:00:00+00:00,11,D. Coote,Brighton,Southampton,1,2,L,W
+592255,2020/21,2020-12-11 20:00:00+00:00,12,M. Oliver,Leeds,West Ham,1,2,L,W
+592260,2020/21,2020-12-12 12:30:00+00:00,12,M. Dean,Wolves,Aston Villa,0,1,L,W
+592258,2020/21,2020-12-12 15:00:00+00:00,12,D. England,Newcastle,West Brom,2,1,W,L
+592257,2020/21,2020-12-12 17:30:00+00:00,12,C. Kavanagh,Manchester United,Manchester City,0,0,D,D
+592253,2020/21,2020-12-12 20:00:00+00:00,12,J. Moss,Everton,Chelsea,1,0,W,L
+592259,2020/21,2020-12-13 12:00:00+00:00,12,A. Madley,Southampton,Sheffield Utd,3,0,W,L
+592252,2020/21,2020-12-13 14:15:00+00:00,12,K. Friend,Crystal Palace,Tottenham,1,1,D,D
+592254,2020/21,2020-12-13 16:30:00+00:00,12,A. Marriner,Fulham,Liverpool,1,1,D,D
+592251,2020/21,2020-12-13 19:15:00+00:00,12,G. Scott,Arsenal,Burnley,0,1,L,W
+592256,2020/21,2020-12-13 19:15:00+00:00,12,M. Atkinson,Leicester,Brighton,3,0,W,L
+592268,2020/21,2020-12-15 18:00:00+00:00,13,S. Attwell,Wolves,Chelsea,2,1,W,L
+592270,2020/21,2020-12-15 20:00:00+00:00,13,P. Bankes,Manchester City,West Brom,1,1,D,D
+592261,2020/21,2020-12-16 18:00:00+00:00,13,P. Tierney,Arsenal,Southampton,1,1,D,D
+592265,2020/21,2020-12-16 18:00:00+00:00,13,L. Mason,Leicester,Everton,0,2,L,W
+592264,2020/21,2020-12-16 18:00:00+00:00,13,S. Hooper,Leeds,Newcastle,5,2,W,L
+592263,2020/21,2020-12-16 20:00:00+00:00,13,R. Jones,Fulham,Brighton,0,0,D,D
+592269,2020/21,2020-12-16 20:00:00+00:00,13,A. Taylor,Liverpool,Tottenham,2,1,W,L
+592267,2020/21,2020-12-16 20:00:00+00:00,13,D. Coote,West Ham,Crystal Palace,1,1,D,D
+592262,2020/21,2020-12-17 18:00:00+00:00,13,C. Pawson,Aston Villa,Burnley,0,0,D,D
+592266,2020/21,2020-12-17 20:00:00+00:00,13,M. Oliver,Sheffield Utd,Manchester United,2,3,L,W
+592274,2020/21,2020-12-19 12:30:00+00:00,14,J. Moss,Crystal Palace,Liverpool,0,7,L,W
+592278,2020/21,2020-12-19 15:00:00+00:00,14,M. Dean,Southampton,Manchester City,0,1,L,W
+592275,2020/21,2020-12-19 17:30:00+00:00,14,A. Marriner,Everton,Arsenal,2,1,W,L
+592277,2020/21,2020-12-19 20:00:00+00:00,14,G. Scott,Newcastle,Fulham,1,1,D,D
+592271,2020/21,2020-12-20 12:00:00+00:00,14,P. Bankes,Brighton,Sheffield Utd,1,1,D,D
+592279,2020/21,2020-12-20 14:15:00+00:00,14,C. Pawson,Tottenham,Leicester,0,2,L,W
+592276,2020/21,2020-12-20 16:30:00+00:00,14,A. Taylor,Manchester United,Leeds,6,2,W,L
+592280,2020/21,2020-12-20 19:15:00+00:00,14,M. Atkinson,West Brom,Aston Villa,0,3,L,W
+592272,2020/21,2020-12-21 17:30:00+00:00,14,L. Mason,Burnley,Wolves,2,1,W,L
+592273,2020/21,2020-12-21 20:00:00+00:00,14,C. Kavanagh,Chelsea,West Ham,3,0,W,L
+592285,2020/21,2020-12-26 12:30:00+00:00,15,M. Dean,Leicester,Manchester United,2,2,D,D
+592283,2020/21,2020-12-26 15:00:00+00:00,15,D. England,Fulham,Southampton,0,0,D,D
+592282,2020/21,2020-12-26 15:00:00+00:00,15,A. Taylor,Aston Villa,Crystal Palace,3,0,W,L
+592281,2020/21,2020-12-26 17:30:00+00:00,15,M. Oliver,Arsenal,Chelsea,3,1,W,L
+592287,2020/21,2020-12-26 20:00:00+00:00,15,A. Marriner,Manchester City,Newcastle,2,0,W,L
+592288,2020/21,2020-12-26 20:00:00+00:00,15,D. Coote,Sheffield Utd,Everton,0,1,L,W
+592284,2020/21,2020-12-27 12:00:00+00:00,15,R. Jones,Leeds,Burnley,1,0,W,L
+592289,2020/21,2020-12-27 14:15:00+00:00,15,S. Hooper,West Ham,Brighton,2,2,D,D
+592286,2020/21,2020-12-27 16:30:00+00:00,15,K. Friend,Liverpool,West Brom,1,1,D,D
+592290,2020/21,2020-12-27 19:15:00+00:00,15,P. Tierney,Wolves,Tottenham,1,1,D,D
+592294,2020/21,2020-12-28 15:00:00+00:00,16,G. Scott,Crystal Palace,Leicester,1,1,D,D
+592293,2020/21,2020-12-28 17:30:00+00:00,16,S. Attwell,Chelsea,Aston Villa,1,1,D,D
+592298,2020/21,2020-12-29 18:00:00+00:00,16,A. Madley,Southampton,West Ham,0,0,D,D
+592292,2020/21,2020-12-29 18:00:00+00:00,16,C. Kavanagh,Burnley,Sheffield Utd,1,0,W,L
+592291,2020/21,2020-12-29 18:00:00+00:00,16,M. Atkinson,Brighton,Arsenal,0,1,L,W
+592300,2020/21,2020-12-29 18:00:00+00:00,16,L. Mason,West Brom,Leeds,0,5,L,W
+592296,2020/21,2020-12-29 20:00:00+00:00,16,J. Moss,Manchester United,Wolves,1,0,W,L
+592297,2020/21,2020-12-30 20:00:00+00:00,16,P. Tierney,Newcastle,Liverpool,0,0,D,D
+592305,2020/21,2021-01-01 17:30:00+00:00,17,K. Friend,Everton,West Ham,0,1,L,W
+592306,2020/21,2021-01-01 20:00:00+00:00,17,M. Oliver,Manchester United,Aston Villa,2,1,W,L
+592309,2020/21,2021-01-02 12:30:00+00:00,17,D. Coote,Tottenham,Leeds,3,0,W,L
+592304,2020/21,2021-01-02 15:00:00+00:00,17,S. Attwell,Crystal Palace,Sheffield Utd,2,0,W,L
+592301,2020/21,2021-01-02 17:30:00+00:00,17,A. Madley,Brighton,Wolves,3,3,D,D
+592310,2020/21,2021-01-02 20:00:00+00:00,17,M. Atkinson,West Brom,Arsenal,0,4,L,W
+592307,2020/21,2021-01-03 14:15:00+00:00,17,R. Jones,Newcastle,Leicester,1,2,L,W
+592303,2020/21,2021-01-03 16:30:00+00:00,17,A. Taylor,Chelsea,Manchester City,1,3,L,W
+592308,2020/21,2021-01-04 20:00:00+00:00,17,A. Marriner,Southampton,Liverpool,1,0,W,L
+592316,2020/21,2021-01-12 18:00:00+00:00,18,A. Madley,Sheffield Utd,Newcastle,1,0,W,L
+592318,2020/21,2021-01-12 20:15:00+00:00,18,M. Atkinson,Wolves,Everton,1,2,L,W
+592141,2020/21,2021-01-12 20:15:00+00:00,1,K. Friend,Burnley,Manchester United,0,1,L,W
+592320,2020/21,2021-01-13 18:00:00+00:00,18,D. England,Manchester City,Brighton,1,0,W,L
+592299,2020/21,2021-01-13 20:15:00+00:00,16,P. Tierney,Tottenham,Fulham,1,1,D,D
+592311,2020/21,2021-01-14 20:00:00+00:00,18,A. Marriner,Arsenal,Crystal Palace,0,0,D,D
+592330,2020/21,2021-01-16 12:30:00+00:00,19,M. Oliver,Wolves,West Brom,2,3,L,W
+592329,2020/21,2021-01-16 15:00:00+00:00,19,C. Kavanagh,West Ham,Burnley,1,0,W,L
+592324,2020/21,2021-01-16 15:00:00+00:00,19,K. Friend,Leeds,Brighton,0,1,L,W
+592323,2020/21,2021-01-16 17:30:00+00:00,19,P. Bankes,Fulham,Chelsea,0,1,L,W
+592325,2020/21,2021-01-16 20:00:00+00:00,19,S. Attwell,Leicester,Southampton,2,0,W,L
+592328,2020/21,2021-01-17 14:00:00+00:00,19,A. Marriner,Sheffield Utd,Tottenham,1,3,L,W
+592326,2020/21,2021-01-17 16:30:00+00:00,19,P. Tierney,Liverpool,Manchester United,0,0,D,D
+592327,2020/21,2021-01-17 19:15:00+00:00,19,L. Mason,Manchester City,Crystal Palace,4,0,W,L
+592321,2020/21,2021-01-18 20:00:00+00:00,19,D. Coote,Arsenal,Newcastle,3,0,W,L
+592317,2020/21,2021-01-19 18:00:00+00:00,18,G. Scott,West Ham,West Brom,2,1,W,L
+592315,2020/21,2021-01-19 20:15:00+00:00,18,C. Pawson,Leicester,Chelsea,2,0,W,L
+592145,2020/21,2021-01-20 18:00:00+00:00,1,J. Moss,Manchester City,Aston Villa,2,0,W,L
+592313,2020/21,2021-01-20 20:15:00+00:00,18,M. Atkinson,Fulham,Manchester United,1,2,L,W
+592319,2020/21,2021-01-21 20:00:00+00:00,18,M. Dean,Liverpool,Burnley,0,1,L,W
+592241,2020/21,2021-01-23 20:00:00+00:00,11,S. Hooper,Aston Villa,Newcastle,2,0,W,L
+592337,2020/21,2021-01-26 18:00:00+00:00,20,A. Taylor,Newcastle,Leeds,1,2,L,W
+592340,2020/21,2021-01-26 18:00:00+00:00,20,S. Attwell,Crystal Palace,West Ham,2,3,L,W
+592338,2020/21,2021-01-26 20:15:00+00:00,20,K. Friend,Southampton,Arsenal,1,3,L,W
+592335,2020/21,2021-01-26 20:15:00+00:00,20,C. Kavanagh,West Brom,Manchester City,0,5,L,W
+592332,2020/21,2021-01-27 18:00:00+00:00,20,P. Tierney,Burnley,Aston Villa,3,2,W,L
+592336,2020/21,2021-01-27 18:00:00+00:00,20,A. Madley,Chelsea,Wolves,0,0,D,D
+592331,2020/21,2021-01-27 19:30:00+00:00,20,C. Pawson,Brighton,Fulham,0,0,D,D
+592334,2020/21,2021-01-27 20:15:00+00:00,20,P. Bankes,Manchester United,Sheffield Utd,1,2,L,W
+592333,2020/21,2021-01-27 20:15:00+00:00,20,M. Dean,Everton,Leicester,1,1,D,D
+592339,2020/21,2021-01-28 20:00:00+00:00,20,M. Atkinson,Tottenham,Liverpool,1,3,L,W
+592345,2020/21,2021-01-30 12:30:00+00:00,21,S. Attwell,Everton,Newcastle,0,2,L,W
+592347,2020/21,2021-01-30 15:00:00+00:00,21,D. Coote,Manchester City,Sheffield Utd,1,0,W,L
+592344,2020/21,2021-01-30 15:00:00+00:00,21,S. Hooper,Crystal Palace,Wolves,1,0,W,L
+592349,2020/21,2021-01-30 15:00:00+00:00,21,A. Taylor,West Brom,Fulham,2,2,D,D
+592341,2020/21,2021-01-30 17:30:00+00:00,21,M. Oliver,Arsenal,Manchester United,0,0,D,D
+592348,2020/21,2021-01-30 20:00:00+00:00,21,L. Mason,Southampton,Aston Villa,0,1,L,W
+592343,2020/21,2021-01-31 12:00:00+00:00,21,G. Scott,Chelsea,Burnley,2,0,W,L
+592346,2020/21,2021-01-31 14:00:00+00:00,21,C. Kavanagh,Leicester,Leeds,1,3,L,W
+592350,2020/21,2021-01-31 16:30:00+00:00,21,J. Moss,West Ham,Liverpool,1,3,L,W
+592342,2020/21,2021-01-31 19:15:00+00:00,21,P. Bankes,Brighton,Tottenham,1,0,W,L
+592356,2020/21,2021-02-02 18:00:00+00:00,22,C. Pawson,Wolves,Arsenal,2,1,W,L
+592355,2020/21,2021-02-02 18:00:00+00:00,22,P. Tierney,Sheffield Utd,West Brom,2,1,W,L
+592357,2020/21,2021-02-02 20:15:00+00:00,22,M. Dean,Manchester United,Southampton,9,0,W,L
+592358,2020/21,2021-02-02 20:15:00+00:00,22,D. England,Newcastle,Crystal Palace,1,2,L,W
+592353,2020/21,2021-02-03 18:00:00+00:00,22,R. Jones,Fulham,Leicester,0,2,L,W
+592352,2020/21,2021-02-03 18:00:00+00:00,22,M. Atkinson,Burnley,Manchester City,0,2,L,W
+592354,2020/21,2021-02-03 19:30:00+00:00,22,M. Oliver,Leeds,Everton,1,2,L,W
+592360,2020/21,2021-02-03 20:15:00+00:00,22,K. Friend,Liverpool,Brighton,0,1,L,W
+592351,2020/21,2021-02-03 20:15:00+00:00,22,A. Madley,Aston Villa,West Ham,1,3,L,W
+592359,2020/21,2021-02-04 20:00:00+00:00,22,A. Marriner,Tottenham,Chelsea,0,1,L,W
+592361,2020/21,2021-02-06 12:30:00+00:00,23,C. Kavanagh,Aston Villa,Arsenal,1,0,W,L
+592367,2020/21,2021-02-06 15:00:00+00:00,23,C. Pawson,Newcastle,Southampton,3,2,W,L
+592362,2020/21,2021-02-06 15:00:00+00:00,23,A. Taylor,Burnley,Brighton,1,1,D,D
+592363,2020/21,2021-02-06 17:30:00+00:00,23,M. Dean,Fulham,West Ham,0,0,D,D
+592366,2020/21,2021-02-06 20:00:00+00:00,23,J. Moss,Manchester United,Everton,3,3,D,D
+592369,2020/21,2021-02-07 12:00:00+00:00,23,S. Attwell,Tottenham,West Brom,2,0,W,L
+592370,2020/21,2021-02-07 14:00:00+00:00,23,M. Atkinson,Wolves,Leicester,0,0,D,D
+592365,2020/21,2021-02-07 16:30:00+00:00,23,M. Oliver,Liverpool,Manchester City,1,4,L,W
+592368,2020/21,2021-02-07 19:15:00+00:00,23,K. Friend,Sheffield Utd,Chelsea,1,2,L,W
+592364,2020/21,2021-02-08 20:00:00+00:00,23,A. Marriner,Leeds,Crystal Palace,2,0,W,L
+592731,2020/21,2021-02-13 12:30:00+00:00,24,A. Taylor,Leicester,Liverpool,3,1,W,L
+592729,2020/21,2021-02-13 15:00:00+00:00,24,M. Oliver,Crystal Palace,Burnley,0,3,L,W
+592732,2020/21,2021-02-13 17:30:00+00:00,24,P. Tierney,Manchester City,Tottenham,3,0,W,L
+592727,2020/21,2021-02-13 20:00:00+00:00,24,D. England,Brighton,Aston Villa,0,0,D,D
+592733,2020/21,2021-02-14 12:00:00+00:00,24,G. Scott,Southampton,Wolves,1,2,L,W
+592734,2020/21,2021-02-14 14:00:00+00:00,24,C. Pawson,West Brom,Manchester United,1,1,D,D
+592726,2020/21,2021-02-14 16:30:00+00:00,24,S. Attwell,Arsenal,Leeds,4,2,W,L
+592730,2020/21,2021-02-14 19:00:00+00:00,24,A. Madley,Everton,Fulham,0,2,L,W
+592735,2020/21,2021-02-15 18:00:00+00:00,24,S. Hooper,West Ham,Sheffield Utd,3,0,W,L
+592728,2020/21,2021-02-15 20:00:00+00:00,24,P. Bankes,Chelsea,Newcastle,2,0,W,L
+592302,2020/21,2021-02-17 18:00:00+00:00,17,J. Moss,Burnley,Fulham,1,1,D,D
+592295,2020/21,2021-02-17 20:15:00+00:00,16,A. Marriner,Everton,Manchester City,1,3,L,W
+592745,2020/21,2021-02-19 20:00:00+00:00,25,D. Coote,Wolves,Leeds,1,0,W,L
+592743,2020/21,2021-02-20 12:30:00+00:00,25,A. Taylor,Southampton,Chelsea,1,1,D,D
+592739,2020/21,2021-02-20 15:00:00+00:00,25,M. Dean,Burnley,West Brom,0,0,D,D
+592741,2020/21,2021-02-20 17:30:00+00:00,25,C. Kavanagh,Liverpool,Everton,0,2,L,W
+592740,2020/21,2021-02-20 20:00:00+00:00,25,M. Atkinson,Fulham,Sheffield Utd,1,0,W,L
+592744,2020/21,2021-02-21 12:00:00+00:00,25,C. Pawson,West Ham,Tottenham,2,1,W,L
+592737,2020/21,2021-02-21 14:05:00+00:00,25,M. Oliver,Aston Villa,Leicester,1,2,L,W
+592736,2020/21,2021-02-21 16:30:00+00:00,25,J. Moss,Arsenal,Manchester City,0,1,L,W
+592742,2020/21,2021-02-21 19:00:00+00:00,25,P. Tierney,Manchester United,Newcastle,3,1,W,L
+592738,2020/21,2021-02-22 20:00:00+00:00,25,K. Friend,Brighton,Crystal Palace,1,2,L,W
+592314,2020/21,2021-02-23 18:00:00+00:00,18,A. Marriner,Leeds,Southampton,3,0,W,L
+592751,2020/21,2021-02-27 12:30:00+00:00,26,M. Oliver,Manchester City,West Ham,2,1,W,L
+592755,2020/21,2021-02-27 15:00:00+00:00,26,L. Mason,West Brom,Brighton,1,0,W,L
+592749,2020/21,2021-02-27 17:30:00+00:00,26,P. Bankes,Leeds,Aston Villa,0,1,L,W
+592752,2020/21,2021-02-27 20:00:00+00:00,26,M. Dean,Newcastle,Wolves,1,1,D,D
+592750,2020/21,2021-02-28 12:00:00+00:00,26,P. Tierney,Leicester,Arsenal,1,3,L,W
+592747,2020/21,2021-02-28 12:00:00+00:00,26,A. Taylor,Crystal Palace,Fulham,0,0,D,D
+592754,2020/21,2021-02-28 14:00:00+00:00,26,K. Friend,Tottenham,Burnley,4,0,W,L
+592746,2020/21,2021-02-28 16:30:00+00:00,26,S. Attwell,Chelsea,Manchester United,0,0,D,D
+592753,2020/21,2021-02-28 19:15:00+00:00,26,J. Moss,Sheffield Utd,Liverpool,0,2,L,W
+592748,2020/21,2021-03-01 20:00:00+00:00,26,M. Atkinson,Everton,Southampton,1,0,W,L
+592781,2020/21,2021-03-02 20:00:00+00:00,29,C. Kavanagh,Manchester City,Wolves,4,1,W,L
+592777,2020/21,2021-03-03 18:00:00+00:00,29,A. Madley,Burnley,Leicester,1,1,D,D
+592782,2020/21,2021-03-03 18:00:00+00:00,29,R. Jones,Sheffield Utd,Aston Villa,1,0,W,L
+592778,2020/21,2021-03-03 20:15:00+00:00,29,A. Marriner,Crystal Palace,Manchester United,0,0,D,D
+592818,2020/21,2021-03-04 18:00:00+00:00,33,D. Coote,Fulham,Tottenham,0,1,L,W
+592784,2020/21,2021-03-04 18:00:00+00:00,29,D. England,West Brom,Everton,0,1,L,W
+592780,2020/21,2021-03-04 20:15:00+00:00,29,M. Atkinson,Liverpool,Chelsea,0,1,L,W
+592758,2020/21,2021-03-06 12:30:00+00:00,27,A. Marriner,Burnley,Arsenal,1,1,D,D
+592762,2020/21,2021-03-06 15:00:00+00:00,27,P. Tierney,Sheffield Utd,Southampton,0,2,L,W
+592756,2020/21,2021-03-06 17:30:00+00:00,27,A. Madley,Aston Villa,Wolves,0,0,D,D
+592757,2020/21,2021-03-06 20:00:00+00:00,27,M. Oliver,Brighton,Leicester,1,2,L,W
+592764,2020/21,2021-03-07 12:00:00+00:00,27,M. Atkinson,West Brom,Newcastle,0,0,D,D
+592760,2020/21,2021-03-07 14:00:00+00:00,27,K. Friend,Liverpool,Fulham,0,1,L,W
+592761,2020/21,2021-03-07 16:30:00+00:00,27,A. Taylor,Manchester City,Manchester United,0,2,L,W
+592763,2020/21,2021-03-07 19:15:00+00:00,27,S. Attwell,Tottenham,Crystal Palace,4,1,W,L
+592759,2020/21,2021-03-08 18:00:00+00:00,27,D. Coote,Chelsea,Everton,2,0,W,L
+592765,2020/21,2021-03-08 20:00:00+00:00,27,M. Dean,West Ham,Leeds,2,0,W,L
+592822,2020/21,2021-03-10 18:00:00+00:00,33,J. Moss,Manchester City,Southampton,5,2,W,L
+592773,2020/21,2021-03-12 20:00:00+00:00,28,P. Tierney,Newcastle,Aston Villa,1,1,D,D
+592770,2020/21,2021-03-13 12:30:00+00:00,28,K. Friend,Leeds,Chelsea,0,0,D,D
+592767,2020/21,2021-03-13 15:00:00+00:00,28,S. Hooper,Crystal Palace,West Brom,1,0,W,L
+592768,2020/21,2021-03-13 17:30:00+00:00,28,J. Moss,Everton,Burnley,1,2,L,W
+592769,2020/21,2021-03-13 20:00:00+00:00,28,A. Marriner,Fulham,Manchester City,0,3,L,W
+592774,2020/21,2021-03-14 12:00:00+00:00,28,S. Attwell,Southampton,Brighton,1,2,L,W
+592771,2020/21,2021-03-14 14:00:00+00:00,28,P. Bankes,Leicester,Sheffield Utd,5,0,W,L
+592766,2020/21,2021-03-14 16:30:00+00:00,28,M. Oliver,Arsenal,Tottenham,2,1,W,L
+592772,2020/21,2021-03-14 19:15:00+00:00,28,M. Atkinson,Manchester United,West Ham,1,0,W,L
+592775,2020/21,2021-03-15 20:00:00+00:00,28,C. Pawson,Wolves,Liverpool,0,1,L,W
+592779,2020/21,2021-03-19 20:00:00+00:00,29,D. Coote,Fulham,Leeds,1,2,L,W
+592776,2020/21,2021-03-20 20:00:00+00:00,29,A. Taylor,Brighton,Newcastle,3,0,W,L
+592785,2020/21,2021-03-21 15:00:00+00:00,29,J. Moss,West Ham,Arsenal,3,3,D,D
+592312,2020/21,2021-03-21 19:30:00+00:00,18,M. Dean,Aston Villa,Tottenham,0,2,L,W
+592788,2020/21,2021-04-03 11:30:00+00:00,30,D. Coote,Chelsea,West Brom,2,5,L,W
+592790,2020/21,2021-04-03 14:00:00+00:00,30,G. Scott,Leeds,Sheffield Utd,2,1,W,L
+592791,2020/21,2021-04-03 16:30:00+00:00,30,A. Taylor,Leicester,Manchester City,0,2,L,W
+592786,2020/21,2021-04-03 19:00:00+00:00,30,S. Attwell,Arsenal,Liverpool,0,3,L,W
+592794,2020/21,2021-04-04 11:00:00+00:00,30,A. Marriner,Southampton,Burnley,3,2,W,L
+592793,2020/21,2021-04-04 13:05:00+00:00,30,C. Pawson,Newcastle,Tottenham,2,2,D,D
+592787,2020/21,2021-04-04 15:30:00+00:00,30,A. Madley,Aston Villa,Fulham,3,1,W,L
+592792,2020/21,2021-04-04 18:30:00+00:00,30,M. Dean,Manchester United,Brighton,2,1,W,L
+592789,2020/21,2021-04-05 17:00:00+00:00,30,K. Friend,Everton,Crystal Palace,1,1,D,D
+592795,2020/21,2021-04-05 19:15:00+00:00,30,M. Oliver,Wolves,West Ham,2,3,L,W
+592799,2020/21,2021-04-09 19:00:00+00:00,31,J. Moss,Fulham,Wolves,0,1,L,W
+592801,2020/21,2021-04-10 11:30:00+00:00,31,A. Marriner,Manchester City,Leeds,1,2,L,W
+592800,2020/21,2021-04-10 14:00:00+00:00,31,P. Tierney,Liverpool,Aston Villa,2,1,W,L
+592798,2020/21,2021-04-10 16:30:00+00:00,31,M. Oliver,Crystal Palace,Chelsea,1,4,L,W
+592797,2020/21,2021-04-11 11:00:00+00:00,31,A. Taylor,Burnley,Newcastle,1,2,L,W
+592805,2020/21,2021-04-11 13:05:00+00:00,31,M. Dean,West Ham,Leicester,3,2,W,L
+592803,2020/21,2021-04-11 15:30:00+00:00,31,C. Kavanagh,Tottenham,Manchester United,1,3,L,W
+592802,2020/21,2021-04-11 18:00:00+00:00,31,P. Bankes,Sheffield Utd,Arsenal,0,3,L,W
+592804,2020/21,2021-04-12 17:00:00+00:00,31,S. Hooper,West Brom,Southampton,3,0,W,L
+592796,2020/21,2021-04-12 19:15:00+00:00,31,D. England,Brighton,Everton,0,0,D,D
+592809,2020/21,2021-04-16 19:00:00+00:00,32,M. Oliver,Everton,Tottenham,2,2,D,D
+592813,2020/21,2021-04-17 11:30:00+00:00,32,K. Friend,Newcastle,West Ham,3,2,W,L
+592815,2020/21,2021-04-17 19:15:00+00:00,32,R. Jones,Wolves,Sheffield Utd,1,0,W,L
+592806,2020/21,2021-04-18 12:30:00+00:00,32,C. Pawson,Arsenal,Fulham,1,1,D,D
+592812,2020/21,2021-04-18 15:00:00+00:00,32,J. Moss,Manchester United,Burnley,3,1,W,L
+592810,2020/21,2021-04-19 19:00:00+00:00,32,A. Taylor,Leeds,Liverpool,1,1,D,D
+592808,2020/21,2021-04-20 19:15:00+00:00,32,S. Attwell,Chelsea,Brighton,0,0,D,D
+592783,2020/21,2021-04-21 17:00:00+00:00,29,D. Coote,Tottenham,Southampton,2,1,W,L
+592807,2020/21,2021-04-21 19:15:00+00:00,32,P. Bankes,Aston Villa,Manchester City,1,2,L,W
+592811,2020/21,2021-04-22 19:00:00+00:00,32,A. Madley,Leicester,West Brom,3,0,W,L
+592816,2020/21,2021-04-23 19:00:00+00:00,33,J. Moss,Arsenal,Everton,0,1,L,W
+592821,2020/21,2021-04-24 11:30:00+00:00,33,A. Marriner,Liverpool,Newcastle,1,1,D,D
+592824,2020/21,2021-04-24 16:30:00+00:00,33,C. Kavanagh,West Ham,Chelsea,0,1,L,W
+592823,2020/21,2021-04-24 19:00:00+00:00,33,K. Friend,Sheffield Utd,Brighton,1,0,W,L
+592825,2020/21,2021-04-25 11:00:00+00:00,33,D. England,Wolves,Burnley,0,4,L,W
+592819,2020/21,2021-04-25 13:00:00+00:00,33,C. Pawson,Leeds,Manchester United,0,0,D,D
+592817,2020/21,2021-04-25 18:00:00+00:00,33,S. Attwell,Aston Villa,West Brom,2,2,D,D
+592820,2020/21,2021-04-26 19:00:00+00:00,33,G. Scott,Leicester,Crystal Palace,2,1,W,L
+592833,2020/21,2021-04-30 19:00:00+00:00,34,R. Jones,Southampton,Leicester,1,1,D,D
+592829,2020/21,2021-05-01 11:30:00+00:00,34,D. Coote,Crystal Palace,Manchester City,0,2,L,W
+592826,2020/21,2021-05-01 14:00:00+00:00,34,C. Kavanagh,Brighton,Leeds,2,0,W,L
+592828,2020/21,2021-05-01 16:30:00+00:00,34,K. Friend,Chelsea,Fulham,2,0,W,L
+592830,2020/21,2021-05-01 19:00:00+00:00,34,S. Hooper,Everton,Aston Villa,1,2,L,W
+592832,2020/21,2021-05-02 13:00:00+00:00,34,M. Dean,Newcastle,Arsenal,0,2,L,W
+592834,2020/21,2021-05-02 18:15:00+00:00,34,A. Marriner,Tottenham,Sheffield Utd,4,0,W,L
+592835,2020/21,2021-05-03 17:00:00+00:00,34,P. Tierney,West Brom,Wolves,1,1,D,D
+592827,2020/21,2021-05-03 19:15:00+00:00,34,A. Taylor,Burnley,West Ham,1,2,L,W
+592840,2020/21,2021-05-07 19:00:00+00:00,35,D. England,Leicester,Newcastle,2,4,L,W
+592839,2020/21,2021-05-08 11:30:00+00:00,35,M. Oliver,Leeds,Tottenham,3,1,W,L
+592843,2020/21,2021-05-08 14:00:00+00:00,35,S. Hooper,Sheffield Utd,Crystal Palace,0,2,L,W
+592842,2020/21,2021-05-08 16:30:00+00:00,35,A. Taylor,Manchester City,Chelsea,1,2,L,W
+592841,2020/21,2021-05-08 19:15:00+00:00,35,K. Friend,Liverpool,Southampton,2,0,W,L
+592845,2020/21,2021-05-09 11:00:00+00:00,35,J. Moss,Wolves,Brighton,2,1,W,L
+592837,2020/21,2021-05-09 13:05:00+00:00,35,C. Kavanagh,Aston Villa,Manchester United,1,3,L,W
+592844,2020/21,2021-05-09 15:30:00+00:00,35,S. Attwell,West Ham,Everton,0,1,L,W
+592836,2020/21,2021-05-09 18:00:00+00:00,35,P. Bankes,Arsenal,West Brom,3,1,W,L
+592838,2020/21,2021-05-10 19:00:00+00:00,35,D. Coote,Fulham,Burnley,0,2,L,W
+592849,2020/21,2021-05-11 17:00:00+00:00,36,C. Pawson,Manchester United,Leicester,1,2,L,W
+592814,2020/21,2021-05-11 19:15:00+00:00,32,A. Madley,Southampton,Crystal Palace,3,1,W,L
+592851,2020/21,2021-05-12 19:15:00+00:00,36,A. Marriner,Chelsea,Arsenal,0,1,L,W
+592322,2020/21,2021-05-13 17:00:00+00:00,19,M. Atkinson,Aston Villa,Everton,0,0,D,D
+592831,2020/21,2021-05-13 19:15:00+00:00,34,A. Taylor,Manchester United,Liverpool,2,4,L,W
+592852,2020/21,2021-05-14 19:00:00+00:00,36,K. Friend,Newcastle,Manchester City,3,4,L,W
+592847,2020/21,2021-05-15 11:30:00+00:00,36,G. Scott,Burnley,Leeds,0,4,L,W
+592853,2020/21,2021-05-15 14:00:00+00:00,36,C. Pawson,Southampton,Fulham,3,1,W,L
+592846,2020/21,2021-05-15 19:00:00+00:00,36,A. Marriner,Brighton,West Ham,1,1,D,D
+592855,2020/21,2021-05-16 11:00:00+00:00,36,D. Coote,Crystal Palace,Aston Villa,3,2,W,L
+592854,2020/21,2021-05-16 13:05:00+00:00,36,M. Atkinson,Tottenham,Wolves,2,0,W,L
+592850,2020/21,2021-05-16 15:30:00+00:00,36,M. Dean,West Brom,Liverpool,1,2,L,W
+592848,2020/21,2021-05-16 18:00:00+00:00,36,J. Moss,Everton,Sheffield Utd,0,1,L,W
+592861,2020/21,2021-05-18 17:00:00+00:00,37,L. Mason,Manchester United,Fulham,1,1,D,D
+592863,2020/21,2021-05-18 17:00:00+00:00,37,P. Bankes,Southampton,Leeds,0,2,L,W
+592856,2020/21,2021-05-18 18:00:00+00:00,37,S. Attwell,Brighton,Manchester City,3,2,W,L
+592858,2020/21,2021-05-18 19:15:00+00:00,37,M. Dean,Chelsea,Leicester,2,1,W,L
+592862,2020/21,2021-05-19 17:00:00+00:00,37,R. Jones,Newcastle,Sheffield Utd,1,0,W,L
+592860,2020/21,2021-05-19 17:00:00+00:00,37,A. Madley,Everton,Wolves,1,0,W,L
+592864,2020/21,2021-05-19 17:00:00+00:00,37,C. Pawson,Tottenham,Aston Villa,1,2,L,W
+592859,2020/21,2021-05-19 18:00:00+00:00,37,A. Taylor,Crystal Palace,Arsenal,1,3,L,W
+592857,2020/21,2021-05-19 19:15:00+00:00,37,C. Kavanagh,Burnley,Liverpool,0,3,L,W
+592865,2020/21,2021-05-19 19:15:00+00:00,37,M. Oliver,West Brom,West Ham,1,3,L,W
+592868,2020/21,2021-05-23 15:00:00+00:00,38,"Chris Kavanagh, England",Fulham,Newcastle,0,2,L,W
+592875,2020/21,2021-05-23 15:00:00+00:00,38,"Mike Dean, England",Wolves,Manchester United,1,2,L,W
+592871,2020/21,2021-05-23 15:00:00+00:00,38,"Andre Marriner, England",Liverpool,Crystal Palace,2,0,W,L
+592866,2020/21,2021-05-23 15:00:00+00:00,38,"Jonathan Moss, England",Arsenal,Brighton,2,0,W,L
+592870,2020/21,2021-05-23 15:00:00+00:00,38,"Anthony Taylor, England",Leicester,Tottenham,2,4,L,W
+592874,2020/21,2021-05-23 15:00:00+00:00,38,"Martin Atkinson, England",West Ham,Southampton,3,0,W,L
+592872,2020/21,2021-05-23 15:00:00+00:00,38,"Michael Oliver, England",Manchester City,Everton,5,0,W,L
+592873,2020/21,2021-05-23 15:00:00+00:00,38,"Kevin Friend, England",Sheffield Utd,Burnley,1,0,W,L
+592869,2020/21,2021-05-23 15:00:00+00:00,38,"David Coote, England",Leeds,West Brom,3,1,W,L
+592867,2020/21,2021-05-23 15:00:00+00:00,38,"Stuart Attwell, England",Aston Villa,Chelsea,2,1,W,L

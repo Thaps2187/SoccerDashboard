@@ -1,0 +1,381 @@
+fixture_id,season,date,match_day,referee,home_team,away_team,home_goals,away_goals,home_results,away_results
+710556,2021/22,2021-08-13 19:00:00+00:00,1,M. Oliver,Brentford,Arsenal,2,0,W,L
+710561,2021/22,2021-08-14 11:30:00+00:00,1,P. Tierney,Manchester United,Leeds,5,1,W,L
+710565,2021/22,2021-08-14 14:00:00+00:00,1,M. Dean,Watford,Aston Villa,3,2,W,L
+710557,2021/22,2021-08-14 14:00:00+00:00,1,D. Coote,Burnley,Brighton,1,2,L,W
+710559,2021/22,2021-08-14 14:00:00+00:00,1,A. Madley,Everton,Southampton,3,1,W,L
+710560,2021/22,2021-08-14 14:00:00+00:00,1,C. Pawson,Leicester,Wolves,1,0,W,L
+710558,2021/22,2021-08-14 14:00:00+00:00,1,J. Moss,Chelsea,Crystal Palace,3,0,W,L
+710563,2021/22,2021-08-14 16:30:00+00:00,1,A. Marriner,Norwich,Liverpool,0,3,L,W
+710562,2021/22,2021-08-15 13:00:00+00:00,1,M. Atkinson,Newcastle,West Ham,2,4,L,W
+710564,2021/22,2021-08-15 15:30:00+00:00,1,A. Taylor,Tottenham,Manchester City,1,0,W,L
+710571,2021/22,2021-08-21 11:30:00+00:00,2,M. Dean,Liverpool,Burnley,2,0,W,L
+710569,2021/22,2021-08-21 14:00:00+00:00,2,M. Atkinson,Crystal Palace,Brentford,0,0,D,D
+710572,2021/22,2021-08-21 14:00:00+00:00,2,G. Scott,Manchester City,Norwich,5,0,W,L
+710567,2021/22,2021-08-21 14:00:00+00:00,2,D. Coote,Aston Villa,Newcastle,2,0,W,L
+710570,2021/22,2021-08-21 14:00:00+00:00,2,D. England,Leeds,Everton,2,2,D,D
+710568,2021/22,2021-08-21 16:30:00+00:00,2,A. Taylor,Brighton,Watford,2,0,W,L
+710575,2021/22,2021-08-22 13:00:00+00:00,2,S. Attwell,Wolves,Tottenham,0,1,L,W
+710573,2021/22,2021-08-22 13:00:00+00:00,2,C. Pawson,Southampton,Manchester United,1,1,D,D
+710566,2021/22,2021-08-22 15:30:00+00:00,2,P. Tierney,Arsenal,Chelsea,0,2,L,W
+710574,2021/22,2021-08-23 19:00:00+00:00,2,M. Oliver,West Ham,Leicester,4,1,W,L
+710580,2021/22,2021-08-28 11:30:00+00:00,3,M. Atkinson,Manchester City,Arsenal,5,0,W,L
+710577,2021/22,2021-08-28 14:00:00+00:00,3,J. Moss,Brighton,Everton,0,2,L,W
+710581,2021/22,2021-08-28 14:00:00+00:00,3,P. Tierney,Newcastle,Southampton,2,2,D,D
+710576,2021/22,2021-08-28 14:00:00+00:00,3,P. Bankes,Aston Villa,Brentford,1,1,D,D
+710582,2021/22,2021-08-28 14:00:00+00:00,3,R. Jones,Norwich,Leicester,1,2,L,W
+710584,2021/22,2021-08-28 14:00:00+00:00,3,S. Attwell,West Ham,Crystal Palace,2,2,D,D
+710579,2021/22,2021-08-28 16:30:00+00:00,3,A. Taylor,Liverpool,Chelsea,1,1,D,D
+710578,2021/22,2021-08-29 13:00:00+00:00,3,M. Oliver,Burnley,Leeds,1,1,D,D
+710583,2021/22,2021-08-29 13:00:00+00:00,3,A. Marriner,Tottenham,Watford,1,0,W,L
+710585,2021/22,2021-08-29 15:30:00+00:00,3,M. Dean,Wolves,Manchester United,0,1,L,W
+710589,2021/22,2021-09-11 11:30:00+00:00,4,J. Moss,Crystal Palace,Tottenham,3,0,W,L
+710594,2021/22,2021-09-11 14:00:00+00:00,4,D. Coote,Southampton,West Ham,0,0,D,D
+710593,2021/22,2021-09-11 14:00:00+00:00,4,A. Taylor,Manchester United,Newcastle,4,1,W,L
+710595,2021/22,2021-09-11 14:00:00+00:00,4,P. Bankes,Watford,Wolves,0,2,L,W
+710592,2021/22,2021-09-11 14:00:00+00:00,4,P. Tierney,Leicester,Manchester City,0,1,L,W
+710587,2021/22,2021-09-11 14:00:00+00:00,4,G. Scott,Brentford,Brighton,0,1,L,W
+710586,2021/22,2021-09-11 14:00:00+00:00,4,M. Oliver,Arsenal,Norwich,1,0,W,L
+710588,2021/22,2021-09-11 16:30:00+00:00,4,S. Attwell,Chelsea,Aston Villa,3,0,W,L
+710591,2021/22,2021-09-12 15:30:00+00:00,4,C. Pawson,Leeds,Liverpool,0,3,L,W
+710590,2021/22,2021-09-13 19:00:00+00:00,4,M. Atkinson,Everton,Burnley,3,1,W,L
+710601,2021/22,2021-09-17 19:00:00+00:00,5,M. Dean,Newcastle,Leeds,1,1,D,D
+710605,2021/22,2021-09-18 11:30:00+00:00,5,D. England,Wolves,Brentford,0,2,L,W
+710600,2021/22,2021-09-18 14:00:00+00:00,5,J. Moss,Manchester City,Southampton,0,0,D,D
+710599,2021/22,2021-09-18 14:00:00+00:00,5,A. Madley,Liverpool,Crystal Palace,3,0,W,L
+710598,2021/22,2021-09-18 14:00:00+00:00,5,A. Taylor,Burnley,Arsenal,0,1,L,W
+710602,2021/22,2021-09-18 14:00:00+00:00,5,R. Jones,Norwich,Watford,1,3,L,W
+710596,2021/22,2021-09-18 16:30:00+00:00,5,C. Pawson,Aston Villa,Everton,3,0,W,L
+710604,2021/22,2021-09-19 13:00:00+00:00,5,M. Atkinson,West Ham,Manchester United,1,2,L,W
+710597,2021/22,2021-09-19 13:00:00+00:00,5,S. Attwell,Brighton,Leicester,2,1,W,L
+710603,2021/22,2021-09-19 15:30:00+00:00,5,P. Tierney,Tottenham,Chelsea,0,3,L,W
+710613,2021/22,2021-09-25 11:30:00+00:00,6,M. Dean,Manchester United,Aston Villa,0,1,L,W
+710608,2021/22,2021-09-25 11:30:00+00:00,6,M. Oliver,Chelsea,Manchester City,0,1,L,W
+710615,2021/22,2021-09-25 14:00:00+00:00,6,J. Gillett,Watford,Newcastle,1,1,D,D
+710610,2021/22,2021-09-25 14:00:00+00:00,6,D. Coote,Everton,Norwich,2,0,W,L
+710612,2021/22,2021-09-25 14:00:00+00:00,6,C. Kavanagh,Leicester,Burnley,2,2,D,D
+710611,2021/22,2021-09-25 14:00:00+00:00,6,K. Friend,Leeds,West Ham,1,2,L,W
+710607,2021/22,2021-09-25 16:30:00+00:00,6,S. Attwell,Brentford,Liverpool,3,3,D,D
+710614,2021/22,2021-09-26 13:00:00+00:00,6,A. Madley,Southampton,Wolves,0,1,L,W
+710606,2021/22,2021-09-26 15:30:00+00:00,6,C. Pawson,Arsenal,Tottenham,3,1,W,L
+710609,2021/22,2021-09-27 19:00:00+00:00,6,A. Marriner,Crystal Palace,Brighton,1,1,D,D
+710622,2021/22,2021-10-02 11:30:00+00:00,7,M. Oliver,Manchester United,Everton,1,1,D,D
+710625,2021/22,2021-10-02 14:00:00+00:00,7,G. Scott,Wolves,Newcastle,2,1,W,L
+710617,2021/22,2021-10-02 14:00:00+00:00,7,K. Friend,Burnley,Norwich,0,0,D,D
+710618,2021/22,2021-10-02 14:00:00+00:00,7,M. Atkinson,Chelsea,Southampton,3,1,W,L
+710620,2021/22,2021-10-02 14:00:00+00:00,7,S. Hooper,Leeds,Watford,1,0,W,L
+710616,2021/22,2021-10-02 16:30:00+00:00,7,J. Moss,Brighton,Arsenal,0,0,D,D
+710623,2021/22,2021-10-03 13:00:00+00:00,7,C. Kavanagh,Tottenham,Aston Villa,2,1,W,L
+710624,2021/22,2021-10-03 13:00:00+00:00,7,P. Bankes,West Ham,Brentford,1,2,L,W
+710619,2021/22,2021-10-03 13:00:00+00:00,7,A. Taylor,Crystal Palace,Leicester,2,2,D,D
+710621,2021/22,2021-10-03 15:30:00+00:00,7,P. Tierney,Liverpool,Manchester City,2,2,D,D
+710635,2021/22,2021-10-16 11:30:00+00:00,8,J. Moss,Watford,Liverpool,0,5,L,W
+710634,2021/22,2021-10-16 14:00:00+00:00,8,D. Coote,Southampton,Leeds,1,0,W,L
+710630,2021/22,2021-10-16 14:00:00+00:00,8,C. Pawson,Leicester,Manchester United,4,2,W,L
+710631,2021/22,2021-10-16 14:00:00+00:00,8,M. Atkinson,Manchester City,Burnley,2,0,W,L
+710627,2021/22,2021-10-16 14:00:00+00:00,8,M. Oliver,Aston Villa,Wolves,2,3,L,W
+710633,2021/22,2021-10-16 14:00:00+00:00,8,P. Bankes,Norwich,Brighton,0,0,D,D
+710628,2021/22,2021-10-16 16:30:00+00:00,8,A. Taylor,Brentford,Chelsea,0,1,L,W
+710629,2021/22,2021-10-17 13:00:00+00:00,8,S. Attwell,Everton,West Ham,0,1,L,W
+710632,2021/22,2021-10-17 15:30:00+00:00,8,A. Marriner,Newcastle,Tottenham,2,3,L,W
+710626,2021/22,2021-10-18 19:00:00+00:00,8,M. Dean,Arsenal,Crystal Palace,2,2,D,D
+710636,2021/22,2021-10-22 19:00:00+00:00,9,C. Pawson,Arsenal,Aston Villa,3,1,W,L
+710639,2021/22,2021-10-23 11:30:00+00:00,9,A. Madley,Chelsea,Norwich,7,0,W,L
+710644,2021/22,2021-10-23 14:00:00+00:00,9,C. Kavanagh,Southampton,Burnley,2,2,D,D
+710641,2021/22,2021-10-23 14:00:00+00:00,9,G. Scott,Everton,Watford,2,5,L,W
+710640,2021/22,2021-10-23 14:00:00+00:00,9,D. England,Crystal Palace,Newcastle,1,1,D,D
+710642,2021/22,2021-10-23 14:00:00+00:00,9,R. Jones,Leeds,Wolves,1,1,D,D
+710638,2021/22,2021-10-23 16:30:00+00:00,9,K. Friend,Brighton,Manchester City,1,4,L,W
+710645,2021/22,2021-10-24 13:00:00+00:00,9,P. Tierney,West Ham,Tottenham,1,0,W,L
+710637,2021/22,2021-10-24 13:00:00+00:00,9,S. Hooper,Brentford,Leicester,1,2,L,W
+710643,2021/22,2021-10-24 15:30:00+00:00,9,A. Taylor,Manchester United,Liverpool,0,5,L,W
+710648,2021/22,2021-10-30 11:30:00+00:00,10,M. Oliver,Leicester,Arsenal,0,2,L,W
+710651,2021/22,2021-10-30 14:00:00+00:00,10,P. Tierney,Newcastle,Chelsea,0,3,L,W
+710647,2021/22,2021-10-30 14:00:00+00:00,10,J. Moss,Burnley,Brentford,3,1,W,L
+710654,2021/22,2021-10-30 14:00:00+00:00,10,P. Bankes,Watford,Southampton,0,1,L,W
+710649,2021/22,2021-10-30 14:00:00+00:00,10,M. Dean,Liverpool,Brighton,2,2,D,D
+710650,2021/22,2021-10-30 14:00:00+00:00,10,A. Marriner,Manchester City,Crystal Palace,0,2,L,W
+710653,2021/22,2021-10-30 16:30:00+00:00,10,S. Attwell,Tottenham,Manchester United,0,3,L,W
+710652,2021/22,2021-10-31 14:00:00+00:00,10,A. Taylor,Norwich,Leeds,1,2,L,W
+710646,2021/22,2021-10-31 16:30:00+00:00,10,C. Kavanagh,Aston Villa,West Ham,1,4,L,W
+710655,2021/22,2021-11-01 20:00:00+00:00,10,M. Atkinson,Wolves,Everton,2,1,W,L
+710664,2021/22,2021-11-05 20:00:00+00:00,11,A. Madley,Southampton,Aston Villa,1,0,W,L
+710663,2021/22,2021-11-06 12:30:00+00:00,11,M. Oliver,Manchester United,Manchester City,0,2,L,W
+710659,2021/22,2021-11-06 15:00:00+00:00,11,A. Marriner,Chelsea,Burnley,1,1,D,D
+710660,2021/22,2021-11-06 15:00:00+00:00,11,G. Scott,Crystal Palace,Wolves,2,0,W,L
+710657,2021/22,2021-11-06 15:00:00+00:00,11,J. Gillett,Brentford,Norwich,1,2,L,W
+710658,2021/22,2021-11-06 17:30:00+00:00,11,D. Coote,Brighton,Newcastle,1,1,D,D
+710656,2021/22,2021-11-07 14:00:00+00:00,11,K. Friend,Arsenal,Watford,1,0,W,L
+710661,2021/22,2021-11-07 14:00:00+00:00,11,C. Kavanagh,Everton,Tottenham,0,0,D,D
+710662,2021/22,2021-11-07 14:00:00+00:00,11,D. England,Leeds,Leicester,1,1,D,D
+710665,2021/22,2021-11-07 16:30:00+00:00,11,C. Pawson,West Ham,Liverpool,3,2,W,L
+710668,2021/22,2021-11-20 12:30:00+00:00,12,P. Tierney,Leicester,Chelsea,0,3,L,W
+710671,2021/22,2021-11-20 15:00:00+00:00,12,R. Jones,Newcastle,Brentford,3,3,D,D
+710674,2021/22,2021-11-20 15:00:00+00:00,12,J. Moss,Watford,Manchester United,4,1,W,L
+710675,2021/22,2021-11-20 15:00:00+00:00,12,M. Dean,Wolves,West Ham,1,0,W,L
+710667,2021/22,2021-11-20 15:00:00+00:00,12,S. Hooper,Burnley,Crystal Palace,3,3,D,D
+710666,2021/22,2021-11-20 15:00:00+00:00,12,A. Taylor,Aston Villa,Brighton,2,0,W,L
+710672,2021/22,2021-11-20 15:00:00+00:00,12,M. Atkinson,Norwich,Southampton,2,1,W,L
+710669,2021/22,2021-11-20 17:30:00+00:00,12,M. Oliver,Liverpool,Arsenal,4,0,W,L
+710670,2021/22,2021-11-21 14:00:00+00:00,12,S. Attwell,Manchester City,Everton,3,0,W,L
+710673,2021/22,2021-11-21 16:30:00+00:00,12,A. Marriner,Tottenham,Leeds,2,1,W,L
+710676,2021/22,2021-11-27 12:30:00+00:00,13,S. Attwell,Arsenal,Newcastle,2,0,W,L
+710683,2021/22,2021-11-27 15:00:00+00:00,13,A. Marriner,Liverpool,Southampton,4,0,W,L
+710681,2021/22,2021-11-27 15:00:00+00:00,13,M. Salisbury,Crystal Palace,Aston Villa,1,2,L,W
+710685,2021/22,2021-11-27 15:00:00+00:00,13,S. Hooper,Norwich,Wolves,0,0,D,D
+710678,2021/22,2021-11-27 17:30:00+00:00,13,C. Pawson,Brighton,Leeds,0,0,D,D
+710682,2021/22,2021-11-28 14:00:00+00:00,13,A. Madley,Leicester,Watford,4,2,W,L
+710684,2021/22,2021-11-28 14:00:00+00:00,13,M. Oliver,Manchester City,West Ham,2,1,W,L
+710677,2021/22,2021-11-28 14:00:00+00:00,13,D. England,Brentford,Everton,1,0,W,L
+710680,2021/22,2021-11-28 16:30:00+00:00,13,A. Taylor,Chelsea,Manchester United,1,1,D,D
+710693,2021/22,2021-11-30 19:30:00+00:00,14,A. Madley,Newcastle,Norwich,1,1,D,D
+710688,2021/22,2021-11-30 20:15:00+00:00,14,K. Friend,Leeds,Crystal Palace,1,0,W,L
+710689,2021/22,2021-12-01 19:30:00+00:00,14,D. Coote,Watford,Chelsea,1,2,L,W
+710691,2021/22,2021-12-01 19:30:00+00:00,14,J. Brooks,Wolves,Burnley,0,0,D,D
+710694,2021/22,2021-12-01 19:30:00+00:00,14,R. Jones,Southampton,Leicester,2,2,D,D
+710690,2021/22,2021-12-01 19:30:00+00:00,14,C. Kavanagh,West Ham,Brighton,1,1,D,D
+710687,2021/22,2021-12-01 20:15:00+00:00,14,P. Tierney,Everton,Liverpool,1,4,L,W
+710686,2021/22,2021-12-01 20:15:00+00:00,14,M. Dean,Aston Villa,Manchester City,1,2,L,W
+710695,2021/22,2021-12-02 19:30:00+00:00,14,J. Moss,Tottenham,Brentford,2,0,W,L
+710692,2021/22,2021-12-02 20:15:00+00:00,14,M. Atkinson,Manchester United,Arsenal,3,2,W,L
+710704,2021/22,2021-12-04 12:30:00+00:00,15,A. Marriner,West Ham,Chelsea,3,2,W,L
+710700,2021/22,2021-12-04 15:00:00+00:00,15,P. Tierney,Newcastle,Burnley,1,0,W,L
+710705,2021/22,2021-12-04 15:00:00+00:00,15,C. Kavanagh,Wolves,Liverpool,0,1,L,W
+710701,2021/22,2021-12-04 15:00:00+00:00,15,A. Taylor,Southampton,Brighton,1,1,D,D
+710703,2021/22,2021-12-04 17:30:00+00:00,15,S. Hooper,Watford,Manchester City,1,3,L,W
+710699,2021/22,2021-12-05 14:00:00+00:00,15,C. Pawson,Manchester United,Crystal Palace,1,0,W,L
+710702,2021/22,2021-12-05 14:00:00+00:00,15,J. Gillett,Tottenham,Norwich,3,0,W,L
+710698,2021/22,2021-12-05 14:00:00+00:00,15,D. Coote,Leeds,Brentford,2,2,D,D
+710696,2021/22,2021-12-05 16:30:00+00:00,15,M. Oliver,Aston Villa,Leicester,2,1,W,L
+710697,2021/22,2021-12-06 20:00:00+00:00,15,M. Dean,Everton,Arsenal,2,1,W,L
+710707,2021/22,2021-12-10 20:00:00+00:00,16,M. Oliver,Brentford,Watford,2,1,W,L
+710714,2021/22,2021-12-11 12:30:00+00:00,16,J. Moss,Manchester City,Wolves,1,0,W,L
+710713,2021/22,2021-12-11 15:00:00+00:00,16,S. Attwell,Liverpool,Aston Villa,1,0,W,L
+710706,2021/22,2021-12-11 15:00:00+00:00,16,J. Gillett,Arsenal,Southampton,3,0,W,L
+710710,2021/22,2021-12-11 15:00:00+00:00,16,C. Kavanagh,Chelsea,Leeds,3,2,W,L
+710715,2021/22,2021-12-11 17:30:00+00:00,16,D. England,Norwich,Manchester United,0,1,L,W
+710709,2021/22,2021-12-12 14:00:00+00:00,16,G. Scott,Burnley,West Ham,0,0,D,D
+710712,2021/22,2021-12-12 14:00:00+00:00,16,P. Bankes,Leicester,Newcastle,4,0,W,L
+710711,2021/22,2021-12-12 16:30:00+00:00,16,A. Madley,Crystal Palace,Everton,3,1,W,L
+710721,2021/22,2021-12-14 19:45:00+00:00,17,D. Coote,Norwich,Aston Villa,0,2,L,W
+710725,2021/22,2021-12-14 20:00:00+00:00,17,P. Tierney,Manchester City,Leeds,7,0,W,L
+710718,2021/22,2021-12-15 19:30:00+00:00,17,T. Harrington,Brighton,Wolves,0,1,L,W
+710722,2021/22,2021-12-15 19:30:00+00:00,17,S. Hooper,Crystal Palace,Southampton,2,2,D,D
+710716,2021/22,2021-12-15 20:00:00+00:00,17,A. Taylor,Arsenal,West Ham,2,0,W,L
+710723,2021/22,2021-12-16 19:45:00+00:00,17,M. Oliver,Chelsea,Everton,1,1,D,D
+710724,2021/22,2021-12-16 20:00:00+00:00,17,M. Dean,Liverpool,Newcastle,3,1,W,L
+710728,2021/22,2021-12-18 17:30:00+00:00,18,A. Marriner,Leeds,Arsenal,1,4,L,W
+710730,2021/22,2021-12-19 14:00:00+00:00,18,M. Atkinson,Newcastle,Manchester City,0,4,L,W
+710735,2021/22,2021-12-19 14:00:00+00:00,18,D. Coote,Wolves,Chelsea,0,0,D,D
+710732,2021/22,2021-12-19 16:30:00+00:00,18,P. Tierney,Tottenham,Liverpool,2,2,D,D
+710743,2021/22,2021-12-26 15:00:00+00:00,19,J. Moss,Tottenham,Crystal Palace,3,0,W,L
+710744,2021/22,2021-12-26 15:00:00+00:00,19,K. Friend,West Ham,Southampton,2,3,L,W
+710740,2021/22,2021-12-26 15:00:00+00:00,19,C. Kavanagh,Manchester City,Leicester,6,3,W,L
+710742,2021/22,2021-12-26 15:00:00+00:00,19,G. Scott,Norwich,Arsenal,0,5,L,W
+710736,2021/22,2021-12-26 17:30:00+00:00,19,M. Atkinson,Aston Villa,Chelsea,1,3,L,W
+710737,2021/22,2021-12-26 20:00:00+00:00,19,D. England,Brighton,Brentford,2,0,W,L
+710741,2021/22,2021-12-27 20:00:00+00:00,19,C. Pawson,Newcastle,Manchester United,1,1,D,D
+710755,2021/22,2021-12-28 15:00:00+00:00,20,D. England,Watford,West Ham,1,4,L,W
+710754,2021/22,2021-12-28 15:00:00+00:00,20,A. Taylor,Southampton,Tottenham,1,1,D,D
+710749,2021/22,2021-12-28 15:00:00+00:00,20,P. Tierney,Crystal Palace,Norwich,3,0,W,L
+710752,2021/22,2021-12-28 20:00:00+00:00,20,M. Oliver,Leicester,Liverpool,1,0,W,L
+710748,2021/22,2021-12-29 19:30:00+00:00,20,M. Dean,Chelsea,Brighton,1,1,D,D
+710747,2021/22,2021-12-29 20:15:00+00:00,20,D. Coote,Brentford,Manchester City,0,1,L,W
+710753,2021/22,2021-12-30 20:15:00+00:00,20,J. Moss,Manchester United,Burnley,3,1,W,L
+710756,2021/22,2022-01-01 12:30:00+00:00,21,S. Attwell,Arsenal,Manchester City,1,2,L,W
+710765,2021/22,2022-01-01 15:00:00+00:00,21,R. Jones,Watford,Tottenham,0,1,L,W
+710759,2021/22,2022-01-01 17:30:00+00:00,21,D. England,Crystal Palace,West Ham,2,3,L,W
+710760,2021/22,2022-01-02 14:00:00+00:00,21,J. Brooks,Everton,Brighton,2,3,L,W
+710757,2021/22,2022-01-02 14:00:00+00:00,21,C. Pawson,Brentford,Aston Villa,2,1,W,L
+710761,2021/22,2022-01-02 14:00:00+00:00,21,P. Tierney,Leeds,Burnley,3,1,W,L
+710758,2021/22,2022-01-02 16:30:00+00:00,21,A. Taylor,Chelsea,Liverpool,2,2,D,D
+710763,2021/22,2022-01-03 17:30:00+00:00,21,M. Dean,Manchester United,Wolves,0,1,L,W
+710731,2021/22,2022-01-11 19:45:00+00:00,18,S. Attwell,Southampton,Brentford,4,1,W,L
+710734,2021/22,2022-01-12 19:45:00+00:00,18,S. Hooper,West Ham,Norwich,2,0,W,L
+710767,2021/22,2022-01-14 20:00:00+00:00,22,R. Jones,Brighton,Crystal Palace,1,1,D,D
+710770,2021/22,2022-01-15 12:30:00+00:00,22,C. Pawson,Manchester City,Chelsea,1,0,W,L
+710771,2021/22,2022-01-15 15:00:00+00:00,22,P. Tierney,Newcastle,Watford,1,1,D,D
+710775,2021/22,2022-01-15 15:00:00+00:00,22,M. Salisbury,Wolves,Southampton,3,1,W,L
+710772,2021/22,2022-01-15 15:00:00+00:00,22,A. Madley,Norwich,Everton,2,1,W,L
+710766,2021/22,2022-01-15 17:30:00+00:00,22,D. Coote,Aston Villa,Manchester United,2,2,D,D
+710769,2021/22,2022-01-16 14:00:00+00:00,22,J. Moss,Liverpool,Brentford,3,0,W,L
+710774,2021/22,2022-01-16 14:00:00+00:00,22,M. Dean,West Ham,Leeds,2,3,L,W
+710787,2021/22,2022-01-18 20:00:00+00:00,24,K. Friend,Brighton,Chelsea,1,1,D,D
+710720,2021/22,2022-01-19 19:30:00+00:00,17,J. Moss,Leicester,Tottenham,2,3,L,W
+710717,2021/22,2022-01-19 20:00:00+00:00,17,A. Marriner,Brentford,Manchester United,1,3,L,W
+710785,2021/22,2022-01-21 20:00:00+00:00,23,M. Dean,Watford,Norwich,0,3,L,W
+710780,2021/22,2022-01-22 12:30:00+00:00,23,C. Pawson,Everton,Aston Villa,0,1,L,W
+710783,2021/22,2022-01-22 15:00:00+00:00,23,J. Moss,Manchester United,West Ham,1,0,W,L
+710777,2021/22,2022-01-22 15:00:00+00:00,23,P. Bankes,Brentford,Wolves,1,2,L,W
+710781,2021/22,2022-01-22 15:00:00+00:00,23,C. Kavanagh,Leeds,Newcastle,0,1,L,W
+710784,2021/22,2022-01-22 17:30:00+00:00,23,S. Hooper,Southampton,Manchester City,1,1,D,D
+710776,2021/22,2022-01-23 14:00:00+00:00,23,D. Coote,Arsenal,Burnley,0,0,D,D
+710782,2021/22,2022-01-23 14:00:00+00:00,23,M. Atkinson,Leicester,Brighton,1,1,D,D
+710779,2021/22,2022-01-23 14:00:00+00:00,23,K. Friend,Crystal Palace,Liverpool,1,3,L,W
+710778,2021/22,2022-01-23 16:30:00+00:00,23,P. Tierney,Chelsea,Tottenham,2,0,W,L
+710719,2021/22,2022-02-05 18:00:00+00:00,17,C. Pawson,Burnley,Watford,0,0,D,D
+710792,2021/22,2022-02-08 19:45:00+00:00,24,A. Taylor,Newcastle,Everton,3,1,W,L
+710790,2021/22,2022-02-08 19:45:00+00:00,24,M. Atkinson,West Ham,Watford,1,0,W,L
+710788,2021/22,2022-02-08 20:00:00+00:00,24,M. Dean,Burnley,Manchester United,1,1,D,D
+710793,2021/22,2022-02-09 19:45:00+00:00,24,D. Coote,Tottenham,Southampton,2,3,L,W
+710795,2021/22,2022-02-09 19:45:00+00:00,24,D. England,Manchester City,Brentford,2,0,W,L
+710789,2021/22,2022-02-09 19:45:00+00:00,24,P. Tierney,Norwich,Crystal Palace,1,1,D,D
+710786,2021/22,2022-02-09 20:00:00+00:00,24,J. Gillett,Aston Villa,Leeds,3,3,D,D
+710791,2021/22,2022-02-10 19:45:00+00:00,24,M. Oliver,Wolves,Arsenal,0,1,L,W
+710794,2021/22,2022-02-10 19:45:00+00:00,24,C. Kavanagh,Liverpool,Leicester,2,0,W,L
+710801,2021/22,2022-02-12 12:30:00+00:00,25,S. Attwell,Manchester United,Southampton,1,1,D,D
+710799,2021/22,2022-02-12 15:00:00+00:00,25,G. Scott,Everton,Leeds,3,0,W,L
+710796,2021/22,2022-02-12 15:00:00+00:00,25,S. Hooper,Brentford,Crystal Palace,0,0,D,D
+710805,2021/22,2022-02-12 15:00:00+00:00,25,J. Moss,Watford,Brighton,0,2,L,W
+710803,2021/22,2022-02-12 17:30:00+00:00,25,A. Marriner,Norwich,Manchester City,0,4,L,W
+710802,2021/22,2022-02-13 14:00:00+00:00,25,C. Pawson,Newcastle,Aston Villa,1,0,W,L
+710797,2021/22,2022-02-13 14:00:00+00:00,25,M. Atkinson,Burnley,Liverpool,0,1,L,W
+710804,2021/22,2022-02-13 14:00:00+00:00,25,K. Friend,Tottenham,Wolves,0,2,L,W
+710800,2021/22,2022-02-13 16:30:00+00:00,25,M. Oliver,Leicester,West Ham,2,2,D,D
+710729,2021/22,2022-02-15 20:15:00+00:00,18,P. Bankes,Manchester United,Brighton,2,0,W,L
+710814,2021/22,2022-02-19 12:30:00+00:00,26,C. Kavanagh,West Ham,Newcastle,1,1,D,D
+710806,2021/22,2022-02-19 15:00:00+00:00,26,J. Moss,Arsenal,Brentford,2,1,W,L
+710811,2021/22,2022-02-19 15:00:00+00:00,26,M. Dean,Liverpool,Norwich,3,1,W,L
+710813,2021/22,2022-02-19 15:00:00+00:00,26,A. Madley,Southampton,Everton,2,0,W,L
+710807,2021/22,2022-02-19 15:00:00+00:00,26,R. Jones,Aston Villa,Watford,0,1,L,W
+710808,2021/22,2022-02-19 15:00:00+00:00,26,K. Friend,Brighton,Burnley,0,3,L,W
+710809,2021/22,2022-02-19 15:00:00+00:00,26,D. Coote,Crystal Palace,Chelsea,0,1,L,W
+710812,2021/22,2022-02-19 17:30:00+00:00,26,A. Taylor,Manchester City,Tottenham,2,3,L,W
+710810,2021/22,2022-02-20 14:00:00+00:00,26,P. Tierney,Leeds,Manchester United,2,4,L,W
+710815,2021/22,2022-02-20 16:30:00+00:00,26,C. Pawson,Wolves,Leicester,2,1,W,L
+710733,2021/22,2022-02-23 19:30:00+00:00,18,A. Marriner,Watford,Crystal Palace,1,4,L,W
+710679,2021/22,2022-02-23 19:30:00+00:00,13,G. Scott,Burnley,Tottenham,1,0,W,L
+710739,2021/22,2022-02-23 19:45:00+00:00,19,M. Oliver,Liverpool,Leeds,6,0,W,L
+710746,2021/22,2022-02-24 19:45:00+00:00,20,M. Atkinson,Arsenal,Wolves,2,1,W,L
+710824,2021/22,2022-02-25 20:00:00+00:00,27,S. Hooper,Southampton,Norwich,2,0,W,L
+710822,2021/22,2022-02-26 12:30:00+00:00,27,C. Pawson,Leeds,Tottenham,0,4,L,W
+710823,2021/22,2022-02-26 15:00:00+00:00,27,K. Friend,Manchester United,Watford,0,0,D,D
+710820,2021/22,2022-02-26 15:00:00+00:00,27,J. Moss,Crystal Palace,Burnley,1,1,D,D
+710817,2021/22,2022-02-26 15:00:00+00:00,27,M. Dean,Brentford,Newcastle,0,2,L,W
+710818,2021/22,2022-02-26 15:30:00+00:00,27,J. Brooks,Brighton,Aston Villa,0,2,L,W
+710821,2021/22,2022-02-26 17:30:00+00:00,27,P. Tierney,Everton,Manchester City,0,1,L,W
+710825,2021/22,2022-02-27 14:00:00+00:00,27,A. Taylor,West Ham,Wolves,1,0,W,L
+710768,2021/22,2022-03-01 19:45:00+00:00,22,C. Kavanagh,Burnley,Leicester,0,2,L,W
+710828,2021/22,2022-03-05 12:30:00+00:00,28,D. Coote,Leicester,Leeds,1,0,W,L
+710831,2021/22,2022-03-05 15:00:00+00:00,28,M. Atkinson,Newcastle,Brighton,2,1,W,L
+710835,2021/22,2022-03-05 15:00:00+00:00,28,A. Madley,Wolves,Crystal Palace,0,2,L,W
+710827,2021/22,2022-03-05 15:00:00+00:00,28,A. Marriner,Burnley,Chelsea,0,4,L,W
+710826,2021/22,2022-03-05 15:00:00+00:00,28,P. Bankes,Aston Villa,Southampton,4,0,W,L
+710832,2021/22,2022-03-05 15:00:00+00:00,28,A. Taylor,Norwich,Brentford,1,3,L,W
+710829,2021/22,2022-03-05 17:30:00+00:00,28,J. Moss,Liverpool,West Ham,1,0,W,L
+710834,2021/22,2022-03-06 14:00:00+00:00,28,C. Pawson,Watford,Arsenal,2,3,L,W
+710830,2021/22,2022-03-06 16:30:00+00:00,28,M. Oliver,Manchester City,Manchester United,4,1,W,L
+710833,2021/22,2022-03-07 20:00:00+00:00,28,S. Attwell,Tottenham,Everton,5,0,W,L
+710745,2021/22,2022-03-10 19:30:00+00:00,19,D. England,Wolves,Watford,4,0,W,L
+710764,2021/22,2022-03-10 19:30:00+00:00,21,K. Friend,Southampton,Newcastle,1,2,L,W
+710852,2021/22,2022-03-10 19:30:00+00:00,30,M. Atkinson,Norwich,Chelsea,1,3,L,W
+710751,2021/22,2022-03-10 19:45:00+00:00,20,S. Hooper,Leeds,Aston Villa,0,3,L,W
+710838,2021/22,2022-03-12 12:30:00+00:00,29,M. Dean,Brighton,Liverpool,0,2,L,W
+710837,2021/22,2022-03-12 15:00:00+00:00,29,P. Tierney,Brentford,Burnley,2,0,W,L
+710843,2021/22,2022-03-12 17:30:00+00:00,29,J. Moss,Manchester United,Tottenham,3,2,W,L
+710844,2021/22,2022-03-13 14:00:00+00:00,29,G. Scott,Southampton,Watford,1,2,L,W
+710841,2021/22,2022-03-13 14:00:00+00:00,29,M. Oliver,Everton,Wolves,0,1,L,W
+710845,2021/22,2022-03-13 14:00:00+00:00,29,J. Gillett,West Ham,Aston Villa,2,1,W,L
+710839,2021/22,2022-03-13 14:00:00+00:00,29,D. Coote,Chelsea,Newcastle,1,0,W,L
+710842,2021/22,2022-03-13 14:00:00+00:00,29,S. Attwell,Leeds,Norwich,2,1,W,L
+710836,2021/22,2022-03-13 16:30:00+00:00,29,A. Taylor,Arsenal,Leicester,2,0,W,L
+710840,2021/22,2022-03-14 20:00:00+00:00,29,M. Atkinson,Crystal Palace,Manchester City,0,0,D,D
+710708,2021/22,2022-03-16 19:30:00+00:00,16,R. Jones,Brighton,Tottenham,0,2,L,W
+710816,2021/22,2022-03-16 20:15:00+00:00,27,A. Marriner,Arsenal,Liverpool,0,2,L,W
+710750,2021/22,2022-03-17 19:45:00+00:00,20,C. Pawson,Everton,Newcastle,1,0,W,L
+710855,2021/22,2022-03-18 20:00:00+00:00,30,K. Friend,Wolves,Leeds,2,3,L,W
+710846,2021/22,2022-03-19 12:30:00+00:00,30,A. Madley,Aston Villa,Arsenal,0,1,L,W
+710848,2021/22,2022-03-20 14:00:00+00:00,30,D. England,Leicester,Brentford,2,1,W,L
+710853,2021/22,2022-03-20 16:30:00+00:00,30,A. Taylor,Tottenham,West Ham,3,1,W,L
+710861,2021/22,2022-04-02 11:30:00+00:00,31,S. Attwell,Liverpool,Watford,2,0,W,L
+710865,2021/22,2022-04-02 14:00:00+00:00,31,D. England,Wolves,Aston Villa,2,1,W,L
+710857,2021/22,2022-04-02 14:00:00+00:00,31,C. Pawson,Burnley,Manchester City,0,2,L,W
+710858,2021/22,2022-04-02 14:00:00+00:00,31,A. Madley,Chelsea,Brentford,1,4,L,W
+710856,2021/22,2022-04-02 14:00:00+00:00,31,S. Hooper,Brighton,Norwich,0,0,D,D
+710860,2021/22,2022-04-02 14:00:00+00:00,31,A. Taylor,Leeds,Southampton,1,1,D,D
+710862,2021/22,2022-04-02 16:30:00+00:00,31,A. Marriner,Manchester United,Leicester,1,1,D,D
+710864,2021/22,2022-04-03 13:00:00+00:00,31,M. Oliver,West Ham,Everton,2,1,W,L
+710863,2021/22,2022-04-03 15:30:00+00:00,31,M. Atkinson,Tottenham,Newcastle,5,1,W,L
+710859,2021/22,2022-04-04 19:00:00+00:00,31,P. Tierney,Crystal Palace,Arsenal,3,0,W,L
+710738,2021/22,2022-04-06 18:30:00+00:00,19,M. Dean,Burnley,Everton,3,2,W,L
+710872,2021/22,2022-04-08 19:00:00+00:00,32,P. Bankes,Newcastle,Wolves,1,0,W,L
+710869,2021/22,2022-04-09 11:30:00+00:00,32,J. Moss,Everton,Manchester United,1,0,W,L
+710875,2021/22,2022-04-09 14:00:00+00:00,32,A. Marriner,Watford,Leeds,0,3,L,W
+710874,2021/22,2022-04-09 14:00:00+00:00,32,K. Friend,Southampton,Chelsea,0,6,L,W
+710866,2021/22,2022-04-09 14:00:00+00:00,32,D. Coote,Arsenal,Brighton,1,2,L,W
+710867,2021/22,2022-04-09 16:30:00+00:00,32,G. Scott,Aston Villa,Tottenham,0,4,L,W
+710870,2021/22,2022-04-10 13:00:00+00:00,32,R. Jones,Leicester,Crystal Palace,2,1,W,L
+710868,2021/22,2022-04-10 13:00:00+00:00,32,M. Atkinson,Brentford,West Ham,2,0,W,L
+710873,2021/22,2022-04-10 13:00:00+00:00,32,M. Oliver,Norwich,Burnley,2,0,W,L
+710871,2021/22,2022-04-10 15:30:00+00:00,32,A. Taylor,Manchester City,Liverpool,2,2,D,D
+710882,2021/22,2022-04-16 11:30:00+00:00,33,C. Pawson,Tottenham,Brighton,0,1,L,W
+710879,2021/22,2022-04-16 14:00:00+00:00,33,A. Madley,Manchester United,Norwich,3,2,W,L
+710883,2021/22,2022-04-16 14:00:00+00:00,33,S. Hooper,Watford,Brentford,1,2,L,W
+710881,2021/22,2022-04-16 14:00:00+00:00,33,P. Bankes,Southampton,Arsenal,1,0,W,L
+710880,2021/22,2022-04-17 13:15:00+00:00,33,J. Gillett,Newcastle,Leicester,2,1,W,L
+710884,2021/22,2022-04-17 13:15:00+00:00,33,P. Tierney,West Ham,Burnley,1,1,D,D
+710849,2021/22,2022-04-19 19:00:00+00:00,30,M. Atkinson,Liverpool,Manchester United,4,0,W,L
+710851,2021/22,2022-04-20 18:45:00+00:00,30,T. Harrington,Newcastle,Crystal Palace,1,0,W,L
+710727,2021/22,2022-04-20 18:45:00+00:00,18,D. Coote,Everton,Leicester,1,1,D,D
+710798,2021/22,2022-04-20 18:45:00+00:00,25,J. Moss,Chelsea,Arsenal,2,4,L,W
+710850,2021/22,2022-04-20 19:00:00+00:00,30,M. Dean,Manchester City,Brighton,3,0,W,L
+710847,2021/22,2022-04-21 18:45:00+00:00,30,S. Attwell,Burnley,Southampton,2,0,W,L
+710886,2021/22,2022-04-23 11:30:00+00:00,34,C. Pawson,Arsenal,Manchester United,3,1,W,L
+710892,2021/22,2022-04-23 14:00:00+00:00,34,A. Madley,Leicester,Aston Villa,0,0,D,D
+710894,2021/22,2022-04-23 14:00:00+00:00,34,K. Friend,Manchester City,Watford,5,1,W,L
+710895,2021/22,2022-04-23 14:00:00+00:00,34,C. Kavanagh,Norwich,Newcastle,0,3,L,W
+710887,2021/22,2022-04-23 16:30:00+00:00,34,M. Atkinson,Brentford,Tottenham,0,0,D,D
+710889,2021/22,2022-04-24 13:00:00+00:00,34,A. Taylor,Burnley,Wolves,1,0,W,L
+710890,2021/22,2022-04-24 13:00:00+00:00,34,M. Oliver,Chelsea,West Ham,1,0,W,L
+710888,2021/22,2022-04-24 13:00:00+00:00,34,R. Jones,Brighton,Southampton,2,2,D,D
+710893,2021/22,2022-04-24 15:30:00+00:00,34,S. Attwell,Liverpool,Everton,2,0,W,L
+710891,2021/22,2022-04-25 19:00:00+00:00,34,D. England,Crystal Palace,Leeds,0,0,D,D
+710919,2021/22,2022-04-28 18:45:00+00:00,37,M. Dean,Manchester United,Chelsea,1,1,D,D
+710900,2021/22,2022-04-30 11:30:00+00:00,35,A. Marriner,Newcastle,Liverpool,0,1,L,W
+710903,2021/22,2022-04-30 14:00:00+00:00,35,C. Pawson,Watford,Burnley,1,2,L,W
+710905,2021/22,2022-04-30 14:00:00+00:00,35,S. Hooper,Wolves,Brighton,0,3,L,W
+710901,2021/22,2022-04-30 14:00:00+00:00,35,J. Gillett,Southampton,Crystal Palace,1,2,L,W
+710896,2021/22,2022-04-30 14:00:00+00:00,35,J. Brooks,Aston Villa,Norwich,2,0,W,L
+710898,2021/22,2022-04-30 16:30:00+00:00,35,P. Tierney,Leeds,Manchester City,0,4,L,W
+710897,2021/22,2022-05-01 13:00:00+00:00,35,K. Friend,Everton,Chelsea,1,0,W,L
+710902,2021/22,2022-05-01 13:00:00+00:00,35,J. Moss,Tottenham,Leicester,3,1,W,L
+710904,2021/22,2022-05-01 15:30:00+00:00,35,M. Dean,West Ham,Arsenal,1,2,L,W
+710899,2021/22,2022-05-02 19:00:00+00:00,35,C. Kavanagh,Manchester United,Brentford,3,0,W,L
+710910,2021/22,2022-05-07 14:00:00+00:00,36,P. Bankes,Chelsea,Wolves,2,2,D,D
+710909,2021/22,2022-05-07 14:00:00+00:00,36,D. Coote,Burnley,Aston Villa,1,3,L,W
+710907,2021/22,2022-05-07 14:00:00+00:00,36,M. Salisbury,Brentford,Southampton,3,0,W,L
+710911,2021/22,2022-05-07 14:00:00+00:00,36,G. Scott,Crystal Palace,Watford,1,0,W,L
+710908,2021/22,2022-05-07 16:30:00+00:00,36,A. Madley,Brighton,Manchester United,4,0,W,L
+710913,2021/22,2022-05-07 18:45:00+00:00,36,M. Oliver,Liverpool,Tottenham,1,1,D,D
+710906,2021/22,2022-05-08 13:00:00+00:00,36,C. Kavanagh,Arsenal,Leeds,2,1,W,L
+710912,2021/22,2022-05-08 13:00:00+00:00,36,C. Pawson,Leicester,Everton,1,2,L,W
+710915,2021/22,2022-05-08 13:00:00+00:00,36,R. Jones,Norwich,West Ham,0,4,L,W
+710914,2021/22,2022-05-08 15:30:00+00:00,36,S. Attwell,Manchester City,Newcastle,5,0,W,L
+710876,2021/22,2022-05-10 19:00:00+00:00,33,J. Moss,Aston Villa,Liverpool,1,2,L,W
+710878,2021/22,2022-05-11 18:30:00+00:00,33,A. Taylor,Leeds,Chelsea,0,3,L,W
+710854,2021/22,2022-05-11 18:45:00+00:00,30,M. Dean,Watford,Everton,0,0,D,D
+710762,2021/22,2022-05-11 18:45:00+00:00,21,S. Hooper,Leicester,Norwich,3,0,W,L
+710885,2021/22,2022-05-11 19:15:00+00:00,33,M. Atkinson,Wolves,Manchester City,1,5,L,W
+710773,2021/22,2022-05-12 18:45:00+00:00,22,P. Tierney,Tottenham,Arsenal,3,0,W,L
+710922,2021/22,2022-05-15 11:00:00+00:00,37,K. Friend,Tottenham,Burnley,1,0,W,L
+710923,2021/22,2022-05-15 13:00:00+00:00,37,J. Gillett,Watford,Leicester,1,5,L,W
+710925,2021/22,2022-05-15 13:00:00+00:00,37,T. Harrington,Wolves,Norwich,1,1,D,D
+710924,2021/22,2022-05-15 13:00:00+00:00,37,A. Taylor,West Ham,Manchester City,2,2,D,D
+710918,2021/22,2022-05-15 13:00:00+00:00,37,M. Dean,Leeds,Brighton,1,1,D,D
+710916,2021/22,2022-05-15 13:00:00+00:00,37,C. Kavanagh,Aston Villa,Crystal Palace,1,1,D,D
+710917,2021/22,2022-05-15 15:30:00+00:00,37,M. Oliver,Everton,Brentford,2,3,L,W
+710920,2021/22,2022-05-16 19:00:00+00:00,37,D. England,Newcastle,Arsenal,2,0,W,L
+710921,2021/22,2022-05-17 18:45:00+00:00,37,M. Atkinson,Southampton,Liverpool,1,2,L,W
+710877,2021/22,2022-05-19 18:45:00+00:00,33,A. Taylor,Everton,Crystal Palace,3,2,W,L
+710819,2021/22,2022-05-19 19:00:00+00:00,27,S. Attwell,Chelsea,Leicester,1,1,D,D
+710726,2021/22,2022-05-19 19:00:00+00:00,18,P. Tierney,Aston Villa,Burnley,1,1,D,D
+710933,2021/22,2022-05-22 15:00:00+00:00,38,A. Taylor,Liverpool,Wolves,3,1,W,L
+710926,2021/22,2022-05-22 15:00:00+00:00,38,A. Marriner,Arsenal,Everton,5,1,W,L
+710929,2021/22,2022-05-22 15:00:00+00:00,38,C. Pawson,Burnley,Newcastle,1,2,L,W
+710932,2021/22,2022-05-22 15:00:00+00:00,38,J. Moss,Leicester,Southampton,4,1,W,L
+710930,2021/22,2022-05-22 15:00:00+00:00,38,M. Dean,Chelsea,Watford,2,1,W,L
+710934,2021/22,2022-05-22 15:00:00+00:00,38,M. Oliver,Manchester City,Aston Villa,3,2,W,L
+710928,2021/22,2022-05-22 15:00:00+00:00,38,K. Friend,Brighton,West Ham,3,1,W,L
+710931,2021/22,2022-05-22 15:00:00+00:00,38,M. Atkinson,Crystal Palace,Manchester United,1,0,W,L
+710927,2021/22,2022-05-22 15:00:00+00:00,38,P. Tierney,Brentford,Leeds,1,2,L,W
+710935,2021/22,2022-05-22 15:00:00+00:00,38,C. Kavanagh,Norwich,Tottenham,0,5,L,W

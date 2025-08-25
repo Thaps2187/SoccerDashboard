@@ -1,0 +1,21 @@
+Rank,Logo,Team,MP,W,D,L,GF,GA,GD,Pts,Form,Qualification,Home_wins,Home_draw,Home_lose,Home_goals_for,Home_goals_against,Away_wins,Away_draw,Away_lose,Away_goals_for,Away_goals_against
+1,https://media.api-sports.io/football/teams/529.png,Barcelona,38,26,9,3,90,36,54,87,DWLWW,Promotion - Champions League (Group Stage),15,3,1,51,17,11,6,2,39,19
+2,https://media.api-sports.io/football/teams/530.png,Atletico Madrid,38,22,10,6,55,29,26,76,DDLWW,Promotion - Champions League (Group Stage),15,3,1,32,10,7,7,5,23,19
+3,https://media.api-sports.io/football/teams/541.png,Real Madrid,38,21,5,12,63,46,17,68,LLWLD,Promotion - Champions League (Group Stage),13,1,5,32,15,8,4,7,31,31
+4,https://media.api-sports.io/football/teams/532.png,Valencia,38,15,16,7,51,35,16,61,WWWLL,Promotion - Champions League (Group Stage),7,10,2,24,12,8,6,5,27,23
+5,https://media.api-sports.io/football/teams/546.png,Getafe,38,15,14,9,48,35,13,59,DLWLD,Promotion - Europa League (Group Stage),11,3,5,28,13,4,11,4,20,22
+6,https://media.api-sports.io/football/teams/536.png,Sevilla,38,17,8,13,62,47,15,59,WDLLW,Promotion - Europa League (Qualification),12,3,4,39,20,5,5,9,23,27
+7,https://media.api-sports.io/football/teams/540.png,Espanyol,38,14,11,13,48,50,-2,53,WWWDD,Promotion - Europa League (Qualification),11,3,5,28,22,3,8,8,20,28
+8,https://media.api-sports.io/football/teams/531.png,Athletic Club,38,13,14,11,41,45,-4,53,LWLDW,,9,8,2,26,19,4,6,9,15,26
+9,https://media.api-sports.io/football/teams/548.png,Real Sociedad,38,13,11,14,45,46,-1,50,LWWWL,,7,6,6,23,20,6,5,8,22,26
+10,https://media.api-sports.io/football/teams/543.png,Real Betis,38,14,8,16,44,52,-8,50,WWLDL,,8,5,6,25,26,6,3,10,19,26
+11,https://media.api-sports.io/football/teams/542.png,Alaves,38,13,11,14,39,50,-11,50,WLLDL,,7,8,4,19,19,6,3,10,20,31
+12,https://media.api-sports.io/football/teams/545.png,Eibar,38,11,14,13,46,50,-4,47,DLWWL,,9,6,4,31,21,2,8,9,15,29
+13,https://media.api-sports.io/football/teams/537.png,Leganes,38,11,12,15,37,43,-6,45,LLWDL,,7,8,4,19,16,4,4,11,18,27
+14,https://media.api-sports.io/football/teams/533.png,Villarreal,38,10,14,14,49,52,-3,44,DWLDW,,5,8,6,28,26,5,6,8,21,26
+15,https://media.api-sports.io/football/teams/539.png,Levante,38,11,11,16,59,66,-7,44,DWWLW,,6,7,6,34,34,5,4,10,25,32
+16,https://media.api-sports.io/football/teams/720.png,Valladolid,38,10,11,17,32,51,-19,41,LWWLW,,5,5,9,16,26,5,6,8,16,25
+17,https://media.api-sports.io/football/teams/538.png,Celta Vigo,38,10,11,17,53,62,-9,41,DLWDD,,8,5,6,31,25,2,6,11,22,37
+18,https://media.api-sports.io/football/teams/547.png,Girona,38,9,10,19,37,53,-16,37,LLLWL,Relegation - LaLiga2,3,6,10,17,28,6,4,9,20,25
+19,https://media.api-sports.io/football/teams/726.png,Huesca,38,7,12,19,43,65,-22,33,WLLDW,Relegation - LaLiga2,5,6,8,24,30,2,6,11,19,35
+20,https://media.api-sports.io/football/teams/728.png,Rayo Vallecano,38,8,8,22,41,70,-29,32,DLLWL,Relegation - LaLiga2,5,6,8,25,32,3,2,14,16,38

@@ -1,0 +1,21 @@
+Rank,Logo,Team,MP,W,D,L,GF,GA,GD,Pts,Form,Qualification,Home_wins,Home_draw,Home_lose,Home_goals_for,Home_goals_against,Away_wins,Away_draw,Away_lose,Away_goals_for,Away_goals_against
+1,https://media.api-sports.io/football/teams/529.png,Barcelona,38,28,9,1,99,29,70,93,WLWDW,UEFA Champions League,16,3,0,53,11,12,6,1,46,18
+2,https://media.api-sports.io/football/teams/530.png,Atletico Madrid,38,23,10,5,58,22,36,79,DWLWD,UEFA Champions League,12,6,1,30,8,11,4,4,28,14
+4,https://media.api-sports.io/football/teams/532.png,Valencia,38,22,7,9,65,38,27,73,WWLDD,UEFA Champions League,13,3,3,36,16,9,4,6,29,22
+3,https://media.api-sports.io/football/teams/541.png,Real Madrid,38,22,10,6,94,44,50,76,DWLDW,UEFA Champions League,12,4,3,54,20,10,6,3,40,24
+5,https://media.api-sports.io/football/teams/533.png,Villarreal,38,18,7,13,57,50,7,61,DWLWW,UEFA Europa League,11,3,5,35,22,7,4,8,22,28
+7,https://media.api-sports.io/football/teams/536.png,Sevilla,38,17,7,14,49,58,-9,58,WDWWL,UEFA Europa League,11,5,3,31,22,6,2,11,18,36
+9,https://media.api-sports.io/football/teams/545.png,Eibar,38,14,9,15,44,50,-6,51,DWWDL,,8,4,7,26,19,6,5,8,18,31
+6,https://media.api-sports.io/football/teams/543.png,Real Betis,38,18,6,14,60,61,-1,60,LDLWD,,10,4,5,35,31,8,2,9,25,30
+13,https://media.api-sports.io/football/teams/538.png,Celta Vigo,38,13,10,15,59,60,-1,49,WLDLD,,8,8,3,34,23,5,2,12,25,37
+10,https://media.api-sports.io/football/teams/547.png,Girona,38,14,9,15,50,59,-9,51,WLLDL,,8,3,8,26,22,6,6,7,24,37
+8,https://media.api-sports.io/football/teams/546.png,Getafe,38,15,10,13,42,33,9,55,WLWDW,,9,4,6,26,13,6,6,7,16,20
+17,https://media.api-sports.io/football/teams/537.png,Leganes,38,12,7,19,34,51,-17,43,WLLLD,,9,4,6,19,19,3,3,13,15,32
+16,https://media.api-sports.io/football/teams/531.png,Athletic Club,38,10,13,15,41,49,-8,43,LLWLL,,6,8,5,19,16,4,5,10,22,33
+12,https://media.api-sports.io/football/teams/548.png,Real Sociedad,38,14,7,17,66,59,7,49,LWLWL,,10,3,6,47,29,4,4,11,19,30
+11,https://media.api-sports.io/football/teams/540.png,Espanyol,38,12,13,13,36,42,-6,49,WWWDW,,8,6,5,20,16,4,7,8,16,26
+14,https://media.api-sports.io/football/teams/542.png,Alaves,38,15,2,21,40,50,-10,47,LWWLW,,9,1,9,21,23,6,1,12,19,27
+15,https://media.api-sports.io/football/teams/539.png,Levante,38,11,13,14,44,58,-14,46,LWWWW,,7,6,6,25,28,4,7,8,19,30
+19,https://media.api-sports.io/football/teams/534.png,Las Palmas,38,5,7,26,24,74,-50,22,LLLDL,Relegation,4,2,13,15,38,1,5,13,9,36
+18,https://media.api-sports.io/football/teams/544.png,Deportivo La Coruna,38,6,11,21,38,76,-38,29,LLDLD,Relegation,4,6,9,22,33,2,5,12,16,43
+20,https://media.api-sports.io/football/teams/535.png,Malaga,38,5,5,28,24,61,-37,20,LLLLW,Relegation,4,3,12,14,27,1,2,16,10,34

@@ -1,0 +1,381 @@
+fixture_id,season,date,match_day,referee,home_team,away_team,home_goals,away_goals,home_results,away_results
+1035037,2023/24,2023-08-11 19:00:00+00:00,1,C. Pawson,Burnley,Manchester City,0,3,L,W
+1035038,2023/24,2023-08-12 11:30:00+00:00,1,M. Oliver,Arsenal,Nottingham Forest,2,1,W,L
+1035039,2023/24,2023-08-12 14:00:00+00:00,1,P. Bankes,Bournemouth,West Ham,1,1,D,D
+1035041,2023/24,2023-08-12 14:00:00+00:00,1,S. Attwell,Everton,Fulham,0,1,L,W
+1035040,2023/24,2023-08-12 14:00:00+00:00,1,D. Coote,Brighton,Luton,4,1,W,L
+1035042,2023/24,2023-08-12 14:00:00+00:00,1,J. Brooks,Sheffield Utd,Crystal Palace,0,1,L,W
+1035043,2023/24,2023-08-12 16:30:00+00:00,1,A. Madley,Newcastle,Aston Villa,5,1,W,L
+1035044,2023/24,2023-08-13 13:00:00+00:00,1,R. Jones,Brentford,Tottenham,2,2,D,D
+1035045,2023/24,2023-08-13 15:30:00+00:00,1,A. Taylor,Chelsea,Liverpool,1,1,D,D
+1035046,2023/24,2023-08-14 19:00:00+00:00,1,S. Hooper,Manchester United,Wolves,1,0,W,L
+1035053,2023/24,2023-08-18 18:45:00+00:00,2,P. Bankes,Nottingham Forest,Sheffield Utd,2,1,W,L
+1035049,2023/24,2023-08-19 14:00:00+00:00,2,D. Bond,Fulham,Brentford,0,3,L,W
+1035056,2023/24,2023-08-19 14:00:00+00:00,2,A. Madley,Wolves,Brighton,1,4,L,W
+1035050,2023/24,2023-08-19 14:00:00+00:00,2,T. Bramall,Liverpool,Bournemouth,3,1,W,L
+1035054,2023/24,2023-08-19 16:30:00+00:00,2,M. Oliver,Tottenham,Manchester United,2,0,W,L
+1035052,2023/24,2023-08-19 19:00:00+00:00,2,R. Jones,Manchester City,Newcastle,1,0,W,L
+1035047,2023/24,2023-08-20 13:00:00+00:00,2,A. Taylor,Aston Villa,Everton,4,0,W,L
+1035055,2023/24,2023-08-20 15:30:00+00:00,2,J. Brooks,West Ham,Chelsea,3,1,W,L
+1035048,2023/24,2023-08-21 19:00:00+00:00,2,D. Coote,Crystal Palace,Arsenal,0,1,L,W
+1035062,2023/24,2023-08-25 19:00:00+00:00,3,R. Jones,Chelsea,Luton,3,0,W,L
+1035057,2023/24,2023-08-26 11:30:00+00:00,3,T. Robinson,Bournemouth,Tottenham,0,2,L,W
+1035058,2023/24,2023-08-26 14:00:00+00:00,3,P. Tierney,Arsenal,Fulham,2,2,D,D
+1035064,2023/24,2023-08-26 14:00:00+00:00,3,S. Attwell,Manchester United,Nottingham Forest,3,2,W,L
+1035059,2023/24,2023-08-26 14:00:00+00:00,3,P. Bankes,Brentford,Crystal Palace,1,1,D,D
+1035063,2023/24,2023-08-26 14:00:00+00:00,3,C. Pawson,Everton,Wolves,0,1,L,W
+1035060,2023/24,2023-08-26 16:30:00+00:00,3,A. Taylor,Brighton,West Ham,1,3,L,W
+1035061,2023/24,2023-08-27 13:00:00+00:00,3,M. Salisbury,Burnley,Aston Villa,1,3,L,W
+1035066,2023/24,2023-08-27 13:00:00+00:00,3,J. Gillett,Sheffield Utd,Manchester City,1,2,L,W
+1035065,2023/24,2023-08-27 15:30:00+00:00,3,J. Brooks,Newcastle,Liverpool,1,2,L,W
+1035074,2023/24,2023-09-01 19:00:00+00:00,4,P. Tierney,Luton,West Ham,1,2,L,W
+1035076,2023/24,2023-09-02 11:30:00+00:00,4,A. Madley,Sheffield Utd,Everton,2,2,D,D
+1035071,2023/24,2023-09-02 14:00:00+00:00,4,T. Robinson,Chelsea,Nottingham Forest,0,1,L,W
+1035070,2023/24,2023-09-02 14:00:00+00:00,4,D. England,Burnley,Tottenham,2,5,L,W
+1035068,2023/24,2023-09-02 14:00:00+00:00,4,R. Madley,Brentford,Bournemouth,2,2,D,D
+1035075,2023/24,2023-09-02 14:00:00+00:00,4,M. Oliver,Manchester City,Fulham,5,1,W,L
+1035069,2023/24,2023-09-02 16:30:00+00:00,4,S. Attwell,Brighton,Newcastle,3,1,W,L
+1035073,2023/24,2023-09-03 13:00:00+00:00,4,S. Hooper,Liverpool,Aston Villa,3,0,W,L
+1035072,2023/24,2023-09-03 13:00:00+00:00,4,R. Jones,Crystal Palace,Wolves,3,2,W,L
+1035067,2023/24,2023-09-03 15:30:00+00:00,4,A. Taylor,Arsenal,Manchester United,3,1,W,L
+1035086,2023/24,2023-09-16 11:30:00+00:00,5,M. Oliver,Wolves,Liverpool,1,3,L,W
+1035084,2023/24,2023-09-16 14:00:00+00:00,5,P. Bankes,Tottenham,Sheffield Utd,2,1,W,L
+1035085,2023/24,2023-09-16 14:00:00+00:00,5,A. Madley,West Ham,Manchester City,1,3,L,W
+1035081,2023/24,2023-09-16 14:00:00+00:00,5,J. Gillett,Manchester United,Brighton,1,3,L,W
+1035080,2023/24,2023-09-16 14:00:00+00:00,5,M. Salisbury,Fulham,Luton,1,0,W,L
+1035078,2023/24,2023-09-16 14:00:00+00:00,5,D. England,Aston Villa,Crystal Palace,3,1,W,L
+1035082,2023/24,2023-09-16 16:30:00+00:00,5,C. Pawson,Newcastle,Brentford,1,0,W,L
+1035077,2023/24,2023-09-17 13:00:00+00:00,5,D. Coote,Bournemouth,Chelsea,0,0,D,D
+1035079,2023/24,2023-09-17 15:30:00+00:00,5,S. Hooper,Everton,Arsenal,0,1,L,W
+1035083,2023/24,2023-09-18 18:45:00+00:00,5,R. Jones,Nottingham Forest,Burnley,1,1,D,D
+1035095,2023/24,2023-09-23 14:00:00+00:00,6,A. Taylor,Manchester City,Nottingham Forest,2,0,W,L
+1035092,2023/24,2023-09-23 14:00:00+00:00,6,P. Tierney,Crystal Palace,Fulham,0,0,D,D
+1035094,2023/24,2023-09-23 14:00:00+00:00,6,J. Smith,Luton,Wolves,1,1,D,D
+1035088,2023/24,2023-09-23 16:30:00+00:00,6,M. Oliver,Brentford,Everton,1,3,L,W
+1035090,2023/24,2023-09-23 19:00:00+00:00,6,T. Harrington,Burnley,Manchester United,0,1,L,W
+1035093,2023/24,2023-09-24 13:00:00+00:00,6,C. Kavanagh,Liverpool,West Ham,3,1,W,L
+1035087,2023/24,2023-09-24 13:00:00+00:00,6,R. Jones,Arsenal,Tottenham,2,2,D,D
+1035091,2023/24,2023-09-24 13:00:00+00:00,6,J. Gillett,Chelsea,Aston Villa,0,1,L,W
+1035089,2023/24,2023-09-24 13:00:00+00:00,6,J. Brooks,Brighton,Bournemouth,3,1,W,L
+1035096,2023/24,2023-09-24 15:30:00+00:00,6,S. Attwell,Sheffield Utd,Newcastle,0,8,L,W
+1035098,2023/24,2023-09-30 11:30:00+00:00,7,A. Madley,Aston Villa,Brighton,6,1,W,L
+1035097,2023/24,2023-09-30 14:00:00+00:00,7,M. Salisbury,Bournemouth,Arsenal,0,4,L,W
+1035102,2023/24,2023-09-30 14:00:00+00:00,7,T. Bramall,Newcastle,Burnley,2,0,W,L
+1035101,2023/24,2023-09-30 14:00:00+00:00,7,C. Kavanagh,Manchester United,Crystal Palace,0,1,L,W
+1035105,2023/24,2023-09-30 14:00:00+00:00,7,G. Scott,West Ham,Sheffield Utd,2,0,W,L
+1035099,2023/24,2023-09-30 14:00:00+00:00,7,A. Taylor,Everton,Luton,1,2,L,W
+1035106,2023/24,2023-09-30 14:00:00+00:00,7,C. Pawson,Wolves,Manchester City,2,1,W,L
+1035104,2023/24,2023-09-30 16:30:00+00:00,7,S. Hooper,Tottenham,Liverpool,2,1,W,L
+1035103,2023/24,2023-10-01 13:00:00+00:00,7,P. Tierney,Nottingham Forest,Brentford,1,1,D,D
+1035100,2023/24,2023-10-02 19:00:00+00:00,7,T. Robinson,Fulham,Chelsea,0,2,L,W
+1035051,2023/24,2023-10-03 18:30:00+00:00,2,P. Bankes,Luton,Burnley,1,2,L,W
+1035113,2023/24,2023-10-07 11:30:00+00:00,8,J. Brooks,Luton,Tottenham,0,1,L,W
+1035112,2023/24,2023-10-07 14:00:00+00:00,8,S. Barrott,Fulham,Sheffield Utd,3,1,W,L
+1035114,2023/24,2023-10-07 14:00:00+00:00,8,A. Madley,Manchester United,Brentford,2,1,W,L
+1035111,2023/24,2023-10-07 14:00:00+00:00,8,D. Coote,Everton,Bournemouth,3,0,W,L
+1035109,2023/24,2023-10-07 14:00:00+00:00,8,S. Attwell,Burnley,Chelsea,1,4,L,W
+1035110,2023/24,2023-10-07 16:30:00+00:00,8,C. Pawson,Crystal Palace,Nottingham Forest,0,0,D,D
+1035116,2023/24,2023-10-08 13:00:00+00:00,8,R. Jones,Wolves,Aston Villa,1,1,D,D
+1035115,2023/24,2023-10-08 13:00:00+00:00,8,P. Bankes,West Ham,Newcastle,2,2,D,D
+1035108,2023/24,2023-10-08 13:00:00+00:00,8,A. Taylor,Brighton,Liverpool,2,2,D,D
+1035107,2023/24,2023-10-08 15:30:00+00:00,8,M. Oliver,Arsenal,Manchester City,1,0,W,L
+1035121,2023/24,2023-10-21 11:30:00+00:00,9,C. Pawson,Liverpool,Everton,2,0,W,L
+1035123,2023/24,2023-10-21 14:00:00+00:00,9,T. Robinson,Newcastle,Crystal Palace,4,0,W,L
+1035122,2023/24,2023-10-21 14:00:00+00:00,9,R. Jones,Manchester City,Brighton,2,1,W,L
+1035124,2023/24,2023-10-21 14:00:00+00:00,9,S. Barrott,Nottingham Forest,Luton,2,2,D,D
+1035119,2023/24,2023-10-21 14:00:00+00:00,9,J. Smith,Brentford,Burnley,3,0,W,L
+1035117,2023/24,2023-10-21 14:00:00+00:00,9,P. Tierney,Bournemouth,Wolves,1,2,L,W
+1035120,2023/24,2023-10-21 16:30:00+00:00,9,C. Kavanagh,Chelsea,Arsenal,2,2,D,D
+1035125,2023/24,2023-10-21 19:00:00+00:00,9,M. Oliver,Sheffield Utd,Manchester United,1,2,L,W
+1035118,2023/24,2023-10-22 15:30:00+00:00,9,D. Coote,Aston Villa,West Ham,4,1,W,L
+1035126,2023/24,2023-10-23 19:00:00+00:00,9,A. Taylor,Tottenham,Fulham,2,0,W,L
+1035132,2023/24,2023-10-27 19:00:00+00:00,10,A. Madley,Crystal Palace,Tottenham,1,2,L,W
+1035131,2023/24,2023-10-28 11:30:00+00:00,10,S. Hooper,Chelsea,Brentford,0,2,L,W
+1035127,2023/24,2023-10-28 14:00:00+00:00,10,S. Barrott,Bournemouth,Burnley,2,1,W,L
+1035128,2023/24,2023-10-28 14:00:00+00:00,10,T. Robinson,Arsenal,Sheffield Utd,5,0,W,L
+1035136,2023/24,2023-10-28 16:30:00+00:00,10,A. Taylor,Wolves,Newcastle,2,2,D,D
+1035135,2023/24,2023-10-29 13:00:00+00:00,10,S. Attwell,West Ham,Everton,0,1,L,W
+1035133,2023/24,2023-10-29 14:00:00+00:00,10,C. Kavanagh,Liverpool,Nottingham Forest,3,0,W,L
+1035130,2023/24,2023-10-29 14:00:00+00:00,10,M. Salisbury,Brighton,Fulham,1,1,D,D
+1035129,2023/24,2023-10-29 14:00:00+00:00,10,J. Brooks,Aston Villa,Luton,3,1,W,L
+1035134,2023/24,2023-10-29 15:30:00+00:00,10,P. Tierney,Manchester United,Manchester City,0,3,L,W
+1035140,2023/24,2023-11-04 12:30:00+00:00,11,J. Brooks,Fulham,Manchester United,0,1,L,W
+1035138,2023/24,2023-11-04 15:00:00+00:00,11,P. Bankes,Burnley,Crystal Palace,0,2,L,W
+1035139,2023/24,2023-11-04 15:00:00+00:00,11,T. Robinson,Everton,Brighton,1,1,D,D
+1035142,2023/24,2023-11-04 15:00:00+00:00,11,C. Pawson,Manchester City,Bournemouth,6,1,W,L
+1035137,2023/24,2023-11-04 15:00:00+00:00,11,T. Bramall,Brentford,West Ham,3,2,W,L
+1035145,2023/24,2023-11-04 15:00:00+00:00,11,R. Jones,Sheffield Utd,Wolves,2,1,W,L
+1035143,2023/24,2023-11-04 17:30:00+00:00,11,S. Attwell,Newcastle,Arsenal,1,0,W,L
+1035144,2023/24,2023-11-05 14:00:00+00:00,11,J. Gillett,Nottingham Forest,Aston Villa,2,0,W,L
+1035141,2023/24,2023-11-05 16:30:00+00:00,11,A. Madley,Luton,Liverpool,1,1,D,D
+1035146,2023/24,2023-11-06 20:00:00+00:00,11,M. Oliver,Tottenham,Chelsea,1,4,L,W
+1035156,2023/24,2023-11-11 12:30:00+00:00,12,T. Robinson,Wolves,Tottenham,2,1,W,L
+1035154,2023/24,2023-11-11 15:00:00+00:00,12,G. Scott,Manchester United,Luton,1,0,W,L
+1035148,2023/24,2023-11-11 15:00:00+00:00,12,M. Oliver,Arsenal,Burnley,3,1,W,L
+1035152,2023/24,2023-11-11 15:00:00+00:00,12,S. Barrott,Crystal Palace,Everton,2,3,L,W
+1035147,2023/24,2023-11-11 17:30:00+00:00,12,C. Kavanagh,Bournemouth,Newcastle,2,0,W,L
+1035153,2023/24,2023-11-12 14:00:00+00:00,12,P. Tierney,Liverpool,Brentford,3,0,W,L
+1035155,2023/24,2023-11-12 14:00:00+00:00,12,M. Salisbury,West Ham,Nottingham Forest,3,2,W,L
+1035150,2023/24,2023-11-12 14:00:00+00:00,12,J. Brooks,Brighton,Sheffield Utd,1,1,D,D
+1035149,2023/24,2023-11-12 14:00:00+00:00,12,S. Hooper,Aston Villa,Fulham,3,1,W,L
+1035151,2023/24,2023-11-12 16:30:00+00:00,12,A. Taylor,Chelsea,Manchester City,4,4,D,D
+1035299,2023/24,2023-11-25 12:30:00+00:00,13,C. Kavanagh,Manchester City,Liverpool,1,1,D,D
+1035300,2023/24,2023-11-25 15:00:00+00:00,13,S. Hooper,Newcastle,Chelsea,4,1,W,L
+1035295,2023/24,2023-11-25 15:00:00+00:00,13,S. Barrott,Burnley,West Ham,1,2,L,W
+1035302,2023/24,2023-11-25 15:00:00+00:00,13,A. Madley,Sheffield Utd,Bournemouth,1,3,L,W
+1035301,2023/24,2023-11-25 15:00:00+00:00,13,A. Taylor,Nottingham Forest,Brighton,2,3,L,W
+1035298,2023/24,2023-11-25 15:00:00+00:00,13,J. Gillett,Luton,Crystal Palace,2,1,W,L
+1035294,2023/24,2023-11-25 17:30:00+00:00,13,T. Robinson,Brentford,Arsenal,0,1,L,W
+1035303,2023/24,2023-11-26 14:00:00+00:00,13,R. Jones,Tottenham,Aston Villa,1,2,L,W
+1035296,2023/24,2023-11-26 16:30:00+00:00,13,J. Brooks,Everton,Manchester United,0,3,L,W
+1035297,2023/24,2023-11-27 20:00:00+00:00,13,M. Salisbury,Fulham,Wolves,3,2,W,L
+1035305,2023/24,2023-12-02 15:00:00+00:00,14,P. Bankes,Arsenal,Wolves,2,1,W,L
+1035307,2023/24,2023-12-02 15:00:00+00:00,14,C. Kavanagh,Burnley,Sheffield Utd,5,0,W,L
+1035306,2023/24,2023-12-02 15:00:00+00:00,14,A. Taylor,Brentford,Luton,3,1,W,L
+1035312,2023/24,2023-12-02 17:30:00+00:00,14,P. Tierney,Nottingham Forest,Everton,0,1,L,W
+1035311,2023/24,2023-12-02 20:00:00+00:00,14,R. Jones,Newcastle,Manchester United,1,0,W,L
+1035304,2023/24,2023-12-03 14:00:00+00:00,14,T. Bramall,Bournemouth,Aston Villa,2,2,D,D
+1035309,2023/24,2023-12-03 14:00:00+00:00,14,S. Attwell,Liverpool,Fulham,4,3,W,L
+1035313,2023/24,2023-12-03 14:00:00+00:00,14,M. Oliver,West Ham,Crystal Palace,1,1,D,D
+1035308,2023/24,2023-12-03 14:00:00+00:00,14,C. Pawson,Chelsea,Brighton,3,2,W,L
+1035310,2023/24,2023-12-03 16:30:00+00:00,14,S. Hooper,Manchester City,Tottenham,3,3,D,D
+1035321,2023/24,2023-12-05 19:30:00+00:00,15,J. Gillett,Wolves,Burnley,1,0,W,L
+1035318,2023/24,2023-12-05 20:15:00+00:00,15,S. Barrott,Luton,Arsenal,3,4,L,W
+1035317,2023/24,2023-12-06 19:30:00+00:00,15,J. Smith,Fulham,Nottingham Forest,5,0,W,L
+1035315,2023/24,2023-12-06 19:30:00+00:00,15,P. Bankes,Brighton,Brentford,2,1,W,L
+1035322,2023/24,2023-12-06 19:30:00+00:00,15,C. Pawson,Crystal Palace,Bournemouth,0,2,L,W
+1035319,2023/24,2023-12-06 19:30:00+00:00,15,S. Hooper,Sheffield Utd,Liverpool,0,2,L,W
+1035323,2023/24,2023-12-06 20:15:00+00:00,15,C. Kavanagh,Manchester United,Chelsea,2,1,W,L
+1035314,2023/24,2023-12-06 20:15:00+00:00,15,J. Brooks,Aston Villa,Manchester City,1,0,W,L
+1035316,2023/24,2023-12-07 19:30:00+00:00,15,T. Robinson,Everton,Newcastle,3,0,W,L
+1035320,2023/24,2023-12-07 20:15:00+00:00,15,M. Salisbury,Tottenham,West Ham,1,2,L,W
+1035326,2023/24,2023-12-09 12:30:00+00:00,16,A. Madley,Crystal Palace,Liverpool,1,2,L,W
+1035330,2023/24,2023-12-09 15:00:00+00:00,16,P. Bankes,Manchester United,Bournemouth,0,3,L,W
+1035333,2023/24,2023-12-09 15:00:00+00:00,16,S. Barrott,Wolves,Nottingham Forest,1,1,D,D
+1035325,2023/24,2023-12-09 15:00:00+00:00,16,S. Hooper,Brighton,Burnley,1,1,D,D
+1035331,2023/24,2023-12-09 15:00:00+00:00,16,S. Attwell,Sheffield Utd,Brentford,1,0,W,L
+1035324,2023/24,2023-12-09 17:30:00+00:00,16,J. Gillett,Aston Villa,Arsenal,1,0,W,L
+1035328,2023/24,2023-12-10 14:00:00+00:00,16,P. Tierney,Fulham,West Ham,5,0,W,L
+1035327,2023/24,2023-12-10 14:00:00+00:00,16,M. Oliver,Everton,Chelsea,2,0,W,L
+1035329,2023/24,2023-12-10 14:00:00+00:00,16,T. Robinson,Luton,Manchester City,1,2,L,W
+1035332,2023/24,2023-12-10 16:30:00+00:00,16,C. Kavanagh,Tottenham,Newcastle,4,1,W,L
+1035342,2023/24,2023-12-15 20:00:00+00:00,17,J. Gillett,Nottingham Forest,Tottenham,0,2,L,W
+1035341,2023/24,2023-12-16 15:00:00+00:00,17,S. Barrott,Newcastle,Fulham,3,0,W,L
+1035338,2023/24,2023-12-16 15:00:00+00:00,17,A. Madley,Chelsea,Sheffield Utd,2,0,W,L
+1035340,2023/24,2023-12-16 15:00:00+00:00,17,P. Tierney,Manchester City,Crystal Palace,2,2,D,D
+1035337,2023/24,2023-12-16 17:30:00+00:00,17,A. Taylor,Burnley,Everton,0,2,L,W
+1035336,2023/24,2023-12-17 14:00:00+00:00,17,D. Coote,Brentford,Aston Villa,1,2,L,W
+1035335,2023/24,2023-12-17 14:00:00+00:00,17,T. Robinson,Arsenal,Brighton,2,0,W,L
+1035343,2023/24,2023-12-17 14:00:00+00:00,17,C. Kavanagh,West Ham,Wolves,3,0,W,L
+1035339,2023/24,2023-12-17 16:30:00+00:00,17,M. Oliver,Liverpool,Manchester United,0,0,D,D
+1035345,2023/24,2023-12-21 20:00:00+00:00,18,J. Brooks,Crystal Palace,Brighton,1,1,D,D
+1035344,2023/24,2023-12-22 20:00:00+00:00,18,A. Taylor,Aston Villa,Sheffield Utd,1,1,D,D
+1035352,2023/24,2023-12-23 12:30:00+00:00,18,S. Hooper,West Ham,Manchester United,2,0,W,L
+1035346,2023/24,2023-12-23 15:00:00+00:00,18,R. Welch,Fulham,Burnley,0,2,L,W
+1035351,2023/24,2023-12-23 15:00:00+00:00,18,S. Attwell,Tottenham,Everton,2,1,W,L
+1035350,2023/24,2023-12-23 15:00:00+00:00,18,R. Jones,Nottingham Forest,Bournemouth,2,3,L,W
+1035348,2023/24,2023-12-23 15:00:00+00:00,18,D. England,Luton,Newcastle,1,0,W,L
+1035347,2023/24,2023-12-23 17:30:00+00:00,18,C. Kavanagh,Liverpool,Arsenal,1,1,D,D
+1035353,2023/24,2023-12-24 13:00:00+00:00,18,D. Coote,Wolves,Chelsea,2,1,W,L
+1035362,2023/24,2023-12-26 12:30:00+00:00,19,C. Kavanagh,Newcastle,Nottingham Forest,1,3,L,W
+1035354,2023/24,2023-12-26 15:00:00+00:00,19,T. Robinson,Bournemouth,Fulham,3,0,W,L
+1035363,2023/24,2023-12-26 15:00:00+00:00,19,S. Allison,Sheffield Utd,Luton,2,3,L,W
+1035358,2023/24,2023-12-26 17:30:00+00:00,19,P. Tierney,Burnley,Liverpool,0,2,L,W
+1035361,2023/24,2023-12-26 20:00:00+00:00,19,C. Pawson,Manchester United,Aston Villa,3,2,W,L
+1035359,2023/24,2023-12-27 19:30:00+00:00,19,M. Salisbury,Chelsea,Crystal Palace,2,1,W,L
+1035356,2023/24,2023-12-27 19:30:00+00:00,19,A. Madley,Brentford,Wolves,1,4,L,W
+1035360,2023/24,2023-12-27 20:15:00+00:00,19,J. Brooks,Everton,Manchester City,1,3,L,W
+1035357,2023/24,2023-12-28 19:30:00+00:00,19,J. Gillett,Brighton,Tottenham,4,2,W,L
+1035355,2023/24,2023-12-28 20:15:00+00:00,19,M. Oliver,Arsenal,West Ham,0,2,L,W
+1035368,2023/24,2023-12-30 12:30:00+00:00,20,P. Tierney,Luton,Chelsea,2,3,L,W
+1035369,2023/24,2023-12-30 15:00:00+00:00,20,D. Coote,Manchester City,Sheffield Utd,2,0,W,L
+1035373,2023/24,2023-12-30 15:00:00+00:00,20,T. Bramall,Wolves,Everton,3,0,W,L
+1035364,2023/24,2023-12-30 15:00:00+00:00,20,S. Attwell,Aston Villa,Burnley,3,2,W,L
+1035365,2023/24,2023-12-30 15:00:00+00:00,20,R. Jones,Crystal Palace,Brentford,3,1,W,L
+1035370,2023/24,2023-12-30 17:30:00+00:00,20,T. Robinson,Nottingham Forest,Manchester United,2,1,W,L
+1035366,2023/24,2023-12-31 14:00:00+00:00,20,J. Smith,Fulham,Arsenal,2,1,W,L
+1035371,2023/24,2023-12-31 14:00:00+00:00,20,S. Hooper,Tottenham,Bournemouth,3,1,W,L
+1035367,2023/24,2024-01-01 20:00:00+00:00,20,A. Taylor,Liverpool,Newcastle,4,2,W,L
+1035372,2023/24,2024-01-02 19:30:00+00:00,20,S. Barrott,West Ham,Brighton,0,0,D,D
+1035378,2023/24,2024-01-12 19:45:00+00:00,21,T. Harrington,Burnley,Luton,1,1,D,D
+1035379,2023/24,2024-01-13 12:30:00+00:00,21,A. Taylor,Chelsea,Fulham,1,0,W,L
+1035382,2023/24,2024-01-13 17:30:00+00:00,21,C. Kavanagh,Newcastle,Manchester City,2,3,L,W
+1035380,2023/24,2024-01-14 14:00:00+00:00,21,D. Coote,Everton,Aston Villa,0,0,D,D
+1035381,2023/24,2024-01-14 16:30:00+00:00,21,J. Brooks,Manchester United,Tottenham,2,2,D,D
+1035375,2023/24,2024-01-20 12:30:00+00:00,21,P. Tierney,Arsenal,Crystal Palace,5,0,W,L
+1035376,2023/24,2024-01-20 17:30:00+00:00,21,D. England,Brentford,Nottingham Forest,3,2,W,L
+1035383,2023/24,2024-01-21 14:00:00+00:00,21,M. Salisbury,Sheffield Utd,West Ham,2,2,D,D
+1035374,2023/24,2024-01-21 16:30:00+00:00,21,A. Madley,Bournemouth,Liverpool,0,4,L,W
+1035377,2023/24,2024-01-22 19:45:00+00:00,21,C. Pawson,Brighton,Wolves,0,0,D,D
+1035387,2023/24,2024-01-30 19:30:00+00:00,22,S. Hooper,Nottingham Forest,Arsenal,1,2,L,W
+1035385,2023/24,2024-01-30 19:45:00+00:00,22,T. Bramall,Fulham,Everton,0,0,D,D
+1035386,2023/24,2024-01-30 19:45:00+00:00,22,R. Jones,Luton,Brighton,4,0,W,L
+1035391,2023/24,2024-01-30 20:00:00+00:00,22,T. Harrington,Crystal Palace,Sheffield Utd,3,2,W,L
+1035384,2023/24,2024-01-30 20:15:00+00:00,22,J. Brooks,Aston Villa,Newcastle,1,3,L,W
+1035388,2023/24,2024-01-31 19:30:00+00:00,22,D. Coote,Tottenham,Brentford,3,2,W,L
+1035393,2023/24,2024-01-31 19:30:00+00:00,22,S. Barrott,Manchester City,Burnley,3,1,W,L
+1035392,2023/24,2024-01-31 20:15:00+00:00,22,P. Tierney,Liverpool,Chelsea,4,1,W,L
+1035389,2023/24,2024-02-01 19:30:00+00:00,22,T. Robinson,West Ham,Bournemouth,1,1,D,D
+1035390,2023/24,2024-02-01 20:15:00+00:00,22,J. Gillett,Wolves,Manchester United,3,4,L,W
+1035400,2023/24,2024-02-03 12:30:00+00:00,23,M. Oliver,Everton,Tottenham,2,2,D,D
+1035402,2023/24,2024-02-03 15:00:00+00:00,23,T. Bramall,Newcastle,Luton,4,4,D,D
+1035398,2023/24,2024-02-03 15:00:00+00:00,23,D. Bond,Burnley,Fulham,2,2,D,D
+1035397,2023/24,2024-02-03 15:00:00+00:00,23,S. Hooper,Brighton,Crystal Palace,4,1,W,L
+1035403,2023/24,2024-02-03 17:30:00+00:00,23,P. Tierney,Sheffield Utd,Aston Villa,0,5,L,W
+1035401,2023/24,2024-02-04 14:00:00+00:00,23,A. Madley,Manchester United,West Ham,3,0,W,L
+1035394,2023/24,2024-02-04 14:00:00+00:00,23,R. Welch,Bournemouth,Nottingham Forest,1,1,D,D
+1035399,2023/24,2024-02-04 14:00:00+00:00,23,T. Robinson,Chelsea,Wolves,2,4,L,W
+1035395,2023/24,2024-02-04 16:30:00+00:00,23,A. Taylor,Arsenal,Liverpool,3,1,W,L
+1035396,2023/24,2024-02-05 20:00:00+00:00,23,J. Gillett,Brentford,Manchester City,1,3,L,W
+1035409,2023/24,2024-02-10 12:30:00+00:00,24,J. Brooks,Manchester City,Everton,2,0,W,L
+1035406,2023/24,2024-02-10 15:00:00+00:00,24,D. England,Fulham,Bournemouth,3,1,W,L
+1035413,2023/24,2024-02-10 15:00:00+00:00,24,S. Hooper,Wolves,Brentford,0,2,L,W
+1035407,2023/24,2024-02-10 15:00:00+00:00,24,T. Robinson,Liverpool,Burnley,3,1,W,L
+1035411,2023/24,2024-02-10 15:00:00+00:00,24,S. Barrott,Tottenham,Brighton,2,1,W,L
+1035408,2023/24,2024-02-10 15:00:00+00:00,24,C. Kavanagh,Luton,Sheffield Utd,1,3,L,W
+1035410,2023/24,2024-02-10 17:30:00+00:00,24,A. Taylor,Nottingham Forest,Newcastle,2,3,L,W
+1035412,2023/24,2024-02-11 14:00:00+00:00,24,C. Pawson,West Ham,Arsenal,0,6,L,W
+1035404,2023/24,2024-02-11 16:30:00+00:00,24,R. Jones,Aston Villa,Manchester United,1,2,L,W
+1035405,2023/24,2024-02-12 20:00:00+00:00,24,M. Oliver,Crystal Palace,Chelsea,1,3,L,W
+1035414,2023/24,2024-02-17 12:30:00+00:00,25,M. Oliver,Brentford,Liverpool,1,4,L,W
+1035420,2023/24,2024-02-17 15:00:00+00:00,25,M. Salisbury,Newcastle,Bournemouth,2,2,D,D
+1035417,2023/24,2024-02-17 15:00:00+00:00,25,L. Smith,Fulham,Aston Villa,1,2,L,W
+1035415,2023/24,2024-02-17 15:00:00+00:00,25,J. Gillett,Burnley,Arsenal,0,5,L,W
+1035423,2023/24,2024-02-17 15:00:00+00:00,25,A. Taylor,Tottenham,Wolves,1,2,L,W
+1035421,2023/24,2024-02-17 15:00:00+00:00,25,T. Bramall,Nottingham Forest,West Ham,2,0,W,L
+1035419,2023/24,2024-02-17 17:30:00+00:00,25,A. Madley,Manchester City,Chelsea,1,1,D,D
+1035422,2023/24,2024-02-18 14:00:00+00:00,25,S. Attwell,Sheffield Utd,Brighton,0,5,L,W
+1035418,2023/24,2024-02-18 16:30:00+00:00,25,D. Coote,Luton,Manchester United,1,2,L,W
+1035416,2023/24,2024-02-19 20:00:00+00:00,25,P. Tierney,Everton,Crystal Palace,1,1,D,D
+1035349,2023/24,2024-02-20 19:30:00+00:00,18,D. England,Manchester City,Brentford,1,0,W,L
+1035430,2023/24,2024-02-21 19:30:00+00:00,26,A. Madley,Liverpool,Luton,4,1,W,L
+1035431,2023/24,2024-02-24 15:00:00+00:00,26,M. Oliver,Manchester United,Fulham,1,2,L,W
+1035427,2023/24,2024-02-24 15:00:00+00:00,26,T. Harrington,Brighton,Everton,1,1,D,D
+1035429,2023/24,2024-02-24 15:00:00+00:00,26,L. Smith,Crystal Palace,Burnley,3,0,W,L
+1035426,2023/24,2024-02-24 15:00:00+00:00,26,S. Barrott,Aston Villa,Nottingham Forest,4,2,W,L
+1035424,2023/24,2024-02-24 17:30:00+00:00,26,J. Gillett,Bournemouth,Manchester City,0,1,L,W
+1035425,2023/24,2024-02-24 20:00:00+00:00,26,P. Tierney,Arsenal,Newcastle,4,1,W,L
+1035433,2023/24,2024-02-25 13:30:00+00:00,26,D. Bond,Wolves,Sheffield Utd,1,0,W,L
+1035432,2023/24,2024-02-26 20:00:00+00:00,26,S. Hooper,West Ham,Brentford,4,2,W,L
+1035440,2023/24,2024-03-02 15:00:00+00:00,27,T. Robinson,Newcastle,Wolves,3,0,W,L
+1035437,2023/24,2024-03-02 15:00:00+00:00,27,S. Hooper,Fulham,Brighton,3,0,W,L
+1035436,2023/24,2024-03-02 15:00:00+00:00,27,C. Pawson,Everton,West Ham,1,3,L,W
+1035443,2023/24,2024-03-02 15:00:00+00:00,27,J. Brooks,Tottenham,Crystal Palace,3,1,W,L
+1035434,2023/24,2024-03-02 15:00:00+00:00,27,J. Gillett,Brentford,Chelsea,2,2,D,D
+1035441,2023/24,2024-03-02 15:00:00+00:00,27,P. Tierney,Nottingham Forest,Liverpool,0,1,L,W
+1035438,2023/24,2024-03-02 17:30:00+00:00,27,M. Oliver,Luton,Aston Villa,2,3,L,W
+1035435,2023/24,2024-03-03 13:00:00+00:00,27,D. Coote,Burnley,Bournemouth,0,2,L,W
+1035439,2023/24,2024-03-03 15:30:00+00:00,27,A. Madley,Manchester City,Manchester United,3,1,W,L
+1035442,2023/24,2024-03-04 20:00:00+00:00,27,S. Barrott,Sheffield Utd,Arsenal,0,6,L,W
+1035451,2023/24,2024-03-09 12:30:00+00:00,28,S. Hooper,Manchester United,Everton,2,0,W,L
+1035444,2023/24,2024-03-09 15:00:00+00:00,28,A. Taylor,Bournemouth,Sheffield Utd,2,2,D,D
+1035453,2023/24,2024-03-09 15:00:00+00:00,28,T. Harrington,Wolves,Fulham,2,1,W,L
+1035449,2023/24,2024-03-09 15:00:00+00:00,28,S. Singh,Crystal Palace,Luton,1,1,D,D
+1035445,2023/24,2024-03-09 17:30:00+00:00,28,R. Jones,Arsenal,Brentford,2,1,W,L
+1035446,2023/24,2024-03-10 13:00:00+00:00,28,C. Kavanagh,Aston Villa,Tottenham,0,4,L,W
+1035452,2023/24,2024-03-10 14:00:00+00:00,28,D. England,West Ham,Burnley,2,2,D,D
+1035447,2023/24,2024-03-10 14:00:00+00:00,28,M. Salisbury,Brighton,Nottingham Forest,1,0,W,L
+1035450,2023/24,2024-03-10 15:45:00+00:00,28,M. Oliver,Liverpool,Manchester City,1,1,D,D
+1035448,2023/24,2024-03-11 20:00:00+00:00,28,J. Brooks,Chelsea,Newcastle,3,2,W,L
+1035334,2023/24,2024-03-13 19:30:00+00:00,17,S. Allison,Bournemouth,Luton,4,3,W,L
+1035456,2023/24,2024-03-16 15:00:00+00:00,29,D. Bond,Burnley,Brentford,2,1,W,L
+1035460,2023/24,2024-03-16 15:00:00+00:00,29,D. England,Luton,Nottingham Forest,1,1,D,D
+1035459,2023/24,2024-03-16 17:30:00+00:00,29,R. Jones,Fulham,Tottenham,3,0,W,L
+1035462,2023/24,2024-03-17 14:00:00+00:00,29,J. Gillett,West Ham,Aston Villa,1,1,D,D
+1035470,2023/24,2024-03-30 12:30:00+00:00,30,R. Jones,Newcastle,West Ham,4,3,W,L
+1035467,2023/24,2024-03-30 15:00:00+00:00,30,D. England,Chelsea,Burnley,2,2,D,D
+1035464,2023/24,2024-03-30 15:00:00+00:00,30,S. Barrott,Bournemouth,Everton,2,1,W,L
+1035472,2023/24,2024-03-30 15:00:00+00:00,30,T. Robinson,Sheffield Utd,Fulham,3,3,D,D
+1035471,2023/24,2024-03-30 15:00:00+00:00,30,C. Kavanagh,Nottingham Forest,Crystal Palace,1,1,D,D
+1035473,2023/24,2024-03-30 15:00:00+00:00,30,J. Gillett,Tottenham,Luton,2,1,W,L
+1035465,2023/24,2024-03-30 17:30:00+00:00,30,P. Tierney,Aston Villa,Wolves,2,0,W,L
+1035466,2023/24,2024-03-30 20:00:00+00:00,30,S. Hooper,Brentford,Manchester United,1,1,D,D
+1035468,2023/24,2024-03-31 13:00:00+00:00,30,D. Coote,Liverpool,Brighton,2,1,W,L
+1035469,2023/24,2024-03-31 15:30:00+00:00,30,A. Taylor,Manchester City,Arsenal,0,0,D,D
+1035481,2023/24,2024-04-02 18:30:00+00:00,31,T. Harrington,Newcastle,Everton,1,1,D,D
+1035478,2023/24,2024-04-02 18:30:00+00:00,31,M. Oliver,Nottingham Forest,Fulham,3,1,W,L
+1035474,2023/24,2024-04-02 18:45:00+00:00,31,G. Scott,Bournemouth,Crystal Palace,1,0,W,L
+1035477,2023/24,2024-04-02 18:45:00+00:00,31,T. Bramall,Burnley,Wolves,1,1,D,D
+1035479,2023/24,2024-04-02 19:15:00+00:00,31,J. Brooks,West Ham,Tottenham,1,1,D,D
+1035475,2023/24,2024-04-03 18:30:00+00:00,31,C. Pawson,Arsenal,Luton,2,0,W,L
+1035476,2023/24,2024-04-03 18:30:00+00:00,31,A. Madley,Brentford,Brighton,0,0,D,D
+1035483,2023/24,2024-04-03 19:15:00+00:00,31,D. England,Manchester City,Aston Villa,4,1,W,L
+1035482,2023/24,2024-04-04 18:30:00+00:00,31,S. Attwell,Liverpool,Sheffield Utd,3,1,W,L
+1035480,2023/24,2024-04-04 19:15:00+00:00,31,J. Gillett,Chelsea,Manchester United,4,3,W,L
+1035486,2023/24,2024-04-06 11:30:00+00:00,32,P. Tierney,Crystal Palace,Manchester City,2,4,L,W
+1035488,2023/24,2024-04-06 14:00:00+00:00,32,S. Allison,Fulham,Newcastle,0,1,L,W
+1035489,2023/24,2024-04-06 14:00:00+00:00,32,A. Madley,Luton,Bournemouth,2,1,W,L
+1035493,2023/24,2024-04-06 14:00:00+00:00,32,T. Harrington,Wolves,West Ham,1,2,L,W
+1035484,2023/24,2024-04-06 14:00:00+00:00,32,M. Salisbury,Aston Villa,Brentford,3,3,D,D
+1035487,2023/24,2024-04-06 14:00:00+00:00,32,M. Oliver,Everton,Burnley,1,0,W,L
+1035485,2023/24,2024-04-06 16:30:00+00:00,32,J. Brooks,Brighton,Arsenal,0,3,L,W
+1035490,2023/24,2024-04-07 14:30:00+00:00,32,A. Taylor,Manchester United,Liverpool,2,2,D,D
+1035491,2023/24,2024-04-07 16:30:00+00:00,32,R. Jones,Sheffield Utd,Chelsea,2,2,D,D
+1035492,2023/24,2024-04-07 17:00:00+00:00,32,S. Hooper,Tottenham,Nottingham Forest,3,1,W,L
+1035501,2023/24,2024-04-13 11:30:00+00:00,33,T. Robinson,Newcastle,Tottenham,4,0,W,L
+1035497,2023/24,2024-04-13 14:00:00+00:00,33,S. Hooper,Burnley,Brighton,1,1,D,D
+1035500,2023/24,2024-04-13 14:00:00+00:00,33,J. Brooks,Manchester City,Luton,5,1,W,L
+1035496,2023/24,2024-04-13 14:00:00+00:00,33,S. Barrott,Brentford,Sheffield Utd,2,0,W,L
+1035502,2023/24,2024-04-13 14:00:00+00:00,33,C. Pawson,Nottingham Forest,Wolves,2,2,D,D
+1035494,2023/24,2024-04-13 16:30:00+00:00,33,T. Harrington,Bournemouth,Manchester United,2,2,D,D
+1035499,2023/24,2024-04-14 13:00:00+00:00,33,C. Kavanagh,Liverpool,Crystal Palace,0,1,L,W
+1035503,2023/24,2024-04-14 13:00:00+00:00,33,S. Attwell,West Ham,Fulham,0,2,L,W
+1035495,2023/24,2024-04-14 15:30:00+00:00,33,D. Coote,Arsenal,Aston Villa,0,2,L,W
+1035498,2023/24,2024-04-15 19:00:00+00:00,33,P. Tierney,Chelsea,Everton,6,0,W,L
+1035511,2023/24,2024-04-20 14:00:00+00:00,34,A. Madley,Sheffield Utd,Burnley,1,4,L,W
+1035509,2023/24,2024-04-20 14:00:00+00:00,34,J. Gillett,Luton,Brentford,1,5,L,W
+1035513,2023/24,2024-04-20 18:30:00+00:00,34,P. Tierney,Wolves,Arsenal,0,2,L,W
+1035507,2023/24,2024-04-21 12:30:00+00:00,34,A. Taylor,Everton,Nottingham Forest,2,0,W,L
+1035506,2023/24,2024-04-21 14:00:00+00:00,34,G. Scott,Crystal Palace,West Ham,5,2,W,L
+1035504,2023/24,2024-04-21 14:00:00+00:00,34,T. Robinson,Aston Villa,Bournemouth,3,1,W,L
+1035508,2023/24,2024-04-21 15:30:00+00:00,34,C. Pawson,Fulham,Liverpool,1,3,L,W
+1035454,2023/24,2024-04-23 19:00:00+00:00,29,S. Hooper,Arsenal,Chelsea,5,0,W,L
+1035463,2023/24,2024-04-24 18:45:00+00:00,29,S. Attwell,Wolves,Bournemouth,0,1,L,W
+1035461,2023/24,2024-04-24 19:00:00+00:00,29,M. Salisbury,Manchester United,Sheffield Utd,4,2,W,L
+1035458,2023/24,2024-04-24 19:00:00+00:00,29,A. Madley,Everton,Liverpool,2,0,W,L
+1035457,2023/24,2024-04-24 19:00:00+00:00,29,T. Bramall,Crystal Palace,Newcastle,2,0,W,L
+1035455,2023/24,2024-04-25 19:00:00+00:00,29,J. Gillett,Brighton,Manchester City,0,4,L,W
+1035522,2023/24,2024-04-27 11:30:00+00:00,35,A. Taylor,West Ham,Liverpool,2,2,D,D
+1035518,2023/24,2024-04-27 14:00:00+00:00,35,J. Brooks,Manchester United,Burnley,1,1,D,D
+1035519,2023/24,2024-04-27 14:00:00+00:00,35,T. Harrington,Newcastle,Sheffield Utd,5,1,W,L
+1035517,2023/24,2024-04-27 14:00:00+00:00,35,S. Attwell,Fulham,Crystal Palace,1,1,D,D
+1035523,2023/24,2024-04-27 14:00:00+00:00,35,D. Coote,Wolves,Luton,2,1,W,L
+1035516,2023/24,2024-04-27 16:30:00+00:00,35,D. England,Everton,Brentford,1,0,W,L
+1035515,2023/24,2024-04-27 19:00:00+00:00,35,C. Pawson,Aston Villa,Chelsea,2,2,D,D
+1035514,2023/24,2024-04-28 13:00:00+00:00,35,P. Tierney,Bournemouth,Brighton,3,0,W,L
+1035521,2023/24,2024-04-28 13:00:00+00:00,35,M. Oliver,Tottenham,Arsenal,2,3,L,W
+1035520,2023/24,2024-04-28 15:30:00+00:00,35,S. Hooper,Nottingham Forest,Manchester City,0,2,L,W
+1035428,2023/24,2024-05-02 18:30:00+00:00,26,R. Jones,Chelsea,Tottenham,2,0,W,L
+1035531,2023/24,2024-05-03 19:00:00+00:00,36,T. Robinson,Luton,Everton,1,1,D,D
+1035524,2023/24,2024-05-04 11:30:00+00:00,36,D. Coote,Arsenal,Bournemouth,3,0,W,L
+1035527,2023/24,2024-05-04 14:00:00+00:00,36,A. Taylor,Burnley,Newcastle,1,4,L,W
+1035525,2023/24,2024-05-04 14:00:00+00:00,36,G. Scott,Brentford,Fulham,0,0,D,D
+1035533,2023/24,2024-05-04 14:00:00+00:00,36,C. Kavanagh,Sheffield Utd,Nottingham Forest,1,3,L,W
+1035532,2023/24,2024-05-04 16:30:00+00:00,36,C. Pawson,Manchester City,Wolves,5,1,W,L
+1035528,2023/24,2024-05-05 13:00:00+00:00,36,A. Madley,Chelsea,West Ham,5,0,W,L
+1035526,2023/24,2024-05-05 13:00:00+00:00,36,R. Jones,Brighton,Aston Villa,1,0,W,L
+1035530,2023/24,2024-05-05 15:30:00+00:00,36,P. Tierney,Liverpool,Tottenham,4,2,W,L
+1035529,2023/24,2024-05-06 19:00:00+00:00,36,J. Gillett,Crystal Palace,Manchester United,4,0,W,L
+1035537,2023/24,2024-05-11 11:30:00+00:00,37,A. Taylor,Fulham,Manchester City,0,4,L,W
+1035539,2023/24,2024-05-11 14:00:00+00:00,37,D. England,Newcastle,Brighton,1,1,D,D
+1035534,2023/24,2024-05-11 14:00:00+00:00,37,M. Donohue,Bournemouth,Brentford,1,2,L,W
+1035543,2023/24,2024-05-11 14:00:00+00:00,37,T. Bramall,Wolves,Crystal Palace,1,3,L,W
+1035536,2023/24,2024-05-11 14:00:00+00:00,37,S. Attwell,Everton,Sheffield Utd,1,0,W,L
+1035541,2023/24,2024-05-11 14:00:00+00:00,37,J. Gillett,Tottenham,Burnley,2,1,W,L
+1035542,2023/24,2024-05-11 14:00:00+00:00,37,M. Oliver,West Ham,Luton,3,1,W,L
+1035540,2023/24,2024-05-11 16:30:00+00:00,37,T. Harrington,Nottingham Forest,Chelsea,2,3,L,W
+1035538,2023/24,2024-05-12 15:30:00+00:00,37,P. Tierney,Manchester United,Arsenal,0,1,L,W
+1035535,2023/24,2024-05-13 19:00:00+00:00,37,S. Hooper,Aston Villa,Liverpool,3,3,D,D
+1035512,2023/24,2024-05-14 19:00:00+00:00,34,C. Kavanagh,Tottenham,Manchester City,0,2,L,W
+1035505,2023/24,2024-05-15 18:45:00+00:00,34,M. Salisbury,Brighton,Chelsea,1,2,L,W
+1035510,2023/24,2024-05-15 19:00:00+00:00,34,R. Jones,Manchester United,Newcastle,3,2,W,L
+1035547,2023/24,2024-05-19 15:00:00+00:00,38,G. Scott,Burnley,Nottingham Forest,1,2,L,W
+1035550,2023/24,2024-05-19 15:00:00+00:00,38,C. Kavanagh,Liverpool,Wolves,2,0,W,L
+1035544,2023/24,2024-05-19 15:00:00+00:00,38,M. Oliver,Arsenal,Everton,2,1,W,L
+1035553,2023/24,2024-05-19 15:00:00+00:00,38,A. Madley,Sheffield Utd,Tottenham,0,3,L,W
+1035548,2023/24,2024-05-19 15:00:00+00:00,38,A. Taylor,Chelsea,Bournemouth,2,1,W,L
+1035549,2023/24,2024-05-19 15:00:00+00:00,38,D. Bond,Crystal Palace,Aston Villa,5,0,W,L
+1035545,2023/24,2024-05-19 15:00:00+00:00,38,S. Hooper,Brentford,Newcastle,2,4,L,W
+1035546,2023/24,2024-05-19 15:00:00+00:00,38,C. Pawson,Brighton,Manchester United,0,2,L,W
+1035552,2023/24,2024-05-19 15:00:00+00:00,38,J. Brooks,Manchester City,West Ham,3,1,W,L
+1035551,2023/24,2024-05-19 15:00:00+00:00,38,M. Donohue,Luton,Fulham,2,4,L,W

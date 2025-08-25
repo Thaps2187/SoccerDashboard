@@ -1,0 +1,381 @@
+fixture_id,season,date,match_day,referee,home_team,away_team,home_goals,away_goals,home_results,away_results
+867946,2022/23,2022-08-05 19:00:00+00:00,1,A. Taylor,Crystal Palace,Arsenal,0,2,L,W
+867947,2022/23,2022-08-06 11:30:00+00:00,1,A. Madley,Fulham,Liverpool,2,2,D,D
+867951,2022/23,2022-08-06 14:00:00+00:00,1,S. Hooper,Newcastle,Nottingham Forest,2,0,W,L
+867948,2022/23,2022-08-06 14:00:00+00:00,1,P. Bankes,Bournemouth,Aston Villa,2,0,W,L
+867952,2022/23,2022-08-06 14:00:00+00:00,1,A. Marriner,Tottenham,Southampton,4,1,W,L
+867949,2022/23,2022-08-06 14:00:00+00:00,1,R. Jones,Leeds,Wolves,2,1,W,L
+867953,2022/23,2022-08-06 16:30:00+00:00,1,C. Pawson,Everton,Chelsea,0,1,L,W
+867954,2022/23,2022-08-07 13:00:00+00:00,1,P. Tierney,Manchester United,Brighton,1,2,L,W
+867950,2022/23,2022-08-07 13:00:00+00:00,1,J. Gillett,Leicester,Brentford,2,2,D,D
+867955,2022/23,2022-08-07 15:30:00+00:00,1,M. Oliver,West Ham,Manchester City,0,2,L,W
+867957,2022/23,2022-08-13 11:30:00+00:00,2,M. Oliver,Aston Villa,Everton,2,1,W,L
+867956,2022/23,2022-08-13 14:00:00+00:00,2,D. England,Arsenal,Leicester,4,2,W,L
+867964,2022/23,2022-08-13 14:00:00+00:00,2,T. Harrington,Southampton,Leeds,2,2,D,D
+867959,2022/23,2022-08-13 14:00:00+00:00,2,G. Scott,Brighton,Newcastle,0,0,D,D
+867962,2022/23,2022-08-13 14:00:00+00:00,2,D. Coote,Manchester City,Bournemouth,4,0,W,L
+867965,2022/23,2022-08-13 14:00:00+00:00,2,J. Brooks,Wolves,Fulham,0,0,D,D
+867958,2022/23,2022-08-13 16:30:00+00:00,2,S. Attwell,Brentford,Manchester United,4,0,W,L
+867963,2022/23,2022-08-14 13:00:00+00:00,2,R. Jones,Nottingham Forest,West Ham,1,0,W,L
+867960,2022/23,2022-08-14 15:30:00+00:00,2,A. Taylor,Chelsea,Tottenham,2,2,D,D
+867961,2022/23,2022-08-15 19:00:00+00:00,2,P. Tierney,Liverpool,Crystal Palace,1,1,D,D
+867974,2022/23,2022-08-20 11:30:00+00:00,3,S. Hooper,Tottenham,Wolves,1,0,W,L
+867969,2022/23,2022-08-20 14:00:00+00:00,3,P. Bankes,Fulham,Brentford,3,2,W,L
+867968,2022/23,2022-08-20 14:00:00+00:00,3,A. Marriner,Everton,Nottingham Forest,1,1,D,D
+867971,2022/23,2022-08-20 14:00:00+00:00,3,M. Salisbury,Leicester,Southampton,1,2,L,W
+867967,2022/23,2022-08-20 14:00:00+00:00,3,A. Madley,Crystal Palace,Aston Villa,3,1,W,L
+867966,2022/23,2022-08-20 16:30:00+00:00,3,C. Pawson,Bournemouth,Arsenal,0,3,L,W
+867975,2022/23,2022-08-21 13:00:00+00:00,3,A. Taylor,West Ham,Brighton,0,2,L,W
+867970,2022/23,2022-08-21 13:00:00+00:00,3,S. Attwell,Leeds,Chelsea,3,0,W,L
+867973,2022/23,2022-08-21 15:30:00+00:00,3,J. Gillett,Newcastle,Manchester City,3,3,D,D
+867972,2022/23,2022-08-22 19:00:00+00:00,3,M. Oliver,Manchester United,Liverpool,2,1,W,L
+867984,2022/23,2022-08-27 11:30:00+00:00,4,A. Madley,Southampton,Manchester United,0,1,L,W
+867980,2022/23,2022-08-27 14:00:00+00:00,4,P. Tierney,Chelsea,Leicester,2,1,W,L
+867979,2022/23,2022-08-27 14:00:00+00:00,4,M. Salisbury,Brighton,Leeds,1,0,W,L
+867981,2022/23,2022-08-27 14:00:00+00:00,4,S. Attwell,Liverpool,Bournemouth,9,0,W,L
+867978,2022/23,2022-08-27 14:00:00+00:00,4,J. Brooks,Brentford,Everton,1,1,D,D
+867982,2022/23,2022-08-27 14:00:00+00:00,4,D. England,Manchester City,Crystal Palace,4,2,W,L
+867976,2022/23,2022-08-27 16:30:00+00:00,4,J. Gillett,Arsenal,Fulham,2,1,W,L
+867985,2022/23,2022-08-28 13:00:00+00:00,4,P. Bankes,Wolves,Newcastle,1,1,D,D
+867977,2022/23,2022-08-28 13:00:00+00:00,4,D. Coote,Aston Villa,West Ham,0,1,L,W
+867983,2022/23,2022-08-28 15:30:00+00:00,4,C. Pawson,Nottingham Forest,Tottenham,0,2,L,W
+867988,2022/23,2022-08-30 18:30:00+00:00,5,T. Bramall,Fulham,Brighton,2,1,W,L
+867992,2022/23,2022-08-30 18:30:00+00:00,5,S. Hooper,Crystal Palace,Brentford,1,1,D,D
+867993,2022/23,2022-08-30 18:45:00+00:00,5,M. Oliver,Southampton,Chelsea,2,1,W,L
+867989,2022/23,2022-08-30 19:00:00+00:00,5,D. England,Leeds,Everton,1,1,D,D
+867995,2022/23,2022-08-31 18:30:00+00:00,5,P. Tierney,Manchester City,Nottingham Forest,6,0,W,L
+867986,2022/23,2022-08-31 18:30:00+00:00,5,A. Taylor,Bournemouth,Wolves,0,0,D,D
+867987,2022/23,2022-08-31 18:30:00+00:00,5,R. Jones,Arsenal,Aston Villa,2,1,W,L
+867991,2022/23,2022-08-31 18:45:00+00:00,5,P. Bankes,West Ham,Tottenham,1,1,D,D
+867994,2022/23,2022-08-31 19:00:00+00:00,5,A. Marriner,Liverpool,Newcastle,2,1,W,L
+867990,2022/23,2022-09-01 19:00:00+00:00,5,C. Pawson,Leicester,Manchester United,0,1,L,W
+868000,2022/23,2022-09-03 11:30:00+00:00,6,A. Taylor,Everton,Liverpool,0,0,D,D
+867997,2022/23,2022-09-03 14:00:00+00:00,6,R. Jones,Brentford,Leeds,5,2,W,L
+868003,2022/23,2022-09-03 14:00:00+00:00,6,M. Oliver,Nottingham Forest,Bournemouth,2,3,L,W
+868002,2022/23,2022-09-03 14:00:00+00:00,6,M. Salisbury,Newcastle,Crystal Palace,0,0,D,D
+868005,2022/23,2022-09-03 14:00:00+00:00,6,J. Brooks,Wolves,Southampton,1,0,W,L
+868004,2022/23,2022-09-03 14:00:00+00:00,6,S. Attwell,Tottenham,Fulham,2,1,W,L
+867999,2022/23,2022-09-03 14:00:00+00:00,6,A. Madley,Chelsea,West Ham,2,1,W,L
+867996,2022/23,2022-09-03 16:30:00+00:00,6,S. Hooper,Aston Villa,Manchester City,1,1,D,D
+867998,2022/23,2022-09-04 13:00:00+00:00,6,T. Harrington,Brighton,Leicester,5,2,W,L
+868001,2022/23,2022-09-04 15:30:00+00:00,6,P. Tierney,Manchester United,Arsenal,3,1,W,L
+868023,2022/23,2022-09-16 19:00:00+00:00,8,J. Gillett,Nottingham Forest,Fulham,2,3,L,W
+868016,2022/23,2022-09-16 19:00:00+00:00,8,T. Harrington,Aston Villa,Southampton,1,0,W,L
+868025,2022/23,2022-09-17 11:30:00+00:00,8,A. Taylor,Wolves,Manchester City,0,3,L,W
+868022,2022/23,2022-09-17 14:00:00+00:00,8,C. Pawson,Newcastle,Bournemouth,1,1,D,D
+868024,2022/23,2022-09-17 16:30:00+00:00,8,S. Hooper,Tottenham,Leicester,6,2,W,L
+868017,2022/23,2022-09-18 11:00:00+00:00,8,D. Coote,Brentford,Arsenal,0,3,L,W
+868020,2022/23,2022-09-18 13:15:00+00:00,8,M. Oliver,Everton,West Ham,1,0,W,L
+868027,2022/23,2022-10-01 11:30:00+00:00,9,A. Taylor,Arsenal,Tottenham,3,1,W,L
+868028,2022/23,2022-10-01 14:00:00+00:00,9,C. Kavanagh,Crystal Palace,Chelsea,1,2,L,W
+868032,2022/23,2022-10-01 14:00:00+00:00,9,A. Madley,Liverpool,Brighton,3,3,D,D
+868026,2022/23,2022-10-01 14:00:00+00:00,9,T. Bramall,Bournemouth,Brentford,0,0,D,D
+868029,2022/23,2022-10-01 14:00:00+00:00,9,D. England,Fulham,Newcastle,1,4,L,W
+868034,2022/23,2022-10-01 14:00:00+00:00,9,A. Marriner,Southampton,Everton,1,2,L,W
+868035,2022/23,2022-10-01 16:30:00+00:00,9,P. Tierney,West Ham,Wolves,2,0,W,L
+868033,2022/23,2022-10-02 13:00:00+00:00,9,M. Oliver,Manchester City,Manchester United,6,3,W,L
+868030,2022/23,2022-10-02 15:30:00+00:00,9,S. Attwell,Leeds,Aston Villa,0,0,D,D
+868031,2022/23,2022-10-03 19:00:00+00:00,9,R. Jones,Leicester,Nottingham Forest,4,0,W,L
+868039,2022/23,2022-10-08 14:00:00+00:00,10,S. Hooper,Chelsea,Wolves,3,0,W,L
+868042,2022/23,2022-10-08 14:00:00+00:00,10,A. Madley,Manchester City,Southampton,4,0,W,L
+868043,2022/23,2022-10-08 14:00:00+00:00,10,J. Brooks,Newcastle,Brentford,5,1,W,L
+868036,2022/23,2022-10-08 14:00:00+00:00,10,M. Salisbury,Bournemouth,Leicester,2,1,W,L
+868038,2022/23,2022-10-08 16:30:00+00:00,10,T. Harrington,Brighton,Tottenham,0,1,L,W
+868045,2022/23,2022-10-09 13:00:00+00:00,10,C. Kavanagh,West Ham,Fulham,3,1,W,L
+868040,2022/23,2022-10-09 13:00:00+00:00,10,P. Tierney,Crystal Palace,Leeds,2,1,W,L
+868037,2022/23,2022-10-09 15:30:00+00:00,10,M. Oliver,Arsenal,Liverpool,3,2,W,L
+868041,2022/23,2022-10-09 18:00:00+00:00,10,D. Coote,Everton,Manchester United,1,2,L,W
+868044,2022/23,2022-10-10 19:00:00+00:00,10,A. Taylor,Nottingham Forest,Aston Villa,1,1,D,D
+868047,2022/23,2022-10-14 19:00:00+00:00,11,M. Salisbury,Brentford,Brighton,2,0,W,L
+868050,2022/23,2022-10-15 11:30:00+00:00,11,A. Madley,Leicester,Crystal Palace,0,0,D,D
+868048,2022/23,2022-10-15 14:00:00+00:00,11,G. Scott,Fulham,Bournemouth,2,2,D,D
+868055,2022/23,2022-10-15 14:00:00+00:00,11,T. Bramall,Wolves,Nottingham Forest,1,0,W,L
+868054,2022/23,2022-10-15 16:30:00+00:00,11,P. Tierney,Tottenham,Everton,2,0,W,L
+868052,2022/23,2022-10-16 13:00:00+00:00,11,C. Pawson,Manchester United,Newcastle,0,0,D,D
+868053,2022/23,2022-10-16 13:00:00+00:00,11,P. Bankes,Southampton,West Ham,1,1,D,D
+868049,2022/23,2022-10-16 13:00:00+00:00,11,C. Kavanagh,Leeds,Arsenal,0,1,L,W
+868046,2022/23,2022-10-16 13:00:00+00:00,11,R. Jones,Aston Villa,Chelsea,0,2,L,W
+868051,2022/23,2022-10-16 15:30:00+00:00,11,A. Taylor,Liverpool,Manchester City,1,0,W,L
+868059,2022/23,2022-10-18 18:30:00+00:00,12,D. England,Brighton,Nottingham Forest,0,0,D,D
+868062,2022/23,2022-10-18 19:15:00+00:00,12,D. Coote,Crystal Palace,Wolves,2,1,W,L
+868063,2022/23,2022-10-19 18:30:00+00:00,12,T. Harrington,Newcastle,Everton,1,0,W,L
+868056,2022/23,2022-10-19 18:30:00+00:00,12,J. Brooks,Bournemouth,Southampton,0,1,L,W
+868064,2022/23,2022-10-19 18:30:00+00:00,12,S. Attwell,Liverpool,West Ham,1,0,W,L
+868058,2022/23,2022-10-19 18:30:00+00:00,12,J. Gillett,Brentford,Chelsea,0,0,D,D
+868065,2022/23,2022-10-19 19:15:00+00:00,12,S. Hooper,Manchester United,Tottenham,2,0,W,L
+868060,2022/23,2022-10-20 18:30:00+00:00,12,M. Oliver,Fulham,Aston Villa,3,0,W,L
+868061,2022/23,2022-10-20 19:15:00+00:00,12,P. Bankes,Leicester,Leeds,2,0,W,L
+868071,2022/23,2022-10-22 11:30:00+00:00,13,P. Tierney,Nottingham Forest,Liverpool,1,0,W,L
+868068,2022/23,2022-10-22 14:00:00+00:00,13,S. Hooper,Everton,Crystal Palace,3,0,W,L
+868070,2022/23,2022-10-22 14:00:00+00:00,13,C. Pawson,Manchester City,Brighton,3,1,W,L
+868067,2022/23,2022-10-22 16:30:00+00:00,13,S. Attwell,Chelsea,Manchester United,1,1,D,D
+868075,2022/23,2022-10-23 13:00:00+00:00,13,M. Oliver,Wolves,Leicester,0,4,L,W
+868072,2022/23,2022-10-23 13:00:00+00:00,13,R. Jones,Southampton,Arsenal,1,1,D,D
+868069,2022/23,2022-10-23 13:00:00+00:00,13,A. Taylor,Leeds,Fulham,2,3,L,W
+868066,2022/23,2022-10-23 13:00:00+00:00,13,D. England,Aston Villa,Brentford,4,0,W,L
+868073,2022/23,2022-10-23 15:30:00+00:00,13,J. Gillett,Tottenham,Newcastle,1,2,L,W
+868074,2022/23,2022-10-24 19:00:00+00:00,13,D. Coote,West Ham,Bournemouth,2,0,W,L
+868082,2022/23,2022-10-29 11:30:00+00:00,14,R. Jones,Leicester,Manchester City,0,1,L,W
+868085,2022/23,2022-10-29 14:00:00+00:00,14,P. Tierney,Newcastle,Aston Villa,4,0,W,L
+868076,2022/23,2022-10-29 14:00:00+00:00,14,A. Taylor,Bournemouth,Tottenham,2,3,L,W
+868079,2022/23,2022-10-29 14:00:00+00:00,14,A. Madley,Brighton,Chelsea,4,1,W,L
+868080,2022/23,2022-10-29 14:00:00+00:00,14,M. Salisbury,Crystal Palace,Southampton,1,0,W,L
+868078,2022/23,2022-10-29 14:00:00+00:00,14,R. Madley,Brentford,Wolves,1,1,D,D
+868081,2022/23,2022-10-29 16:30:00+00:00,14,J. Brooks,Fulham,Everton,0,0,D,D
+868083,2022/23,2022-10-29 18:45:00+00:00,14,M. Oliver,Liverpool,Leeds,1,2,L,W
+868077,2022/23,2022-10-30 14:00:00+00:00,14,S. Hooper,Arsenal,Nottingham Forest,5,0,W,L
+868084,2022/23,2022-10-30 16:15:00+00:00,14,C. Kavanagh,Manchester United,West Ham,1,0,W,L
+868090,2022/23,2022-11-05 15:00:00+00:00,15,D. England,Manchester City,Fulham,2,1,W,L
+868095,2022/23,2022-11-05 15:00:00+00:00,15,G. Scott,Wolves,Brighton,2,3,L,W
+868091,2022/23,2022-11-05 15:00:00+00:00,15,A. Marriner,Nottingham Forest,Brentford,2,2,D,D
+868089,2022/23,2022-11-05 15:00:00+00:00,15,T. Harrington,Leeds,Bournemouth,4,3,W,L
+868088,2022/23,2022-11-05 17:30:00+00:00,15,D. Coote,Everton,Leicester,0,2,L,W
+868087,2022/23,2022-11-06 12:00:00+00:00,15,M. Oliver,Chelsea,Arsenal,0,1,L,W
+868092,2022/23,2022-11-06 14:00:00+00:00,15,S. Attwell,Southampton,Newcastle,1,4,L,W
+868094,2022/23,2022-11-06 14:00:00+00:00,15,P. Tierney,West Ham,Crystal Palace,1,2,L,W
+868086,2022/23,2022-11-06 14:00:00+00:00,15,A. Taylor,Aston Villa,Manchester United,3,1,W,L
+868093,2022/23,2022-11-06 16:30:00+00:00,15,A. Madley,Tottenham,Liverpool,1,2,L,W
+868100,2022/23,2022-11-12 12:30:00+00:00,16,P. Bankes,Manchester City,Brentford,1,2,L,W
+868099,2022/23,2022-11-12 15:00:00+00:00,16,S. Hooper,Liverpool,Southampton,3,1,W,L
+868104,2022/23,2022-11-12 15:00:00+00:00,16,J. Gillett,West Ham,Leicester,0,2,L,W
+868096,2022/23,2022-11-12 15:00:00+00:00,16,C. Pawson,Bournemouth,Everton,3,0,W,L
+868102,2022/23,2022-11-12 15:00:00+00:00,16,J. Brooks,Nottingham Forest,Crystal Palace,1,0,W,L
+868103,2022/23,2022-11-12 15:00:00+00:00,16,M. Salisbury,Tottenham,Leeds,4,3,W,L
+868101,2022/23,2022-11-12 17:30:00+00:00,16,R. Jones,Newcastle,Chelsea,1,0,W,L
+868105,2022/23,2022-11-12 19:45:00+00:00,16,S. Attwell,Wolves,Arsenal,0,2,L,W
+868097,2022/23,2022-11-13 14:00:00+00:00,16,C. Kavanagh,Brighton,Aston Villa,1,2,L,W
+868098,2022/23,2022-11-13 16:30:00+00:00,16,P. Tierney,Fulham,Manchester United,1,2,L,W
+868108,2022/23,2022-12-26 12:30:00+00:00,17,D. Coote,Brentford,Tottenham,2,2,D,D
+868111,2022/23,2022-12-26 15:00:00+00:00,17,C. Pawson,Everton,Wolves,1,2,L,W
+868113,2022/23,2022-12-26 15:00:00+00:00,17,J. Gillett,Leicester,Newcastle,0,3,L,W
+868115,2022/23,2022-12-26 15:00:00+00:00,17,R. Jones,Southampton,Brighton,1,3,L,W
+868110,2022/23,2022-12-26 15:00:00+00:00,17,A. Madley,Crystal Palace,Fulham,0,3,L,W
+868107,2022/23,2022-12-26 17:30:00+00:00,17,P. Tierney,Aston Villa,Liverpool,1,3,L,W
+868106,2022/23,2022-12-26 20:00:00+00:00,17,M. Oliver,Arsenal,West Ham,3,1,W,L
+868109,2022/23,2022-12-27 17:30:00+00:00,17,S. Hooper,Chelsea,Bournemouth,2,0,W,L
+868114,2022/23,2022-12-27 20:00:00+00:00,17,A. Taylor,Manchester United,Nottingham Forest,3,0,W,L
+868112,2022/23,2022-12-28 20:00:00+00:00,17,S. Attwell,Leeds,Manchester City,1,3,L,W
+868124,2022/23,2022-12-30 19:45:00+00:00,18,D. England,West Ham,Brentford,0,2,L,W
+868119,2022/23,2022-12-30 20:00:00+00:00,18,C. Pawson,Liverpool,Leicester,2,1,W,L
+868125,2022/23,2022-12-31 12:30:00+00:00,18,R. Jones,Wolves,Manchester United,0,1,L,W
+868118,2022/23,2022-12-31 15:00:00+00:00,18,G. Scott,Fulham,Southampton,2,1,W,L
+868121,2022/23,2022-12-31 15:00:00+00:00,18,S. Hooper,Newcastle,Leeds,0,0,D,D
+868116,2022/23,2022-12-31 15:00:00+00:00,18,A. Marriner,Bournemouth,Crystal Palace,0,2,L,W
+868120,2022/23,2022-12-31 15:00:00+00:00,18,A. Madley,Manchester City,Everton,1,1,D,D
+868117,2022/23,2022-12-31 17:30:00+00:00,18,A. Taylor,Brighton,Arsenal,2,4,L,W
+868123,2022/23,2023-01-01 14:00:00+00:00,18,J. Brooks,Tottenham,Aston Villa,0,2,L,W
+868122,2022/23,2023-01-01 16:30:00+00:00,18,P. Bankes,Nottingham Forest,Chelsea,1,1,D,D
+868128,2022/23,2023-01-02 17:30:00+00:00,19,S. Attwell,Brentford,Liverpool,3,1,W,L
+868126,2022/23,2023-01-03 19:45:00+00:00,19,A. Madley,Arsenal,Newcastle,0,0,D,D
+868131,2022/23,2023-01-03 19:45:00+00:00,19,A. Marriner,Everton,Brighton,1,4,L,W
+868133,2022/23,2023-01-03 19:45:00+00:00,19,D. Bond,Leicester,Fulham,0,1,L,W
+868134,2022/23,2023-01-03 20:00:00+00:00,19,M. Salisbury,Manchester United,Bournemouth,3,0,W,L
+868135,2022/23,2023-01-04 19:30:00+00:00,19,T. Bramall,Southampton,Nottingham Forest,0,1,L,W
+868132,2022/23,2023-01-04 19:45:00+00:00,19,D. Coote,Leeds,West Ham,2,2,D,D
+868130,2022/23,2023-01-04 20:00:00+00:00,19,M. Oliver,Crystal Palace,Tottenham,0,4,L,W
+868127,2022/23,2023-01-04 20:00:00+00:00,19,J. Gillett,Aston Villa,Wolves,1,1,D,D
+868129,2022/23,2023-01-05 20:00:00+00:00,19,P. Tierney,Chelsea,Manchester City,0,1,L,W
+868009,2022/23,2023-01-12 20:00:00+00:00,7,D. Coote,Fulham,Chelsea,2,1,W,L
+868136,2022/23,2023-01-13 20:00:00+00:00,20,M. Oliver,Aston Villa,Leeds,2,1,W,L
+868141,2022/23,2023-01-14 12:30:00+00:00,20,S. Attwell,Manchester United,Manchester City,2,1,W,L
+868145,2022/23,2023-01-14 15:00:00+00:00,20,S. Hooper,Wolves,West Ham,1,0,W,L
+868140,2022/23,2023-01-14 15:00:00+00:00,20,J. Brooks,Everton,Southampton,1,2,L,W
+868138,2022/23,2023-01-14 15:00:00+00:00,20,D. England,Brighton,Liverpool,3,0,W,L
+868143,2022/23,2023-01-14 15:00:00+00:00,20,P. Tierney,Nottingham Forest,Leicester,2,0,W,L
+868137,2022/23,2023-01-14 17:30:00+00:00,20,J. Gillett,Brentford,Bournemouth,2,0,W,L
+868142,2022/23,2023-01-15 14:00:00+00:00,20,R. Jones,Newcastle,Fulham,1,0,W,L
+868139,2022/23,2023-01-15 14:00:00+00:00,20,P. Bankes,Chelsea,Crystal Palace,1,0,W,L
+868144,2022/23,2023-01-15 16:30:00+00:00,20,C. Pawson,Tottenham,Arsenal,0,2,L,W
+868008,2022/23,2023-01-18 20:00:00+00:00,7,R. Jones,Crystal Palace,Manchester United,1,1,D,D
+868013,2022/23,2023-01-19 20:00:00+00:00,7,S. Hooper,Manchester City,Tottenham,4,2,W,L
+868152,2022/23,2023-01-21 12:30:00+00:00,21,M. Oliver,Liverpool,Chelsea,0,0,D,D
+868146,2022/23,2023-01-21 15:00:00+00:00,21,A. Madley,Bournemouth,Nottingham Forest,1,1,D,D
+868154,2022/23,2023-01-21 15:00:00+00:00,21,M. Salisbury,Southampton,Aston Villa,0,1,L,W
+868151,2022/23,2023-01-21 15:00:00+00:00,21,T. Bramall,Leicester,Brighton,2,2,D,D
+868155,2022/23,2023-01-21 15:00:00+00:00,21,S. Attwell,West Ham,Everton,2,0,W,L
+868148,2022/23,2023-01-21 17:30:00+00:00,21,C. Pawson,Crystal Palace,Newcastle,0,0,D,D
+868153,2022/23,2023-01-22 14:00:00+00:00,21,D. Coote,Manchester City,Wolves,3,0,W,L
+868150,2022/23,2023-01-22 14:00:00+00:00,21,P. Bankes,Leeds,Brentford,0,0,D,D
+868147,2022/23,2023-01-22 16:30:00+00:00,21,A. Taylor,Arsenal,Manchester United,3,2,W,L
+868149,2022/23,2023-01-23 20:00:00+00:00,21,P. Tierney,Fulham,Tottenham,0,1,L,W
+868159,2022/23,2023-02-03 20:00:00+00:00,22,S. Attwell,Chelsea,Fulham,0,0,D,D
+868160,2022/23,2023-02-04 12:30:00+00:00,22,D. Coote,Everton,Arsenal,1,0,W,L
+868158,2022/23,2023-02-04 15:00:00+00:00,22,C. Pawson,Brighton,Bournemouth,1,0,W,L
+868165,2022/23,2023-02-04 15:00:00+00:00,22,P. Tierney,Wolves,Liverpool,3,0,W,L
+868156,2022/23,2023-02-04 15:00:00+00:00,22,D. England,Aston Villa,Leicester,2,4,L,W
+868157,2022/23,2023-02-04 15:00:00+00:00,22,D. Bond,Brentford,Southampton,3,0,W,L
+868161,2022/23,2023-02-04 15:00:00+00:00,22,A. Marriner,Manchester United,Crystal Palace,2,1,W,L
+868162,2022/23,2023-02-04 17:30:00+00:00,22,P. Bankes,Newcastle,West Ham,1,1,D,D
+868163,2022/23,2023-02-05 14:00:00+00:00,22,R. Jones,Nottingham Forest,Leeds,1,0,W,L
+868164,2022/23,2023-02-05 16:30:00+00:00,22,A. Madley,Tottenham,Manchester City,1,0,W,L
+868021,2022/23,2023-02-08 20:00:00+00:00,8,S. Hooper,Manchester United,Leeds,2,2,D,D
+868175,2022/23,2023-02-11 12:30:00+00:00,23,C. Pawson,West Ham,Chelsea,1,1,D,D
+868169,2022/23,2023-02-11 15:00:00+00:00,23,A. Madley,Fulham,Nottingham Forest,2,0,W,L
+868174,2022/23,2023-02-11 15:00:00+00:00,23,J. Gillett,Southampton,Wolves,1,2,L,W
+868167,2022/23,2023-02-11 15:00:00+00:00,23,P. Bankes,Arsenal,Brentford,1,1,D,D
+868171,2022/23,2023-02-11 15:00:00+00:00,23,M. Salisbury,Leicester,Tottenham,4,1,W,L
+868168,2022/23,2023-02-11 15:00:00+00:00,23,M. Oliver,Crystal Palace,Brighton,1,1,D,D
+868166,2022/23,2023-02-11 17:30:00+00:00,23,S. Attwell,Bournemouth,Newcastle,1,1,D,D
+868170,2022/23,2023-02-12 14:00:00+00:00,23,P. Tierney,Leeds,Manchester United,0,2,L,W
+868173,2022/23,2023-02-12 16:30:00+00:00,23,R. Jones,Manchester City,Aston Villa,3,1,W,L
+868172,2022/23,2023-02-13 20:00:00+00:00,23,S. Hooper,Liverpool,Everton,2,0,W,L
+868057,2022/23,2023-02-15 19:30:00+00:00,12,A. Taylor,Arsenal,Manchester City,1,3,L,W
+868176,2022/23,2023-02-18 12:30:00+00:00,24,S. Hooper,Aston Villa,Arsenal,2,4,L,W
+868179,2022/23,2023-02-18 15:00:00+00:00,24,D. Coote,Chelsea,Southampton,0,1,L,W
+868185,2022/23,2023-02-18 15:00:00+00:00,24,M. Salisbury,Wolves,Bournemouth,0,1,L,W
+868180,2022/23,2023-02-18 15:00:00+00:00,24,A. Madley,Everton,Leeds,1,0,W,L
+868177,2022/23,2023-02-18 15:00:00+00:00,24,P. Tierney,Brentford,Crystal Palace,1,1,D,D
+868183,2022/23,2023-02-18 15:00:00+00:00,24,G. Scott,Nottingham Forest,Manchester City,1,1,D,D
+868178,2022/23,2023-02-18 15:00:00+00:00,24,D. England,Brighton,Fulham,0,1,L,W
+868182,2022/23,2023-02-18 17:30:00+00:00,24,A. Taylor,Newcastle,Liverpool,0,2,L,W
+868181,2022/23,2023-02-19 14:00:00+00:00,24,S. Attwell,Manchester United,Leicester,3,0,W,L
+868184,2022/23,2023-02-19 16:30:00+00:00,24,M. Oliver,Tottenham,West Ham,2,0,W,L
+868189,2022/23,2023-02-24 20:00:00+00:00,25,M. Oliver,Fulham,Wolves,1,1,D,D
+868195,2022/23,2023-02-25 15:00:00+00:00,25,J. Gillett,West Ham,Nottingham Forest,4,0,W,L
+868190,2022/23,2023-02-25 15:00:00+00:00,25,P. Bankes,Leeds,Southampton,1,0,W,L
+868188,2022/23,2023-02-25 15:00:00+00:00,25,A. Taylor,Everton,Aston Villa,0,2,L,W
+868191,2022/23,2023-02-25 15:00:00+00:00,25,C. Pawson,Leicester,Arsenal,0,1,L,W
+868186,2022/23,2023-02-25 17:30:00+00:00,25,P. Tierney,Bournemouth,Manchester City,1,4,L,W
+868187,2022/23,2023-02-25 19:45:00+00:00,25,D. England,Crystal Palace,Liverpool,0,0,D,D
+868194,2022/23,2023-02-26 13:30:00+00:00,25,S. Attwell,Tottenham,Chelsea,2,0,W,L
+868007,2022/23,2023-03-01 19:45:00+00:00,7,M. Oliver,Arsenal,Everton,4,0,W,L
+868012,2022/23,2023-03-01 20:00:00+00:00,7,P. Tierney,Liverpool,Wolves,2,0,W,L
+868202,2022/23,2023-03-04 12:30:00+00:00,26,S. Hooper,Manchester City,Newcastle,2,0,W,L
+868205,2022/23,2023-03-04 15:00:00+00:00,26,T. Robinson,Wolves,Tottenham,1,0,W,L
+868196,2022/23,2023-03-04 15:00:00+00:00,26,C. Kavanagh,Arsenal,Bournemouth,3,2,W,L
+868200,2022/23,2023-03-04 15:00:00+00:00,26,M. Oliver,Chelsea,Leeds,1,0,W,L
+868199,2022/23,2023-03-04 15:00:00+00:00,26,S. Attwell,Brighton,West Ham,4,0,W,L
+868197,2022/23,2023-03-04 15:00:00+00:00,26,C. Pawson,Aston Villa,Crystal Palace,1,0,W,L
+868204,2022/23,2023-03-04 17:30:00+00:00,26,R. Jones,Southampton,Leicester,1,0,W,L
+868203,2022/23,2023-03-05 14:00:00+00:00,26,J. Brooks,Nottingham Forest,Everton,2,2,D,D
+868201,2022/23,2023-03-05 16:30:00+00:00,26,A. Madley,Liverpool,Manchester United,7,0,W,L
+868198,2022/23,2023-03-06 20:00:00+00:00,26,A. Taylor,Brentford,Fulham,3,2,W,L
+868206,2022/23,2023-03-11 12:30:00+00:00,27,J. Brooks,Bournemouth,Liverpool,1,0,W,L
+868208,2022/23,2023-03-11 15:00:00+00:00,27,S. Hooper,Everton,Brentford,1,0,W,L
+868211,2022/23,2023-03-11 15:00:00+00:00,27,A. Marriner,Leicester,Chelsea,1,3,L,W
+868214,2022/23,2023-03-11 15:00:00+00:00,27,C. Pawson,Tottenham,Nottingham Forest,3,1,W,L
+868210,2022/23,2023-03-11 15:00:00+00:00,27,P. Tierney,Leeds,Brighton,2,2,D,D
+868207,2022/23,2023-03-11 17:30:00+00:00,27,R. Jones,Crystal Palace,Manchester City,0,1,L,W
+868212,2022/23,2023-03-12 14:00:00+00:00,27,A. Taylor,Manchester United,Southampton,0,0,D,D
+868209,2022/23,2023-03-12 14:00:00+00:00,27,D. Coote,Fulham,Arsenal,0,3,L,W
+868215,2022/23,2023-03-12 14:00:00+00:00,27,C. Kavanagh,West Ham,Aston Villa,1,1,D,D
+868213,2022/23,2023-03-12 16:30:00+00:00,27,A. Madley,Newcastle,Wolves,2,1,W,L
+868014,2022/23,2023-03-15 19:30:00+00:00,7,M. Salisbury,Southampton,Brentford,0,2,L,W
+868018,2022/23,2023-03-15 19:30:00+00:00,8,P. Bankes,Brighton,Crystal Palace,1,0,W,L
+868223,2022/23,2023-03-17 20:00:00+00:00,28,P. Tierney,Nottingham Forest,Newcastle,1,2,L,W
+868225,2022/23,2023-03-18 15:00:00+00:00,28,M. Salisbury,Wolves,Leeds,2,4,L,W
+868224,2022/23,2023-03-18 15:00:00+00:00,28,S. Hooper,Southampton,Tottenham,3,3,D,D
+868218,2022/23,2023-03-18 15:00:00+00:00,28,D. Bond,Brentford,Leicester,1,1,D,D
+868217,2022/23,2023-03-18 15:00:00+00:00,28,R. Jones,Aston Villa,Bournemouth,3,0,W,L
+868220,2022/23,2023-03-18 17:30:00+00:00,28,D. England,Chelsea,Everton,2,2,D,D
+868216,2022/23,2023-03-19 14:00:00+00:00,28,S. Attwell,Arsenal,Crystal Palace,4,1,W,L
+868232,2022/23,2023-04-01 11:30:00+00:00,29,S. Hooper,Manchester City,Liverpool,4,1,W,L
+868226,2022/23,2023-04-01 14:00:00+00:00,29,P. Bankes,Bournemouth,Fulham,2,1,W,L
+868227,2022/23,2023-04-01 14:00:00+00:00,29,D. England,Arsenal,Leeds,4,1,W,L
+868228,2022/23,2023-04-01 14:00:00+00:00,29,M. Oliver,Brighton,Brentford,3,3,D,D
+868230,2022/23,2023-04-01 14:00:00+00:00,29,T. Robinson,Crystal Palace,Leicester,2,1,W,L
+868234,2022/23,2023-04-01 14:00:00+00:00,29,C. Kavanagh,Nottingham Forest,Wolves,1,1,D,D
+868229,2022/23,2023-04-01 16:30:00+00:00,29,A. Madley,Chelsea,Aston Villa,0,2,L,W
+868235,2022/23,2023-04-02 13:00:00+00:00,29,P. Tierney,West Ham,Southampton,1,0,W,L
+868233,2022/23,2023-04-02 15:30:00+00:00,29,S. Attwell,Newcastle,Manchester United,2,0,W,L
+868231,2022/23,2023-04-03 19:00:00+00:00,29,D. Coote,Everton,Tottenham,1,1,D,D
+868006,2022/23,2023-04-04 18:45:00+00:00,7,D. Bond,Bournemouth,Brighton,0,2,L,W
+868011,2022/23,2023-04-04 18:45:00+00:00,7,G. Scott,Leicester,Aston Villa,1,2,L,W
+868010,2022/23,2023-04-04 18:45:00+00:00,7,R. Jones,Leeds,Nottingham Forest,2,1,W,L
+868019,2022/23,2023-04-04 19:00:00+00:00,8,A. Taylor,Chelsea,Liverpool,0,0,D,D
+868192,2022/23,2023-04-05 19:00:00+00:00,25,J. Brooks,Manchester United,Brentford,1,0,W,L
+868015,2022/23,2023-04-05 19:00:00+00:00,7,C. Pawson,West Ham,Newcastle,1,5,L,W
+868242,2022/23,2023-04-08 11:30:00+00:00,30,M. Oliver,Manchester United,Everton,2,0,W,L
+868238,2022/23,2023-04-08 14:00:00+00:00,30,J. Gillett,Fulham,West Ham,0,1,L,W
+868245,2022/23,2023-04-08 14:00:00+00:00,30,P. Bankes,Wolves,Chelsea,1,0,W,L
+868240,2022/23,2023-04-08 14:00:00+00:00,30,D. Coote,Leicester,Bournemouth,0,1,L,W
+868244,2022/23,2023-04-08 14:00:00+00:00,30,S. Attwell,Tottenham,Brighton,2,1,W,L
+868237,2022/23,2023-04-08 14:00:00+00:00,30,C. Kavanagh,Brentford,Newcastle,1,2,L,W
+868236,2022/23,2023-04-08 14:00:00+00:00,30,A. Taylor,Aston Villa,Nottingham Forest,2,0,W,L
+868243,2022/23,2023-04-08 16:30:00+00:00,30,R. Jones,Southampton,Manchester City,1,4,L,W
+868239,2022/23,2023-04-09 13:00:00+00:00,30,S. Hooper,Leeds,Crystal Palace,1,5,L,W
+868241,2022/23,2023-04-09 15:30:00+00:00,30,P. Tierney,Liverpool,Arsenal,2,2,D,D
+868246,2022/23,2023-04-15 11:30:00+00:00,31,J. Brooks,Aston Villa,Newcastle,3,0,W,L
+868252,2022/23,2023-04-15 14:00:00+00:00,31,M. Oliver,Southampton,Crystal Palace,0,2,L,W
+868255,2022/23,2023-04-15 14:00:00+00:00,31,P. Tierney,Wolves,Brentford,2,0,W,L
+868247,2022/23,2023-04-15 14:00:00+00:00,31,R. Jones,Chelsea,Brighton,1,2,L,W
+868248,2022/23,2023-04-15 14:00:00+00:00,31,A. Taylor,Everton,Fulham,1,3,L,W
+868253,2022/23,2023-04-15 14:15:00+00:00,31,A. Madley,Tottenham,Bournemouth,2,3,L,W
+868250,2022/23,2023-04-15 16:30:00+00:00,31,D. England,Manchester City,Leicester,3,1,W,L
+868254,2022/23,2023-04-16 13:00:00+00:00,31,D. Coote,West Ham,Arsenal,2,2,D,D
+868251,2022/23,2023-04-16 15:30:00+00:00,31,S. Hooper,Nottingham Forest,Manchester United,0,2,L,W
+868249,2022/23,2023-04-17 19:00:00+00:00,31,C. Pawson,Leeds,Liverpool,1,6,L,W
+868257,2022/23,2023-04-21 19:00:00+00:00,32,S. Hooper,Arsenal,Southampton,3,3,D,D
+868261,2022/23,2023-04-22 11:30:00+00:00,32,P. Bankes,Fulham,Leeds,2,1,W,L
+868262,2022/23,2023-04-22 14:00:00+00:00,32,A. Madley,Leicester,Wolves,2,1,W,L
+868263,2022/23,2023-04-22 14:00:00+00:00,32,M. Oliver,Liverpool,Nottingham Forest,3,2,W,L
+868258,2022/23,2023-04-22 14:00:00+00:00,32,M. Salisbury,Brentford,Aston Villa,1,1,D,D
+868260,2022/23,2023-04-22 14:00:00+00:00,32,J. Brooks,Crystal Palace,Everton,0,0,D,D
+868265,2022/23,2023-04-23 13:00:00+00:00,32,D. Coote,Newcastle,Tottenham,6,1,W,L
+868256,2022/23,2023-04-23 13:00:00+00:00,32,A. Taylor,Bournemouth,West Ham,0,4,L,W
+868271,2022/23,2023-04-25 18:30:00+00:00,33,R. Jones,Wolves,Crystal Palace,2,0,W,L
+868272,2022/23,2023-04-25 18:45:00+00:00,33,T. Bramall,Aston Villa,Fulham,1,0,W,L
+868267,2022/23,2023-04-25 19:00:00+00:00,33,P. Tierney,Leeds,Leicester,1,1,D,D
+868268,2022/23,2023-04-26 18:30:00+00:00,33,J. Gillett,Nottingham Forest,Brighton,3,1,W,L
+868270,2022/23,2023-04-26 18:45:00+00:00,33,C. Kavanagh,West Ham,Liverpool,1,2,L,W
+868273,2022/23,2023-04-26 18:45:00+00:00,33,A. Madley,Chelsea,Brentford,0,2,L,W
+868275,2022/23,2023-04-26 19:00:00+00:00,33,M. Oliver,Manchester City,Arsenal,4,1,W,L
+868274,2022/23,2023-04-27 18:45:00+00:00,33,D. England,Southampton,Bournemouth,0,1,L,W
+868266,2022/23,2023-04-27 18:45:00+00:00,33,A. Marriner,Everton,Newcastle,1,4,L,W
+868269,2022/23,2023-04-27 19:15:00+00:00,33,A. Taylor,Tottenham,Manchester United,2,2,D,D
+868280,2022/23,2023-04-29 11:30:00+00:00,34,C. Pawson,Crystal Palace,West Ham,4,3,W,L
+868279,2022/23,2023-04-29 14:00:00+00:00,34,D. Coote,Brighton,Wolves,6,0,W,L
+868278,2022/23,2023-04-29 14:00:00+00:00,34,P. Bankes,Brentford,Nottingham Forest,2,1,W,L
+868284,2022/23,2023-04-30 13:00:00+00:00,34,J. Gillett,Manchester United,Aston Villa,1,0,W,L
+868285,2022/23,2023-04-30 13:00:00+00:00,34,A. Taylor,Newcastle,Southampton,3,1,W,L
+868276,2022/23,2023-04-30 13:00:00+00:00,34,C. Kavanagh,Bournemouth,Leeds,4,1,W,L
+868281,2022/23,2023-04-30 13:00:00+00:00,34,S. Hooper,Fulham,Manchester City,1,2,L,W
+868283,2022/23,2023-04-30 15:30:00+00:00,34,P. Tierney,Liverpool,Tottenham,4,3,W,L
+868282,2022/23,2023-05-01 19:00:00+00:00,34,M. Oliver,Leicester,Everton,2,2,D,D
+868277,2022/23,2023-05-02 19:00:00+00:00,34,R. Jones,Arsenal,Chelsea,3,1,W,L
+868221,2022/23,2023-05-03 19:00:00+00:00,28,S. Attwell,Liverpool,Fulham,1,0,W,L
+868222,2022/23,2023-05-03 19:00:00+00:00,28,J. Brooks,Manchester City,West Ham,3,0,W,L
+868219,2022/23,2023-05-04 19:00:00+00:00,28,A. Marriner,Brighton,Manchester United,1,0,W,L
+868286,2022/23,2023-05-06 14:00:00+00:00,35,J. Brooks,Bournemouth,Chelsea,1,3,L,W
+868295,2022/23,2023-05-06 14:00:00+00:00,35,S. Attwell,Wolves,Aston Villa,1,0,W,L
+868293,2022/23,2023-05-06 14:00:00+00:00,35,D. England,Tottenham,Crystal Palace,1,0,W,L
+868290,2022/23,2023-05-06 14:00:00+00:00,35,A. Madley,Manchester City,Leeds,2,1,W,L
+868289,2022/23,2023-05-06 16:30:00+00:00,35,A. Taylor,Liverpool,Brentford,1,0,W,L
+868291,2022/23,2023-05-07 15:30:00+00:00,35,C. Kavanagh,Newcastle,Arsenal,0,2,L,W
+868294,2022/23,2023-05-07 18:00:00+00:00,35,P. Bankes,West Ham,Manchester United,1,0,W,L
+868288,2022/23,2023-05-08 14:00:00+00:00,35,R. Jones,Fulham,Leicester,5,3,W,L
+868287,2022/23,2023-05-08 16:30:00+00:00,35,S. Hooper,Brighton,Everton,1,5,L,W
+868292,2022/23,2023-05-08 19:00:00+00:00,35,M. Oliver,Nottingham Forest,Southampton,4,3,W,L
+868302,2022/23,2023-05-13 11:30:00+00:00,36,S. Hooper,Leeds,Newcastle,2,2,D,D
+868304,2022/23,2023-05-13 14:00:00+00:00,36,J. Brooks,Manchester United,Wolves,2,0,W,L
+868305,2022/23,2023-05-13 14:00:00+00:00,36,T. Bramall,Southampton,Fulham,0,2,L,W
+868299,2022/23,2023-05-13 14:00:00+00:00,36,P. Tierney,Chelsea,Nottingham Forest,2,2,D,D
+868300,2022/23,2023-05-13 14:00:00+00:00,36,M. Salisbury,Crystal Palace,Bournemouth,2,0,W,L
+868297,2022/23,2023-05-13 14:00:00+00:00,36,P. Bankes,Aston Villa,Tottenham,2,1,W,L
+868301,2022/23,2023-05-14 13:00:00+00:00,36,A. Taylor,Everton,Manchester City,0,3,L,W
+868298,2022/23,2023-05-14 13:00:00+00:00,36,M. Oliver,Brentford,West Ham,2,0,W,L
+868296,2022/23,2023-05-14 15:30:00+00:00,36,A. Madley,Arsenal,Brighton,0,3,L,W
+868303,2022/23,2023-05-15 19:00:00+00:00,36,C. Pawson,Leicester,Liverpool,0,3,L,W
+868193,2022/23,2023-05-18 18:30:00+00:00,25,R. Jones,Newcastle,Brighton,4,1,W,L
+868313,2022/23,2023-05-20 11:30:00+00:00,37,J. Gillett,Tottenham,Brentford,1,3,L,W
+868306,2022/23,2023-05-20 14:00:00+00:00,37,C. Kavanagh,Bournemouth,Manchester United,0,1,L,W
+868308,2022/23,2023-05-20 14:00:00+00:00,37,J. Smith,Fulham,Crystal Palace,2,2,D,D
+868315,2022/23,2023-05-20 14:00:00+00:00,37,D. Coote,Wolves,Everton,1,1,D,D
+868309,2022/23,2023-05-20 14:00:00+00:00,37,J. Brooks,Liverpool,Aston Villa,1,1,D,D
+868312,2022/23,2023-05-20 16:30:00+00:00,37,A. Taylor,Nottingham Forest,Arsenal,1,0,W,L
+868314,2022/23,2023-05-21 12:30:00+00:00,37,P. Bankes,West Ham,Leeds,3,1,W,L
+868307,2022/23,2023-05-21 13:00:00+00:00,37,P. Tierney,Brighton,Southampton,3,1,W,L
+868310,2022/23,2023-05-21 15:00:00+00:00,37,M. Oliver,Manchester City,Chelsea,1,0,W,L
+868311,2022/23,2023-05-22 19:00:00+00:00,37,A. Marriner,Newcastle,Leicester,0,0,D,D
+868259,2022/23,2023-05-24 19:00:00+00:00,32,S. Hooper,Brighton,Manchester City,1,1,D,D
+868264,2022/23,2023-05-25 19:00:00+00:00,32,S. Attwell,Manchester United,Chelsea,4,1,W,L
+868324,2022/23,2023-05-28 15:30:00+00:00,38,R. Jones,Manchester United,Fulham,2,1,W,L
+868325,2022/23,2023-05-28 15:30:00+00:00,38,D. England,Southampton,Liverpool,4,4,D,D
+868316,2022/23,2023-05-28 15:30:00+00:00,38,A. Marriner,Arsenal,Wolves,5,0,W,L
+868321,2022/23,2023-05-28 15:30:00+00:00,38,S. Attwell,Everton,Bournemouth,1,0,W,L
+868323,2022/23,2023-05-28 15:30:00+00:00,38,S. Hooper,Leicester,West Ham,2,1,W,L
+868319,2022/23,2023-05-28 15:30:00+00:00,38,J. Gillett,Chelsea,Newcastle,1,1,D,D
+868320,2022/23,2023-05-28 15:30:00+00:00,38,T. Bramall,Crystal Palace,Nottingham Forest,1,1,D,D
+868318,2022/23,2023-05-28 15:30:00+00:00,38,J. Brooks,Brentford,Manchester City,1,0,W,L
+868322,2022/23,2023-05-28 15:30:00+00:00,38,A. Taylor,Leeds,Tottenham,1,4,L,W
+868317,2022/23,2023-05-28 15:30:00+00:00,38,D. Coote,Aston Villa,Brighton,2,1,W,L

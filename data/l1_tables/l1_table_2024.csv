@@ -1,0 +1,19 @@
+Rank,Logo,Team,MP,W,D,L,GF,GA,GD,Pts,Form,Qualification,Home_wins,Home_draw,Home_lose,Home_goals_for,Home_goals_against,Away_wins,Away_draw,Away_lose,Away_goals_for,Away_goals_against
+1,https://media.api-sports.io/football/teams/85.png,Paris Saint Germain,34,26,6,2,92,35,57,84,WWLLD,Champions League,14,2,1,45,16,12,4,1,47,19
+2,https://media.api-sports.io/football/teams/81.png,Marseille,34,20,5,9,74,47,27,65,WWDWW,Champions League,10,4,3,41,23,10,1,6,33,24
+3,https://media.api-sports.io/football/teams/91.png,Monaco,34,18,7,9,63,41,22,61,LWWDD,Champions League,12,3,2,38,16,6,4,7,25,25
+4,https://media.api-sports.io/football/teams/84.png,Nice,34,17,9,8,66,41,25,60,WLWWW,Champions League Qualification,11,4,2,38,15,6,5,6,28,26
+5,https://media.api-sports.io/football/teams/79.png,Lille,34,17,9,8,52,36,16,60,WLDWW,UEFA Europa League,11,4,2,31,18,6,5,6,21,18
+6,https://media.api-sports.io/football/teams/80.png,Lyon,34,17,6,11,65,46,19,57,WLLWL,UEFA Europa League,11,2,4,37,21,6,4,7,28,25
+7,https://media.api-sports.io/football/teams/95.png,Strasbourg,34,16,9,9,56,44,12,57,LLWWD,Conference League Qualification,10,5,2,33,20,6,4,7,23,24
+8,https://media.api-sports.io/football/teams/116.png,Lens,34,15,7,12,42,39,3,52,WDWLW,,7,2,8,19,22,8,5,4,23,17
+9,https://media.api-sports.io/football/teams/106.png,Stade Brestois 29,34,15,5,14,52,59,-7,50,LWWLL,,10,3,4,31,21,5,2,10,21,38
+10,https://media.api-sports.io/football/teams/96.png,Toulouse,34,11,9,14,44,43,1,42,WDWDL,,5,5,7,20,22,6,4,7,24,21
+11,https://media.api-sports.io/football/teams/108.png,Auxerre,34,11,9,14,48,51,-3,42,LDLWL,,7,6,4,24,17,4,3,10,24,34
+12,https://media.api-sports.io/football/teams/94.png,Rennes,34,13,2,19,51,50,1,41,LWLLW,,9,1,7,25,17,4,1,12,26,33
+13,https://media.api-sports.io/football/teams/83.png,Nantes,34,8,12,14,39,52,-13,36,WDLDD,,5,6,6,19,18,3,6,8,20,34
+14,https://media.api-sports.io/football/teams/77.png,Angers,34,10,6,18,32,53,-21,36,LWWLL,,5,2,10,18,33,5,4,8,14,20
+15,https://media.api-sports.io/football/teams/111.png,Le Havre,34,10,4,20,40,71,-31,34,WLWDL,,3,2,12,15,41,7,2,8,25,30
+16,https://media.api-sports.io/football/teams/93.png,Reims,34,8,9,17,33,47,-14,33,LDLLL,Relegation Playoffs,4,4,9,17,25,4,5,8,16,22
+17,https://media.api-sports.io/football/teams/1063.png,Saint Etienne,34,8,6,20,39,77,-38,30,LWLLW,Relegation,6,3,8,24,33,2,3,12,15,44
+18,https://media.api-sports.io/football/teams/82.png,Montpellier,34,4,4,26,23,79,-56,16,LLLDL,Relegation,3,4,10,17,41,1,0,16,6,38

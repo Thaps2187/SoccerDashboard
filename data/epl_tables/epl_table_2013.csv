@@ -1,0 +1,21 @@
+Rank,Logo,Team,MP,W,D,L,GF,GA,GD,Pts,Form,Qualification,Home_wins,Home_draw,Home_lose,Home_goals_for,Home_goals_against,Away_wins,Away_draw,Away_lose,Away_goals_for,Away_goals_against
+1,https://media.api-sports.io/football/teams/50.png,Manchester City,38,27,5,6,102,37,65,86,WWWWW,UEFA Champions League,17,1,1,63,13,10,4,5,39,24
+2,https://media.api-sports.io/football/teams/40.png,Liverpool,38,26,6,6,101,50,51,84,WDLWW,UEFA Champions League,16,1,2,53,18,10,5,4,48,32
+3,https://media.api-sports.io/football/teams/49.png,Chelsea,38,25,7,6,71,27,44,82,WDWLW,UEFA Champions League,15,3,1,43,11,10,4,5,28,16
+4,https://media.api-sports.io/football/teams/42.png,Arsenal,38,24,7,7,68,41,27,79,WWWWW,UEFA Champions League Qualifiers,13,5,1,36,11,11,2,6,32,30
+5,https://media.api-sports.io/football/teams/45.png,Everton,38,21,9,8,61,39,22,72,WLLWL,UEFA Europa League,13,3,3,38,19,8,6,5,23,20
+6,https://media.api-sports.io/football/teams/47.png,Tottenham,38,21,6,11,55,51,4,69,WLWWD,,11,3,5,30,23,10,3,6,25,28
+7,https://media.api-sports.io/football/teams/33.png,Manchester United,38,19,7,12,64,43,21,64,DWLWL,,9,3,7,29,21,10,4,5,35,22
+8,https://media.api-sports.io/football/teams/41.png,Southampton,38,15,11,12,54,46,8,56,DWWDL,,8,6,5,32,23,7,5,7,22,23
+9,https://media.api-sports.io/football/teams/75.png,Stoke City,38,13,11,14,45,52,-7,50,WWLDW,,10,6,3,27,17,3,5,11,18,35
+10,https://media.api-sports.io/football/teams/34.png,Newcastle,38,15,4,19,43,59,-16,49,LWLLL,,8,3,8,23,28,7,1,11,20,31
+11,https://media.api-sports.io/football/teams/52.png,Crystal Palace,38,13,6,19,33,48,-15,45,DDLWW,,8,3,8,18,23,5,3,11,15,25
+12,https://media.api-sports.io/football/teams/76.png,Swansea,38,11,9,18,54,54,0,42,WLWWL,,6,5,8,33,26,5,4,10,21,28
+13,https://media.api-sports.io/football/teams/48.png,West Ham,38,11,7,20,40,51,-11,40,LWLLL,,7,3,9,25,26,4,4,11,15,25
+14,https://media.api-sports.io/football/teams/746.png,Sunderland,38,10,8,20,41,60,-19,38,LWWWW,,5,3,11,21,27,5,5,9,20,33
+15,https://media.api-sports.io/football/teams/66.png,Aston Villa,38,10,8,20,39,61,-22,38,LLWLD,,6,3,10,22,29,4,5,10,17,32
+16,https://media.api-sports.io/football/teams/64.png,Hull City,38,10,7,21,38,53,-15,37,LLLDL,,7,4,8,20,21,3,3,13,18,32
+17,https://media.api-sports.io/football/teams/60.png,West Brom,38,7,15,16,43,59,-16,36,LLLWL,,4,9,6,24,27,3,6,10,19,32
+18,https://media.api-sports.io/football/teams/71.png,Norwich,38,8,9,21,28,62,-34,33,LDLLL,Relegation,6,6,7,17,18,2,3,14,11,44
+19,https://media.api-sports.io/football/teams/36.png,Fulham,38,9,5,24,40,85,-45,32,DLDLW,Relegation,5,3,11,24,38,4,2,13,16,47
+20,https://media.api-sports.io/football/teams/43.png,Cardiff,38,7,9,22,32,74,-42,30,LLLDW,Relegation,5,5,9,20,35,2,4,13,12,39

@@ -1,0 +1,21 @@
+Rank,Logo,Team,MP,W,D,L,GF,GA,GD,Pts,Form,Qualification,Home_wins,Home_draw,Home_lose,Home_goals_for,Home_goals_against,Away_wins,Away_draw,Away_lose,Away_goals_for,Away_goals_against
+1,https://media.api-sports.io/football/teams/529.png,Barcelona,38,30,6,2,95,21,74,96,WDDWL,UEFA Champions League,16,2,1,46,10,14,4,1,49,11
+2,https://media.api-sports.io/football/teams/541.png,Real Madrid,38,29,5,4,102,33,69,92,WWWWL,UEFA Champions League,16,1,2,61,12,13,4,2,41,21
+3,https://media.api-sports.io/football/teams/532.png,Valencia,38,21,8,9,64,44,20,71,WDDWL,UEFA Champions League,10,5,4,34,21,11,3,5,30,23
+4,https://media.api-sports.io/football/teams/533.png,Villarreal,38,18,8,12,54,44,10,62,LLDDW,UEFA Champions League Qualifiers,13,3,3,33,14,5,5,9,21,30
+5,https://media.api-sports.io/football/teams/530.png,Atletico Madrid,38,17,7,14,62,53,9,58,WWLLW,UEFA Europa League,10,3,6,35,20,7,4,8,27,33
+6,https://media.api-sports.io/football/teams/531.png,Athletic Club,38,18,4,16,59,55,4,58,WDLWL,UEFA Europa League,12,1,6,32,20,6,3,10,27,35
+7,https://media.api-sports.io/football/teams/536.png,Sevilla,38,17,7,14,62,61,1,58,WWLLW,,10,4,5,35,27,7,3,9,27,34
+8,https://media.api-sports.io/football/teams/540.png,Espanyol,38,15,4,19,46,55,-9,49,LLDLW,,11,2,6,33,22,4,2,13,13,33
+9,https://media.api-sports.io/football/teams/727.png,Osasuna,38,13,8,17,45,46,-1,47,WLWWW,,10,6,3,28,14,3,2,14,17,32
+10,https://media.api-sports.io/football/teams/731.png,Sporting Gijon,38,11,14,13,35,42,-7,47,DWLDD,,9,6,4,23,16,2,8,9,12,26
+11,https://media.api-sports.io/football/teams/535.png,Malaga,38,13,7,18,54,68,-14,46,LDWWW,,7,3,9,29,29,6,4,9,25,39
+12,https://media.api-sports.io/football/teams/4665.png,Racing Santander,38,12,10,16,41,56,-15,46,LLWWW,,8,6,5,25,21,4,4,11,16,35
+13,https://media.api-sports.io/football/teams/732.png,Zaragoza,38,12,9,17,40,53,-13,45,WWLLW,,9,3,7,26,27,3,6,10,14,26
+14,https://media.api-sports.io/football/teams/539.png,Levante,38,12,9,17,41,52,-11,45,LDDLD,,9,4,6,25,20,3,5,11,16,32
+15,https://media.api-sports.io/football/teams/548.png,Real Sociedad,38,14,3,21,49,66,-17,45,DLWLW,,11,2,6,27,21,3,1,15,22,45
+16,https://media.api-sports.io/football/teams/546.png,Getafe,38,12,8,18,49,60,-11,44,DWLWL,,9,3,7,33,26,3,5,11,16,34
+17,https://media.api-sports.io/football/teams/798.png,Mallorca,38,12,8,18,41,56,-15,44,LLDDL,,9,4,6,25,19,3,4,12,16,37
+18,https://media.api-sports.io/football/teams/544.png,Deportivo La Coruna,38,10,13,15,31,47,-16,43,LDWDL,Relegation,8,6,5,22,19,2,7,10,9,28
+19,https://media.api-sports.io/football/teams/4666.png,Hércules,38,9,8,21,36,60,-24,35,DLDLL,Relegation,7,5,7,27,27,2,3,14,9,33
+20,https://media.api-sports.io/football/teams/723.png,Almeria,38,6,12,20,36,70,-34,30,LWDLL,Relegation,3,10,6,23,35,3,2,14,13,35
