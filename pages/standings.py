@@ -168,7 +168,17 @@ def on_cell_click(active_cell, league, season, rows):
     team = rows[i]["Team"]
 
     yr_selected = int(re.findall(r'\b\d+\b', season)[0])
-    csv_path = DATA / f"{league}_tables" / f"{league}_table_{yr_selected}.csv"
+    prefix = LEAGUE_PREFIX[league]
+    csv_path = DATA / f"{prefix}_tables" / f"{prefix}_table_{yr_selected}.csv"
+
+    if not csv_path.exists():
+        return html.Div(
+            [
+                html.H4("Data not found", style={"color": "crimson"}),
+                html.P(f"Could not find: {csv_path}")
+            ]
+    )
+    
     df = pd.read_csv(csv_path)
     team_index = df[df["Team"] == team].index[0]
 
