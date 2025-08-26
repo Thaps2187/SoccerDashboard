@@ -1,7 +1,11 @@
-import requests
+import requests, os
+from dotenv import load_dotenv
 
-API_KEY = "86e06e06acmsh6f3ca20dc563908p19bdc2jsn2bdcdce00e02"
+load_dotenv()  # read .env file
+
+API_KEY = os.getenv("API_KEY")
 API_HOST = "api-football-v1.p.rapidapi.com"
+
 LEAGUE_ID = 39  # Premier League
 
 def get_available_seasons(league_id):

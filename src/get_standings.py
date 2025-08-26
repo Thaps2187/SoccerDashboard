@@ -1,14 +1,10 @@
 import pandas as pd
-import requests
+import requests, os
+from dotenv import load_dotenv
 
-#################################################################################
-#                                                                               #
-# This library makes an API call to get league tables for a provided            #
-#  League ID and season year, the data is then stored in an CSV file            #
-#                                                                               #
-#################################################################################
+load_dotenv()  # read .env file
 
-API_KEY = "86e06e06acmsh6f3ca20dc563908p19bdc2jsn2bdcdce00e02"
+API_KEY = os.getenv("API_KEY")
 API_HOST = "api-football-v1.p.rapidapi.com"
 
 def get_standings(league_id, season):

@@ -1,6 +1,8 @@
 import requests
 import pandas as pd
 import re, os, time
+from dotenv import load_dotenv
+
 
 #################################################################################
 #                                                                               #
@@ -9,7 +11,9 @@ import re, os, time
 #                                                                               #
 #################################################################################
 
-API_KEY = "86e06e06acmsh6f3ca20dc563908p19bdc2jsn2bdcdce00e02"
+load_dotenv()  # read .env file
+
+API_KEY = os.getenv("API_KEY")
 API_HOST = "api-football-v1.p.rapidapi.com"
 
 def get_fixtures(league_id, season):
