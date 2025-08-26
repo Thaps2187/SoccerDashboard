@@ -11,6 +11,14 @@ dash.register_page(__name__, path="/standings", name="Standings")
 BASE = Path(__file__).resolve().parent.parent   # go up from pages/ to repo root
 DATA = BASE / "data"
 
+LEAGUE_PREFIX = {
+    "EPL": "epl",
+    "LL": "laliga",
+    "SA": "seriea",
+    "BL": "bundesliga",
+    "L1": "ligue1",
+}
+
 def opt(img, value, title):
     return {
         "label": html.Span(
@@ -114,7 +122,18 @@ def update_season_dropdown(league):
 def render_standings(league, season):
     # Loading in the csv league data
     yr_selected = int(re.findall(r'\b\d+\b', season)[0])
-    csv_path = DATA / f"{league}_tables" / f"{league}_table_{yr_selected}.csv"
+    prefix = LEAGUE_PREFIX[league]
+    csv_path = DATA / f"{prefix}_tables" / f"{prefix}_table_{yr_selected}.csv"
+
+    if not csv_path.exists():
+        return html.Div(
+            [
+                html.H4("Data not found", style={"color": "crimson"}),
+                html.P(f"Could not find: {csv_path}")
+            ]
+    )
+
+
     lg_table = pd.read_csv(csv_path)
     d = lg_table.sort_values("Rank")
 
