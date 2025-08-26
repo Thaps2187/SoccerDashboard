@@ -61,7 +61,7 @@ if __name__ == "__main__":
             print(f"No data returned for {season}")
             continue
 
-        # Handle paging (minor addition—keeps your structure)
+        # Handle paging 
         responses = data.get("response", [])
         paging = data.get("paging", {}) or {}
         current = paging.get("current", 1)
