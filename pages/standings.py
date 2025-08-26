@@ -13,10 +13,10 @@ DATA = BASE / "data"
 
 LEAGUE_PREFIX = {
     "EPL": "epl",
-    "LL": "laliga",
-    "SA": "seriea",
-    "BL": "bundesliga",
-    "L1": "ligue1",
+    "LL": "ll",
+    "SA": "sa",
+    "BL": "bl",
+    "L1": "l1",
 }
 
 def opt(img, value, title):
@@ -178,7 +178,7 @@ def on_cell_click(active_cell, league, season, rows):
                 html.P(f"Could not find: {csv_path}")
             ]
     )
-    
+
     df = pd.read_csv(csv_path)
     team_index = df[df["Team"] == team].index[0]
 
