@@ -1,5 +1,8 @@
 from dash import Dash, html, dcc
 import dash
+from dotenv import load_dotenv
+
+load_dotenv() 
 
 app = Dash(__name__, use_pages=True, suppress_callback_exceptions=True)
 server = app.server

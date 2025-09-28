@@ -3,3 +3,10 @@ __pycache__/
 venv/
 .DS_Store
 .env
+soccer.db
+experimental.py
+db_test.py
+*.env
+*.db
+.venv/
+

@@ -4,6 +4,8 @@ import pandas as pd
 import plotly.express as px
 import os, re
 from pathlib import Path
+from sqlalchemy import text
+from src.db import engine 
 
 
 dash.register_page(__name__, path="/standings", name="Standings")
@@ -194,7 +196,53 @@ def on_cell_click(active_cell, league, season, rows):
     
     df_goals = ha.melt(id_vars="ground", value_vars=["scores", "conceded"], 
                        var_name="type", value_name="goals")
+    
+    # Data pulled from sql to plot team goals
+    sql = text("""
+                WITH selected_fixtures AS (
+                SELECT *
+                FROM matches
+                WHERE season_year = :season_year
+                    AND (:team_id = home_team_id OR :team_id = away_team_id)
+                ),
+                m AS (
+                SELECT
+                    CAST(SUBSTR(UPPER(TRIM(match_day)), 3) AS INTEGER) AS rno,
+                    CASE WHEN home_team_id = :team_id THEN home_goals ELSE away_goals END AS gf,
+                    CASE WHEN home_team_id = :team_id THEN away_goals ELSE home_goals END AS ga,
+                    CASE WHEN home_team_id = :team_id THEN away_team_id ELSE home_team_id END AS opp_id
+                FROM selected_fixtures
+                )
+                SELECT m.rno, m.gf, m.ga, t.name AS opponent
+                FROM m
+                JOIN teams t ON t.team_id = m.opp_id
+                ORDER BY m.rno;
+                """)
 
+    with engine.connect() as conn:
+        team_id = conn.execute(text("SELECT team_id FROM teams WHERE name = :name"), {"name": team}).scalar()
+        rows = conn.execute(sql, {"season_year": yr_selected, "team_id": team_id}).fetchall()
+
+    df = pd.DataFrame(rows, columns=["Match Day", "gf", "ga", "Opponent"])
+
+    match_goals = df.melt(
+        id_vars=["Match Day", "Opponent"],
+        value_vars=["gf", "ga"],
+        var_name="f/a",
+        value_name="Goals"
+    )
+
+    match_goals["f/a"] = match_goals["f/a"].map({"gf": "Scored", "ga": "Conceeded"})
+
+    # The creates the team's goals performance through each matchday
+
+    fig_md_goals = px.line(match_goals,
+                            x= "Match Day", 
+                            y= "Goals", 
+                            color= "f/a", markers= True,
+                            hover_data= {"Opponent": True, "Match Day": True, "Goals": False, "f/a": False},
+                            title=f"{team}'s {season} Matchday Goal Performance",)
+    
 
     # This creates a bar graph to demostrate the Team's performance both home and away
     fig_goals = px.bar(data_frame= df_goals, 
@@ -214,6 +262,7 @@ def on_cell_click(active_cell, league, season, rows):
     return html.Div(
         [
             html.H4(f"{team} ({league}, {season})"),
+            html.Div(html.Div(dcc.Graph(figure=fig_md_goals), style={"flex": "1 1 380px", "minWidth": 320})),
             html.Div(
                 [
                     html.Div(dcc.Graph(figure=fig_results), style={"flex": "1 1 380px", "minWidth": 320}),

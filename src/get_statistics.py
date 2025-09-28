@@ -2,15 +2,62 @@ import requests
 import pandas as pd
 import os, time
 from dotenv import load_dotenv
+from sqlalchemy import create_engine, text
 
-load_dotenv()  # read .env file
+load_dotenv(override=True)  # read .env file
+
+stats_sql = text("""
+INSERT INTO match_stats (
+    fixture_id, home_xgoals, away_xgoals, home_corners, away_corners,
+    home_yellow_cards, away_yellow_cards, home_red_cards, away_red_cards, home_shots, away_shots,
+    home_shots_on_goal, away_shots_on_goal, home_gk_saves, away_gk_saves,
+    home_possession, away_possession, home_pass_accuracy, away_pass_accuracy,
+    home_offsides, away_offsides, home_fouls, away_fouls
+) VALUES (
+    :fixture_id, :home_xgoals, :away_xgoals, :home_corners, :away_corners,
+    :home_yellow_cards, :away_yellow_cards, :home_red_cards, :away_red_cards, :home_shots, :away_shots,
+    :home_shots_on_goal, :away_shots_on_goal, :home_gk_saves, :away_gk_saves,
+    :home_possession, :away_possession, :home_pass_accuracy, :away_pass_accuracy,
+    :home_offsides, :away_offsides, :home_fouls, :away_fouls
+)
+ON CONFLICT(fixture_id) DO UPDATE SET
+    home_xgoals        = excluded.home_xgoals,
+    away_xgoals        = excluded.away_xgoals,
+    home_corners       = excluded.home_corners,
+    away_corners       = excluded.away_corners,
+    home_yellow_cards  = excluded.home_yellow_cards,
+    away_yellow_cards  = excluded.away_yellow_cards,
+    home_red_cards     = excluded.home_red_cards,
+    away_red_cards     = excluded.away_red_cards,
+    home_shots         = excluded.home_shots,
+    away_shots         = excluded.away_shots,
+    home_shots_on_goal = excluded.home_shots_on_goal,
+    away_shots_on_goal = excluded.away_shots_on_goal,
+    home_gk_saves      = excluded.home_gk_saves,
+    away_gk_saves      = excluded.away_gk_saves,
+    home_possession    = excluded.home_possession,
+    away_possession    = excluded.away_possession,
+    home_pass_accuracy = excluded.home_pass_accuracy,
+    away_pass_accuracy = excluded.away_pass_accuracy,
+    home_offsides      = excluded.home_offsides,
+    away_offsides      = excluded.away_offsides,
+    home_fouls         = excluded.home_fouls,
+    away_fouls         = excluded.away_fouls;
+""")
+
+empty_stats = text("""INSERT INTO match_stats (fixture_id, has_stats) VALUES (:id, 0)
+                      ON CONFLICT(fixture_id) DO UPDATE SET has_stats=0;"""
+                 )
+
+engine = create_engine("sqlite:////Users/thapeloclement/SoccerDashboard/soccer.db", future=True)
 
 API_KEY = os.getenv("API_KEY")
-API_HOST = "api-football-v1.p.rapidapi.com"
+API_HOST = "v3.football.api-sports.io"
 
 def get_statistics(fixture_id):
 
-    url = f"https://{API_HOST}/v3/fixtures/statistics"
+    url = "https://v3.football.api-sports.io/fixtures/statistics"
+
     headers = {'x-rapidapi-key': API_KEY, 'x-rapidapi-host': API_HOST}
 
     params = {"fixture": fixture_id}
@@ -39,12 +86,14 @@ def parse_statistics(data):
 
     return {
         "fixture_id": data["parameters"]["fixture"],
-        "home_XGoals": find_stat(home["statistics"], "expected_goals"),
-        "away_XGoals": find_stat(away["statistics"], "expected_goals"),
+        "home_xgoals": find_stat(home["statistics"], "expected_goals"),
+        "away_xgoals": find_stat(away["statistics"], "expected_goals"),
         "home_corners": find_stat(home["statistics"], "Corner Kicks"),
         "away_corners": find_stat(away["statistics"], "Corner Kicks"),
         "home_yellow_cards": find_stat(home["statistics"], "Yellow Cards"),
         "away_yellow_cards": find_stat(away["statistics"], "Yellow Cards"),
+        "home_red_cards": find_stat(home["statistics"], "Red Cards"),
+        "away_red_cards": find_stat(away["statistics"], "Red Cards"),
         "home_shots": find_stat(home["statistics"], "Total Shots"),
         "away_shots": find_stat(away["statistics"], "Total Shots"),
         "home_shots_on_goal": find_stat(home["statistics"], "Shots on Goal"),
@@ -62,36 +111,52 @@ def parse_statistics(data):
     }
 
 if __name__ == "__main__":
-    fixtures = pd.read_csv("data/epl_fixtures_2024.csv")
 
-    # Load Existing stats
-    stats_file = "data/epl_stats.csv"
-    if os.path.exists(stats_file):
-        stats_df = pd.read_csv(stats_file)
-        done_ids =set(stats_df["fixture_id"].values)
-    else:
-        stats_df = pd.DataFrame()
-        done_ids = set()
+
+    #Getting fixtures for the from 2015 till 2024 to be used in predictive modelling
+    get_fixture_txt = text(
+        """ 
+        SELECT fixture_id FROM matches
+        WHERE season_year = 2025 AND status = 'FT';
+        """)
     
-    # Filter fixtures without stats
-    pending = fixtures[~fixtures["fixture_id"].isin(done_ids)]
-    print(f"{len(pending)} fixtures without stats")
+    fixtures = engine.connect().execute(get_fixture_txt).scalars().all()
 
-    new_rows = []
+    # # Load Existing stats
+    # stats_file = "data/bundasliga_stats.csv"
+    # if os.path.exists(stats_file):
+    #     stats_df = pd.read_csv(stats_file)
+    #     done_ids =set(stats_df["fixture_id"].values)
+    # else:
+    #     stats_df = pd.DataFrame()
+    #     done_ids = set()
+    
+    match_stats = []
+    #missing_fx = []
 
-    for i, row in pending.head(90).iterrows():          #limiting to 80 calls a day
-        print(f"Fetching stats for {row["fixture_id"]}...")
-        data = get_statistics(row["fixture_id"])
+    for f in fixtures:
+        
+        data = get_statistics(f)
+
+        if (not data) or ("response" not in data) or (len(data["response"]) < 2):
+            missing_fx.append(f)
+            continue
+    
         parsed = parse_statistics(data)
 
         if parsed:
-            new_rows.append(parsed)
+            match_stats.append(parsed)
         
-        time.sleep(15) # To avoid hitting API limits
 
-    if new_rows:
-        new_df = pd.DataFrame(new_rows)
-        final_df = pd.concat([stats_df, new_df], ignore_index=True)
-        final_df.to_csv(stats_file, index=False)
-        print(f"✅ Saved {len(new_rows)} new stats (total {len(final_df)})")
+    #missing_fx = [{"id": i} for i in missing_fx]
+
+    with engine.begin() as conn:
+            conn.execute(stats_sql, match_stats) 
+            #conn.execute(empty_stats, missing_fx)
+
+    # if match_stats:
+    #     new_df = pd.DataFrame(match_stats)
+    #     final_df = pd.concat([stats_df, new_df], ignore_index=True)
+    #     final_df.to_csv(stats_file, index=False)
+    #     print(f"✅ Saved {len(match_stats)} new stats (total {len(final_df)})")
 

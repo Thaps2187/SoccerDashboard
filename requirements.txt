@@ -3,3 +3,6 @@ pandas>=2.0
 plotly>=5.20
 gunicorn>=21.2
 numpy>=1.26
+sqlalchemy>=2.0
+psycopg2-binary
+python-dotenv 
